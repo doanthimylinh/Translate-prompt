@@ -1,4 +1,5 @@
 # Translate prompt
+# Ngôn ngữ không hỗ trợ
  "he", 'he' is not supported
  "nb",  'nb' is not supported
  "pt-BR", 'pt-BR' is not supported
@@ -6,7 +7,7 @@
  "pa",  'pa' is not supported
  "qu", 'qu' is not supported
 
-
+# Danh sách từ viết tắt
 Albanian: 'sq'
 Arabic: 'ar'
 Armenian: 'hy'
