@@ -1,5 +1,5 @@
 # Translate prompt
- 
+
  "he", 'he' is not supported
  "nb",  'nb' is not supported
  "pt-BR", 'pt-BR' is not supported
@@ -7,7 +7,7 @@
  "pa",  'pa' is not supported
  "qu", 'qu' is not supported
 
-# #Từ viết tắt
+
 Albanian: 'sq'
 Arabic: 'ar'
 Armenian: 'hy'
@@ -72,4 +72,3 @@ Uzbek: 'uz'
 Vietnamese (default): 'vi'
 Welsh: 'cy'
 Yiddish: 'yi'
-Zulu: 'zu'
