@@ -1,5 +1,4 @@
 # Translate prompt
-
  "he", 'he' is not supported
  "nb",  'nb' is not supported
  "pt-BR", 'pt-BR' is not supported
