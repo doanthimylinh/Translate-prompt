@@ -30525,7 +30525,7 @@
     "Title": "Помоћник за креирање Тикток скрипти из Иоутубе видеа или из датог чланка - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thời gian video bạn muốn tạo\",\"FieldValue\":null,\"FieldPlaceholder\":\"45s, 60s, 2 phút v.v\",\"FieldOptions\":[{\"OptionLabel\":\"45s\",\"OptionValue\":\"45s\"},{\"OptionLabel\":\" 60s\",\"OptionValue\":\" 60s\"},{\"OptionLabel\":\" 2 phút v.v\",\"OptionValue\":\" 2 phút v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Време за видео који желите да направите\", \"FieldValue\": null, \"FieldPlaceholder\": \"45с, 60с, 2 минута итд\", \"FieldOptions\": [ { \"OptionLabel\": \"45с\", \"OptionValue\": \"45с\" }, { \"OptionLabel\": \"60с\", \"OptionValue\": \"60с\" }, { \"OptionLabel\": \"2 минута итд\", \"OptionValue\": \"2 минута итд\" } ] }]"
   },
   {
     "ID": 21967,
@@ -30537,7 +30537,7 @@
     "Title": "Супер алат који ствара врхунске АИ асистенте",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21973,
@@ -30549,7 +30549,7 @@
     "Title": "Суми - Резимирајте било који чланак, било који видео брзо и једноставно",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21976,
@@ -30561,7 +30561,7 @@
     "Title": "Стручњаци откривају главне тајне [МУСТ ПРОБА]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21978,
@@ -30573,7 +30573,7 @@
     "Title": "Стручњак број 1 за решавање проблема са пет разлога",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22013,
@@ -30585,7 +30585,7 @@
     "Title": "Како користити алат",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22014,
@@ -30597,7 +30597,7 @@
     "Title": "10 софтверских савета за повећање продуктивности",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22025,
@@ -30609,7 +30609,7 @@
     "Title": "Научите ИЕЛТС са тутором Леком!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tieng-anh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22051,
@@ -30621,7 +30621,7 @@
     "Title": "Професионални тренер за развој каријере - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22066,
@@ -30633,7 +30633,7 @@
     "Title": "Тренер за односе",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"moi-quan-he\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22281,
@@ -30657,7 +30657,7 @@
     "Title": "Цлио – Основна анализа портрета купаца 2 (са публиком)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ко је ваша циљна публика?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 22316,
@@ -30669,7 +30669,7 @@
     "Title": "Помоћник за анализу садржаја веб сајта",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22317,
@@ -30681,7 +30681,7 @@
     "Title": "Помоћник за анализу садржаја веб сајта",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22318,
@@ -30693,7 +30693,7 @@
     "Title": "Помоћник за анализу садржаја веб сајта",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22319,
@@ -30705,7 +30705,7 @@
     "Title": "Помоћник за анализу садржаја веб сајта",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22324,
@@ -30717,7 +30717,7 @@
     "Title": "УТБ - Генератор резултата и предности онлајн курсева",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22372,
@@ -30729,7 +30729,7 @@
     "Title": "Тренер вам помаже да научите своје дете, развијете вештине за своје дете",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Đặc điểm bạn muốn phát triển như \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tự giác\\\",\\\"OptionValue\\\":\\\"Tự giác\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết vấn đề\\\",\\\"OptionValue\\\":\\\"Giải quyết vấn đề\\\"},{\\\"OptionLabel\\\":\\\" Tư duy phản biện\\\",\\\"OptionValue\\\":\\\"Tư duy phản biện\\\"},{\\\"OptionLabel\\\":\\\" Ra quyết định\\\",\\\"OptionValue\\\":\\\"Ra quyết định\\\"},{\\\"OptionLabel\\\":\\\" Sáng tạo\\\",\\\"OptionValue\\\":\\\"Sáng tạo\\\"},{\\\"OptionLabel\\\":\\\" Tôn trọng người khác\\\",\\\"OptionValue\\\":\\\"Tôn trọng người khác\\\"},{\\\"OptionLabel\\\":\\\" Trách nhiệm\\\",\\\"OptionValue\\\":\\\"Trách nhiệm\\\"},{\\\"OptionLabel\\\":\\\" Trung thực\\\",\\\"OptionValue\\\":\\\"Trung thực\\\"},{\\\"OptionLabel\\\":\\\" Tốt bụng và thông cảm\\\",\\\"OptionValue\\\":\\\"Tốt bụng và thông cảm\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng giao tiếp\\\",\\\"OptionValue\\\":\\\"Kỹ năng giao tiếp\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết xung đột\\\",\\\"OptionValue\\\":\\\"Giải quyết xung đột\\\"},{\\\"OptionLabel\\\":\\\" Làm việc nhóm\\\",\\\"OptionValue\\\":\\\"Làm việc nhóm\\\"},{\\\"OptionLabel\\\":\\\" Lễ nghi và ứng xử\\\",\\\"OptionValue\\\":\\\"Lễ nghi và ứng xử\\\"},{\\\"OptionLabel\\\":\\\" Quản lý thời gian\\\",\\\"OptionValue\\\":\\\"Quản lý thời gian\\\"},{\\\"OptionLabel\\\":\\\" Tổ chức\\\",\\\"OptionValue\\\":\\\"Tổ chức\\\"},{\\\"OptionLabel\\\":\\\" Quản lý tiền bạc và ngân sách\\\",\\\"OptionValue\\\":\\\"Quản lý tiền bạc và ngân sách\\\"},{\\\"OptionLabel\\\":\\\" Việc nhà\\\",\\\"OptionValue\\\":\\\"Việc nhà\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng học tập\\\",\\\"OptionValue\\\":\\\"Kỹ năng học tập\\\"},{\\\"OptionLabel\\\":\\\" Đọc và viết\\\",\\\"OptionValue\\\":\\\"Đọc và viết\\\"},{\\\"OptionLabel\\\":\\\" Toán học\\\",\\\"OptionValue\\\":\\\"Toán học\\\"},{\\\"OptionLabel\\\":\\\" Tiếng Anh\\\",\\\"OptionValue\\\":\\\"Tiếng Anh\\\"},{\\\"OptionLabel\\\":\\\" Phát triển thể chất\\\",\\\"OptionValue\\\":\\\"Phát triển thể chất\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Особине које желите да развијете\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"добровољно\", \"OptionValue\": \"добровољно\" }, { \"OptionLabel\": \"Решавање проблема\", \"OptionValue\": \"Решавање проблема\" }, { \"OptionLabel\": \"Критичко мишљење\", \"OptionValue\": \"Критичко мишљење\" }, { \"OptionLabel\": \"Донети одлуку\", \"OptionValue\": \"Донети одлуку\" }, { \"OptionLabel\": \"Креативно\", \"OptionValue\": \"Креативно\" }, { \"OptionLabel\": \"Поштујте друге\", \"OptionValue\": \"Поштујте друге\" }, { \"OptionLabel\": \"Одговорност\", \"OptionValue\": \"Одговорност\" }, { \"OptionLabel\": \"Искрено\", \"OptionValue\": \"Искрено\" }, { \"OptionLabel\": \"Љубазан и симпатичан\", \"OptionValue\": \"Љубазан и симпатичан\" }, { \"OptionLabel\": \"Комуникационе вештине\", \"OptionValue\": \"Комуникационе вештине\" }, { \"OptionLabel\": \"Решавање конфликата\", \"OptionValue\": \"Решавање конфликата\" }, { \"OptionLabel\": \"Радна група\", \"OptionValue\": \"Радна група\" }, { \"OptionLabel\": \"Ритуали и понашање\", \"OptionValue\": \"Ритуали и понашање\" }, { \"OptionLabel\": \"Управљање временом\", \"OptionValue\": \"Управљање временом\" }, { \"OptionLabel\": \"Организација\", \"OptionValue\": \"Организација\" }, { \"OptionLabel\": \"Управљање новцем и буџетом\", \"OptionValue\": \"Управљање новцем и буџетом\" }, { \"OptionLabel\": \"Кућни послови\", \"OptionValue\": \"Кућни послови\" }, { \"OptionLabel\": \"Студирање вештине\", \"OptionValue\": \"Студирање вештине\" }, { \"OptionLabel\": \"Читају и пишу\", \"OptionValue\": \"Читају и пишу\" }, { \"OptionLabel\": \"Матх\", \"OptionValue\": \"Матх\" }, { \"OptionLabel\": \"енглески језик\", \"OptionValue\": \"енглески језик\" }, { \"OptionLabel\": \"Физичко побољшање\", \"OptionValue\": \"Физичко побољшање\" } ] }]"
   },
   {
     "ID": 22461,
@@ -30741,7 +30741,7 @@
     "Title": "Супер ЦОДЕР - Кодирајте било шта",
     "Usages": 0,
     "Categories": "[{\"Category\":\"web-development\",\"Community\":\"developper-lap-trinh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22473,
@@ -30753,7 +30753,7 @@
     "Title": "Анализирајте датотеке потенцијалних купаца",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22567,
@@ -30765,7 +30765,7 @@
     "Title": "Анализирајте фајл потенцијалних купаца производа",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22690,
@@ -30777,7 +30777,7 @@
     "Title": "Професионални помоћник за писање е-поште",
     "Usages": 0,
     "Categories": "[{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22707,
@@ -30789,7 +30789,7 @@
     "Title": "Асистент за затварање директне продаје мајстора Ангеле",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22717,
@@ -30801,7 +30801,7 @@
     "Title": "Салли - стручњак за продају који се бави 10 најбољих ситуација одбијања",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22720,
@@ -30813,7 +30813,7 @@
     "Title": "Мајстор асистент да затвори продају број 1 преко телепродаје Ема",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22742,
@@ -30825,7 +30825,7 @@
     "Title": "Професионални пословни тренер",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22751,
@@ -30837,7 +30837,7 @@
     "Title": "Врхунски Тикток помоћник за писање сценарија са сценама",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22797,
@@ -30849,7 +30849,7 @@
     "Title": "Тренер за развој предузетничког тима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22806,
@@ -30861,7 +30861,7 @@
     "Title": "Помоћник за писање говора са 1 кликом",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"su-kien\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22813,
@@ -30873,7 +30873,7 @@
     "Title": "Врхунски асистент за планирање догађаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22833,
@@ -30885,7 +30885,7 @@
     "Title": "ААА Асистент за писање говора са 1 кликом",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22905,
@@ -30897,7 +30897,7 @@
     "Title": "Доер- Помоћник за спровођење плана",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22914,
@@ -30945,7 +30945,7 @@
     "Title": "Асистент за израду нацрта лекција за курсеве/програме обуке - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22951,
@@ -30957,7 +30957,7 @@
     "Title": "УТБ – Алат за креирање садржаја скрипте за 1 видео лекцију [НАСТАВАК]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22969,
@@ -30981,7 +30981,7 @@
     "Title": "[УЛТРА] Помоћник за брзо писање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22983,
@@ -30993,7 +30993,7 @@
     "Title": "Стратези помажу у повећању стопе поврата купаца на куповину (РЕТЕНТИОН)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22991,
@@ -31005,7 +31005,7 @@
     "Title": "Стратег персонализације: Пробој прихода од производа/услуга",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22996,
@@ -31017,7 +31017,7 @@
     "Title": "Тајна за привлачење нових купаца од стратега",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23056,
@@ -31029,7 +31029,7 @@
     "Title": "Стратегија продаје & ампер; МКТ ТМС Куи Нхон за изнајмљивање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23059,
@@ -31041,7 +31041,7 @@
     "Title": "Госпођица Изи - Асистент објашњава проблем на лак начин",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23165,
@@ -31053,7 +31053,7 @@
     "Title": "Пума - Ваш вишејезични помоћник за уређивање и лектуру!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23176,
@@ -31065,7 +31065,7 @@
     "Title": "Софија - асистент за планирање друштвених медија 30 дана",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23190,
@@ -31077,7 +31077,7 @@
     "Title": "Помоћник за креирање занимљивих питања за Фацебоок групе и фан странице: Повећајте интеракцију за своју заједницу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23199,
@@ -31089,7 +31089,7 @@
     "Title": "Софија - Помоћник за друштвене медије: 30 идеја за садржај на друштвеним мрежама како бисте досегли своје клијенте.",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23218,
@@ -31101,7 +31101,7 @@
     "Title": "Креирајте курс",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23221,
@@ -31113,7 +31113,7 @@
     "Title": "Лили - Помоћник за креирање постова на свим платформама друштвених медија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Nền tảng bạn muốn tạo nội dung\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"Facebook\",\"OptionValue\":\"Facebook\"},{\"OptionLabel\":\" Tiktok\",\"OptionValue\":\" Tiktok\"},{\"OptionLabel\":\" Youtube\",\"OptionValue\":\" Youtube\"},{\"OptionLabel\":\" Instagram\",\"OptionValue\":\" Instagram\"},{\"OptionLabel\":\" Twitter\",\"OptionValue\":\" Twitter\"},{\"OptionLabel\":\" Linkedin\",\"OptionValue\":\" Linkedin\"},{\"OptionLabel\":\" Snapchat\",\"OptionValue\":\" Snapchat\"},{\"OptionLabel\":\" Pinterest\",\"OptionValue\":\" Pinterest\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Платформа на којој желите да креирате садржај\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Фејсбук\", \"OptionValue\": \"Фејсбук\" }, { \"OptionLabel\": \"Тикток\", \"OptionValue\": \"Тикток\" }, { \"OptionLabel\": \"ЈуТјуб\", \"OptionValue\": \"ЈуТјуб\" }, { \"OptionLabel\": \"инстаграм\", \"OptionValue\": \"инстаграм\" }, { \"OptionLabel\": \"Твиттер\", \"OptionValue\": \"Твиттер\" }, { \"OptionLabel\": \"Линкедин\", \"OptionValue\": \"Линкедин\" }, { \"OptionLabel\": \"Снапцхат\", \"OptionValue\": \"Снапцхат\" }, { \"OptionLabel\": \"Пинтерест\", \"OptionValue\": \"Пинтерест\" } ] }]"
   },
   {
     "ID": 23232,
@@ -31125,7 +31125,7 @@
     "Title": "Саставите листу од десет дугих кључних речи које се односе на [тему].",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23233,
@@ -31137,7 +31137,7 @@
     "Title": "Саставите листу од десет дугих кључних речи које се односе на [тему].",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23234,
@@ -31149,7 +31149,7 @@
     "Title": "Напишите сценарио за 5-минутни видео о представљању производа",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23318,
@@ -31161,7 +31161,7 @@
     "Title": "Помоћник за креирање наслова",
     "Usages": 0,
     "Categories": "[{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de\",\"Community\":\"seo-blog\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23319,
@@ -31173,7 +31173,7 @@
     "Title": "[Ултра] Тикток скрипта и помоћник за писање описа за АИБ команде",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23320,
@@ -31185,7 +31185,7 @@
     "Title": "[Ултра] - Супер асистент за помоћ при писању садржаја друштвених медија за упите",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23326,
@@ -31197,7 +31197,7 @@
     "Title": "[Ултра] Асистент пише блог о АИБ асистенту",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23328,
@@ -31209,7 +31209,7 @@
     "Title": "Мике - Леан Стартуп Цоацх",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23333,
@@ -31221,7 +31221,7 @@
     "Title": "Пословна мапа за предузетнике са пословним тренером Шарком Мајком",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23347,
@@ -31233,7 +31233,7 @@
     "Title": "АПИ Ревит",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23349,
@@ -31245,7 +31245,7 @@
     "Title": "Оптимизација прихода",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23351,
@@ -31257,7 +31257,7 @@
     "Title": "Креирајте слике",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23391,
@@ -31269,7 +31269,7 @@
     "Title": "[Ултра] Помоћник који ће вам помоћи да побољшате свој брз до професионалне верзије",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23392,
@@ -31281,7 +31281,7 @@
     "Title": "[УЛТРА] Помоћник за креирање Мегапромпт-а од датог упита",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23393,
@@ -31293,7 +31293,7 @@
     "Title": "Тони - Тренер за успех: Освојите било који од својих циљева - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"coach\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23397,
@@ -31305,7 +31305,7 @@
     "Title": "ХР - Стручњак за обуку и развој људских вештина и способности",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23398,
@@ -31317,7 +31317,7 @@
     "Title": "ХР - Стручњак за развој компетенција/вјештина кроз радне активности",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23399,
@@ -31329,7 +31329,7 @@
     "Title": "ХР - Експерт за изградњу и евалуацију оквира људских ресурса",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23410,
@@ -31341,7 +31341,7 @@
     "Title": "ХР - Стручни асистент за писање е-поште за одбијање кандидата",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23411,
@@ -31353,7 +31353,7 @@
     "Title": "ХР - Професионални асистент за запошљавање: 10 питања за кандидате",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23412,
@@ -31365,7 +31365,7 @@
     "Title": "ХР - Помоћник за писање е-порука да честита професионалним кандидатима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23415,
@@ -31377,7 +31377,7 @@
     "Title": "ХР - Професионални асистент за креирање огласа за запошљавање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23416,
@@ -31389,7 +31389,7 @@
     "Title": "ХР - Водич за учлањење помоћника за нове чланове",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23417,
@@ -31401,7 +31401,7 @@
     "Title": "ХР - помоћник за \"лов на главе\" пише мејлове да регрутује и регрутује таленте",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23421,
@@ -31413,7 +31413,7 @@
     "Title": "ХР - Експерт за процену и анализу кандидата са 10 предности и недостатака",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23424,
@@ -31425,7 +31425,7 @@
     "Title": "ХР - Асистент за писање детаљних и тачних описа послова",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23427,
@@ -31437,7 +31437,7 @@
     "Title": "ХР – Стручњаци описују оквир компетенција на скали од 1-5",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23437,
@@ -31449,7 +31449,7 @@
     "Title": "Професионални алат за писање ЦВ-а за освајање послодаваца",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23439,
@@ -31461,7 +31461,7 @@
     "Title": "Професионални алат за писање пропратног писма за освајање послодаваца",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23440,
@@ -31473,7 +31473,7 @@
     "Title": "Анкетар за посао: Припремите се за интервју за посао из снова",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"phong-van\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23463,
@@ -31485,7 +31485,7 @@
     "Title": "Стручњак за писање и оптимизацију процеса за било који посао - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23464,
@@ -31497,7 +31497,7 @@
     "Title": "Алати за цртање дијаграма, процеса, дијаграма користећи Мермаид",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23478,
@@ -31509,7 +31509,7 @@
     "Title": "[КЊИГА] 1 – Помоћник предлаже теме за вашу књигу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Chọn chủ đề bạn muốn viết\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Độc giả bạn hướng đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào đối tượng độc giả hoặc bỏ qua\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\",\"OptionValue\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Изаберите тему о којој желите да пишете\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Ко је ваша циљна публика?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Унесите своју публику или је прескочите\", \"FieldOptions\": [ { \"OptionLabel\": \"Унесите своју публику или је прескочите\", \"OptionValue\": \"Унесите своју публику или је прескочите\" } ] }]"
   },
   {
     "ID": 23479,
@@ -31521,7 +31521,7 @@
     "Title": "[КЊИГА] 2 – Помоћник предлаже детаљне идеје за вашу књигу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23480,
@@ -31545,7 +31545,7 @@
     "Title": "[КЊИГА] 4 - Помоћник за предлагање садржаја и идеја за поглавља књига",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23482,
@@ -31557,7 +31557,7 @@
     "Title": "[КЊИГА] 5 - Помоћник пише садржај поглавља књиге за вас",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23483,
@@ -31569,7 +31569,7 @@
     "Title": "[КЊИГА] 6 - Додајте магију својим поглављима у књизи",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23484,
@@ -31581,7 +31581,7 @@
     "Title": "[КЊИГА] 7 - Помоћник за писање коначне табеле садржаја за књигу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23485,
@@ -31593,7 +31593,7 @@
     "Title": "[КЊИГА] 8 – Асистент пише увод у књигу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23501,
@@ -31605,7 +31605,7 @@
     "Title": "[КЊИГА] 9 - Помоћник за писање Закључка за књигу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23502,
@@ -31617,7 +31617,7 @@
     "Title": "[КЊИГА] 10 - Позивница за промоцију е-књиге помоћник у писању Бесплатно преузимање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23503,
@@ -31629,7 +31629,7 @@
     "Title": "Паметан асистент за планирање рада са Еисенховер Матрик-ом",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23505,
@@ -31641,7 +31641,7 @@
     "Title": "[КЊИГА] 6.1 – Додајте магију у поглавља књиге: Разговор и причање прича",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23506,
@@ -31653,7 +31653,7 @@
     "Title": "[КЊИГА] 5.1 - Нови помоћник за истраживање идеја који ће употпунити ваше поглавље у књизи",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23535,
@@ -31665,7 +31665,7 @@
     "Title": "[КЊИГА] - 5.2: Асистент преписује занимљив и детаљан садржај за било који део књиге",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23540,
@@ -31677,7 +31677,7 @@
     "Title": "Клара - Професионална и врхунска помоћница за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23608,
@@ -31689,7 +31689,7 @@
     "Title": "Помоћник у настави за наставнике",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"nha-giao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23609,
@@ -31701,7 +31701,7 @@
     "Title": "Помоћник у настави за наставнике",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23618,
@@ -31713,7 +31713,7 @@
     "Title": "Адела - Ултимате Фацебоок Адс Вритинг: Дриве Ацтион",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23621,
@@ -31725,7 +31725,7 @@
     "Title": "[УЛТРА] Помоћник пише мегаподатак из дате серије упита",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23690,
@@ -31737,7 +31737,7 @@
     "Title": "Едита - Ултимативни помоћник за обраду текста: Трансформација текста",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23703,
@@ -31749,7 +31749,7 @@
     "Title": "Фацебоок објава са емоџијима",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23704,
@@ -31761,7 +31761,7 @@
     "Title": "Фацебоок објава са емоџијима",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23705,
@@ -31773,7 +31773,7 @@
     "Title": "Фацебоок објава са емоџијима",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23731,
@@ -31785,7 +31785,7 @@
     "Title": "Учите кинески сваки дан уз Зеца Ту Зи",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23740,
@@ -31797,7 +31797,7 @@
     "Title": "Научите енглески речник",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23771,
@@ -31809,7 +31809,7 @@
     "Title": "ЦареерГПТ: Специјалиста за студентску каријеру - Осветлите своју будућност",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23805,
@@ -31821,7 +31821,7 @@
     "Title": "ЦареерГПТ: Професионална оријентација за радне људе",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23823,
@@ -31833,7 +31833,7 @@
     "Title": "Едита - Врхунски асистент за обраду текста: Аутоматско издвајање података",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23887,
@@ -31845,7 +31845,7 @@
     "Title": "Сатима - Врхунски асистент за анализу расположења купаца - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23889,
@@ -31857,7 +31857,7 @@
     "Title": "[УЛТРА] Помоћник да напише опис погодности за АИВА виртуелне помоћнике",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23890,
@@ -31869,7 +31869,7 @@
     "Title": "[УЛТРА] Анализирајте предности, трошкове и уштеђено време за 1 АИВА најбољег асистента",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23940,
@@ -31881,7 +31881,7 @@
     "Title": "Елла - Супер асистент за интеракцију и одговарање на клијенте - Брига о купцима пре и после продаје",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23943,
@@ -31893,7 +31893,7 @@
     "Title": "Елла – Супер помоћник за интеракцију и одговарање на клијенте – Верзија након продаје",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23944,
@@ -31905,7 +31905,7 @@
     "Title": "Елла - Супер асистент за интеракцију и одговарање на клијенте - верзија за претпродају",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23987,
@@ -31917,7 +31917,7 @@
     "Title": "Петалиа Ангел - Да сваки дан буде позитиван, миран и инспиративан",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23998,
@@ -31929,7 +31929,7 @@
     "Title": "[Ултра] помоћник даје демо сценарије АИВА помоћницима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24003,
@@ -31941,7 +31941,7 @@
     "Title": "Директор е-трговине",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24004,
@@ -31953,7 +31953,7 @@
     "Title": "Директор задужен за МКТ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24005,
@@ -31965,7 +31965,7 @@
     "Title": "Менаџер маркетинга предузећа",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24066,
@@ -31977,7 +31977,7 @@
     "Title": "Рапорта - Моћан помоћник за креирање професионалних извештаја из било којих података",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24072,
@@ -31989,7 +31989,7 @@
     "Title": "Рапорта - Моћан помоћник за креирање професионалних извештаја - налепите верзију и покрените",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24091,
@@ -32001,7 +32001,7 @@
     "Title": "СЕО Гуру - Врхунски стручњак за СЕО планирање, садржај и истраживање кључних речи - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24105,
@@ -32013,7 +32013,7 @@
     "Title": "СЕО Гуру - Врхунски стручњак за истраживање кључних речи (50 резултата)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24106,
@@ -32025,7 +32025,7 @@
     "Title": "СЕО Гуру - 1. Експерт за истраживање дугорепних кључних речи - Лонгтаил кључне речи",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24107,
@@ -32037,7 +32037,7 @@
     "Title": "СЕО Гуру - 2. Истраживање кључних речи сродних стручњака (синоним...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24108,
@@ -32049,7 +32049,7 @@
     "Title": "СЕО Гуру - 3. Врхунски стручњак за истраживање кључних речи користећи ЛСИ и НЛП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24109,
@@ -32061,7 +32061,7 @@
     "Title": "СЕО Гуру - 4. Врхунски стручњак за истраживање кључних речи Предложени наслов",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24112,
@@ -32073,7 +32073,7 @@
     "Title": "СЕО Гуру - 5. Стручно истраживање кључних речи: Честа питања и СЕО Сило",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24131,
@@ -32121,7 +32121,7 @@
     "Title": "Рапорта, моћан асистент који претвара податке у професионалне извештаје",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24152,
@@ -32133,7 +32133,7 @@
     "Title": "Тина - Напишите наслов, верзију са именом производа",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tên thương hiệu của sản phẩm/ dịch vụ của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Назив бренда вашег производа/услуге\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 24167,
@@ -32145,7 +32145,7 @@
     "Title": "Вал - Врхунски асистент за писање кратких видео снимака за Тикток/Иоутубе/Реелс",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24173,
@@ -32157,7 +32157,7 @@
     "Title": "Вал - Вирални асистент за писање кратких видео скрипти за Тикток/Иоутубе/Реелс из доступног садржаја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24181,
@@ -32169,7 +32169,7 @@
     "Title": "Тони - Инспиративни стручњак: 30 инспиративних цитата за вас и ваш тим",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24182,
@@ -32181,7 +32181,7 @@
     "Title": "Цлара - Супер професионални асистент за преписивање садржаја - СЕО оптимизована верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24195,
@@ -32193,7 +32193,7 @@
     "Title": "Елла - Супер асистент за интеракцију и одговарање на клијенте - Одговарајте на многа питања одједном",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24200,
@@ -32205,7 +32205,7 @@
     "Title": "Главни тренер продаје са 15 стратегија за вас",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24298,
@@ -32217,7 +32217,7 @@
     "Title": "Сатима - Врхунски асистент за анализу расположења купаца - залепите верзију и покрените",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24308,
@@ -32229,7 +32229,7 @@
     "Title": "Вал - Врхунски асистент за видео скрипте за Тикток/Иоутубе/Реелс са публиком",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24315,
@@ -32241,7 +32241,7 @@
     "Title": "Сузи - Стручњак број 1 који ће вам помоћи да достигнете милион пратилаца на свим платформама друштвених медија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24325,
@@ -32253,7 +32253,7 @@
     "Title": "Софија - Асистент за креирање 30 идеја садржаја за Тикток, Иоутубе, Инстаграм, Фацебоок...",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24348,
@@ -32265,7 +32265,7 @@
     "Title": "Промо - Експерт предлаже 15 најбољих стратегија промоције - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24400,
@@ -32277,7 +32277,7 @@
     "Title": "ПМХ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24428,
@@ -32301,7 +32301,7 @@
     "Title": "Артица - Ефикасан асистент за преписивање садржаја новина и чланака за уреднике/блогере",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24434,
@@ -32313,7 +32313,7 @@
     "Title": "Артица - Моћан помоћник за преписивање садржаја новина и чланака у НОВОМ СТИЛУ за уреднике/блогере",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24435,
@@ -32325,7 +32325,7 @@
     "Title": "Артица - Помоћник за преписивање садржаја новина и чланака, верзија користећи Линк и додатак",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24438,
@@ -32337,7 +32337,7 @@
     "Title": "Артица - Помоћник за писање новина и чланака, на основу датих кључних речи и информација",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24439,
@@ -32349,7 +32349,7 @@
     "Title": "Артица - Помоћник за писање новина и чланака, на основу датих кључних речи и информација, СЕО верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24442,
@@ -32361,7 +32361,7 @@
     "Title": "Артица - Помоћник за преписивање новина и чланака за уреднике/блогере, СЕО верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24480,
@@ -32373,7 +32373,7 @@
     "Title": "Помоћник за проналажење спонзора/оглашивача за веб локацију, потребан је ГПТ 4",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24585,
@@ -32385,7 +32385,7 @@
     "Title": "Екела - Екцел помоћник, конвертује и обрађује податке цсв, ткт датотеке у табеларни облик",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24591,
@@ -32397,7 +32397,7 @@
     "Title": "ЛегаКс - Специјалиста за израду мултинационалних професионалних уговора/уговора",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24592,
@@ -32409,7 +32409,7 @@
     "Title": "ЛегаКс - Стручни стручњак за израду уговора/уговора, Вијетнам",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24593,
@@ -32421,7 +32421,7 @@
     "Title": "[УЛТРА] Екела - Екцел помоћник, пренос и обрада података за АИВА",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24612,
@@ -32433,7 +32433,7 @@
     "Title": "Екела - Помоћник за аутоматску класификацију података",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24620,
@@ -32445,7 +32445,7 @@
     "Title": "СлидеГПТ - помоћник за креирање професионалних и атрактивних Поверпоинт презентација",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24625,
@@ -32457,7 +32457,7 @@
     "Title": "СлидеГПТ – Помоћник за креирање Поверпоинт презентације, верзија за лепљење садржаја или линк",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24737,
@@ -32469,7 +32469,7 @@
     "Title": "Маки - савети о стилу шминкања који вас терају да освојите сваки угао",
     "Usages": 0,
     "Categories": "[{\"Category\":\"lam-dep\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24738,
@@ -32481,7 +32481,7 @@
     "Title": "Млеко – стручњак за писање подсетника за поља",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24741,
@@ -32493,7 +32493,7 @@
     "Title": "Оптима - Кс2 продуктивност са правилима 80/20 (Парето)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24743,
@@ -32505,7 +32505,7 @@
     "Title": "Нумеро - Ваш стручњак за нумерологију (индикатор животног пута, судбина, душа...) (препоручује се ГПТ4)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"date\\\",\\\"FieldLabel\\\":\\\"Nhập vào ngày tháng năm sinh của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"date\", \"FieldLabel\": \"Унесите свој датум рођења\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 25403,
@@ -32517,7 +32517,7 @@
     "Title": "Помоћник за писање описа производа: препишите стари опис на привлачнији",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tên sản phẩm của bạn\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Назив вашег производа\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 26054,
@@ -32529,7 +32529,7 @@
     "Title": "ЛеадМак - Привуците потенцијалне купце идејама за мамац, оловним магнетом",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26111,
@@ -32541,7 +32541,7 @@
     "Title": "А [ПРОМПТ]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"data\",\"Community\":\"developper-lap-trinh\"},{\"Category\":\"developper-lap-trinh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26241,
@@ -32553,7 +32553,7 @@
     "Title": "Квота - Професионалан и брз помоћник за креирање понуде",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26280,
@@ -32565,7 +32565,7 @@
     "Title": "Пума - Ефикасан асистент за лектуру",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26298,
@@ -32577,7 +32577,7 @@
     "Title": "ЕмаилПро - Повећајте стопе отварања е-поште за маркетиншке кампање е-поште",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26302,
@@ -32589,7 +32589,7 @@
     "Title": "ЕмаилПро – Професионална стратегија за прављење листе (направи листу потенцијалних купаца)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26315,
@@ -32601,7 +32601,7 @@
     "Title": "Фацебоок Адс",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26317,
@@ -32613,7 +32613,7 @@
     "Title": "Фацебоок Адс",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26319,
@@ -32625,7 +32625,7 @@
     "Title": "Рекламирајте породицу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26321,
@@ -32637,7 +32637,7 @@
     "Title": "Рекламирајте породицу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26356,
@@ -32649,7 +32649,7 @@
     "Title": "[УЛТРА] Направите врхунски видео скрипт за АИВА асистента",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26365,
@@ -32661,7 +32661,7 @@
     "Title": "Едита - Помоћник за обраду текста: Користи се аутоматско издвајање података, пасте верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26391,
@@ -32673,7 +32673,7 @@
     "Title": "Ланда - Врхунски помоћник за креирање одредишне странице, ПРО верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26471,
@@ -32685,7 +32685,7 @@
     "Title": "ТиктокПРО - Стручњак за писање драмских сценарија за Тикток",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26473,
@@ -32697,7 +32697,7 @@
     "Title": "ТиктокПРО - Помоћник за 20 идеја за ДРАМА скрипте",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26490,
@@ -32709,7 +32709,7 @@
     "Title": "ДирецторПРО - професионални филмски режисер за Тикток, Иоутубе, ТВЦ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26493,
@@ -32721,7 +32721,7 @@
     "Title": "[УЛТРА] АИВА помоћник за писање према датим упутствима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26500,
@@ -32733,7 +32733,7 @@
     "Title": "АцтингПРО - вд директора за професионалне глумце за Тикток, Иоутубе, ТВЦ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26503,
@@ -32745,7 +32745,7 @@
     "Title": "МусицПРО - Помоћник за писање музике - Претворите свој садржај у мелодије",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26508,
@@ -32757,7 +32757,7 @@
     "Title": "МусицПРО: Помоћник композитора који оживљава ваш сценарио",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26511,
@@ -32769,7 +32769,7 @@
     "Title": "СонгПРО - Професионални асистент за писање песама са само 1 кликом",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Sắc thái của bài hát?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Auto\\\",\\\"OptionValue\\\":\\\"Auto\\\"},{\\\"OptionLabel\\\":\\\" Happy\\\",\\\"OptionValue\\\":\\\"Happy\\\"},{\\\"OptionLabel\\\":\\\" Sad\\\",\\\"OptionValue\\\":\\\"Sad\\\"},{\\\"OptionLabel\\\":\\\" Angry\\\",\\\"OptionValue\\\":\\\"Angry\\\"},{\\\"OptionLabel\\\":\\\" Calm\\\",\\\"OptionValue\\\":\\\"Calm\\\"},{\\\"OptionLabel\\\":\\\" Excited\\\",\\\"OptionValue\\\":\\\"Excited\\\"},{\\\"OptionLabel\\\":\\\" Romantic\\\",\\\"OptionValue\\\":\\\"Romantic\\\"},{\\\"OptionLabel\\\":\\\" Positive\\\",\\\"OptionValue\\\":\\\"Positive\\\"},{\\\"OptionLabel\\\":\\\" Nostalgic\\\",\\\"OptionValue\\\":\\\"Nostalgic\\\"},{\\\"OptionLabel\\\":\\\" Inspirational\\\",\\\"OptionValue\\\":\\\"Inspirational\\\"},{\\\"OptionLabel\\\":\\\" Empowering\\\",\\\"OptionValue\\\":\\\"Empowering\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bài hát này viết cho đối tượng nào?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tất cả\\\",\\\"OptionValue\\\":\\\"Tất cả\\\"},{\\\"OptionLabel\\\":\\\" Người lớn\\\",\\\"OptionValue\\\":\\\"Người lớn\\\"},{\\\"OptionLabel\\\":\\\" Trẻ con\\\",\\\"OptionValue\\\":\\\"Trẻ con\\\"},{\\\"OptionLabel\\\":\\\" Teen\\\",\\\"OptionValue\\\":\\\"Teen\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Нијанса песме?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ауто\", \"OptionValue\": \"ауто\" }, { \"OptionLabel\": \"Срећна\", \"OptionValue\": \"Срећна\" }, { \"OptionLabel\": \"Сад\", \"OptionValue\": \"Сад\" }, { \"OptionLabel\": \"Љут\", \"OptionValue\": \"Љут\" }, { \"OptionLabel\": \"Мирно\", \"OptionValue\": \"Мирно\" }, { \"OptionLabel\": \"Узбуђен\", \"OptionValue\": \"Узбуђен\" }, { \"OptionLabel\": \"Романтичан\", \"OptionValue\": \"Романтичан\" }, { \"OptionLabel\": \"Позитивно\", \"OptionValue\": \"Позитивно\" }, { \"OptionLabel\": \"Носталгично\", \"OptionValue\": \"Носталгично\" }, { \"OptionLabel\": \"Инспиративно\", \"OptionValue\": \"Инспиративно\" }, { \"OptionLabel\": \"Оснаживање\", \"OptionValue\": \"Оснаживање\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"За кога је ова песма написана?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Све\", \"OptionValue\": \"Све\" }, { \"OptionLabel\": \"Адулт\", \"OptionValue\": \"Адулт\" }, { \"OptionLabel\": \"Деца\", \"OptionValue\": \"Деца\" }, { \"OptionLabel\": \"Теен\", \"OptionValue\": \"Теен\" } ] }]"
   },
   {
     "ID": 26522,
@@ -32781,7 +32781,7 @@
     "Title": "МусицПРО - Музички асистент из текстова",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26534,
@@ -32793,7 +32793,7 @@
     "Title": "МонтхлиПланнер - Направите савршен маркетиншки план за месец",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26543,
@@ -32805,7 +32805,7 @@
     "Title": "МонтхлиПланнер - Направите савршен план продаје за месец, ТИМ верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26547,
@@ -32817,7 +32817,7 @@
     "Title": "ПрессКс - Професионални асистент за саопштење за јавност (Саопштење за јавност)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26558,
@@ -32829,7 +32829,7 @@
     "Title": "СалесПланнер - Израда Б2Ц плана продаје за квартал, годину, први део",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26562,
@@ -32841,7 +32841,7 @@
     "Title": "Планер продаје – Израда Б2Ц плана продаје за квартал, годину, 2. део – Одржавање и раст",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26564,
@@ -32853,7 +32853,7 @@
     "Title": "СалесПланнер – Израда Б2Ц плана продаје за квартал, годину, 3. део: Евалуација и мерење",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26574,
@@ -32865,7 +32865,7 @@
     "Title": "Б2Б планер продаје - Израда Б2Б плана продаје за квартал, годину, први део",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"saas-kinh-doanh\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26576,
@@ -32877,7 +32877,7 @@
     "Title": "Б2Б планер продаје – Израда Б2Б плана продаје, 2. део: Проналажење купаца",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26578,
@@ -32889,7 +32889,7 @@
     "Title": "Б2Б планер продаје – Изградња Б2Б плана продаје, део 3: Развој тима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26583,
@@ -32901,7 +32901,7 @@
     "Title": "Б2Б планер продаје – Изградња Б2Б плана продаје, део 4: Евалуација, предвиђање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26603,
@@ -32913,7 +32913,7 @@
     "Title": "ТиктокПРО - Врхунски Тикток помоћник за скриптирање (поделите знање)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26607,
@@ -32925,7 +32925,7 @@
     "Title": "ТиктокПРО - Креирајте врхунски видео скрипту за преглед производа",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26609,
@@ -32937,7 +32937,7 @@
     "Title": "ТиктокПРО - Тикток жанр помоћника за скриптирање ИЗАЗОВ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26611,
@@ -32949,7 +32949,7 @@
     "Title": "ТиктокПРО - Помоћник за 20 идеја за видео снимке ИЗАЗОВА",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26618,
@@ -32961,7 +32961,7 @@
     "Title": "ТиктокПРО - Тикток помоћник за скриптовање, Иоутубе ВЛОГ жанр",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26671,
@@ -32973,7 +32973,7 @@
     "Title": "ДРАФТ - Текст упита укључујући чувар места [ТАРГЕТЛАНГУАГЕ] или [ПРОМПТ] се аутоматски замењује са АИБестПромптс",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26676,
@@ -32985,7 +32985,7 @@
     "Title": "Елла 37- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Који су ваши производи и услуге?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Који су ваши производи и услуге?\", \"FieldOptions\": [ { \"OptionValue\": \"Који су ваши производи и услуге?\" } ] }]"
   },
   {
     "ID": 26679,
@@ -32997,7 +32997,7 @@
     "Title": "Елла 37- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26682,
@@ -33009,7 +33009,7 @@
     "Title": "Елла 37- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26685,
@@ -33021,7 +33021,7 @@
     "Title": "Елла 37- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26688,
@@ -33033,7 +33033,7 @@
     "Title": "Елла 37- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26698,
@@ -33045,7 +33045,7 @@
     "Title": "11- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26702,
@@ -33057,7 +33057,7 @@
     "Title": "112- Супер помоћник за интеракцију и одговарање на клијенте - Вер постпродаја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26807,
@@ -33069,7 +33069,7 @@
     "Title": "Извршилац – Помоћник за имплементацију плана са додељеним КПИ – Претворите стратегију у акцију",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26828,
@@ -33081,7 +33081,7 @@
     "Title": "Помоћник за писање чланака за промоцију производа укључујући атрактивне ФАБ, ФАС, 4Ц, БАБ стилове",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26886,
@@ -33093,7 +33093,7 @@
     "Title": "ТиктокПРО - Тикток стручњаци деле основне тајне за изградњу Тикток канала",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26893,
@@ -33105,7 +33105,7 @@
     "Title": "ТиктокПРО - Стручњаци Тикток Схоп-а вас воде о кршењу правила на Тикток Схоп-у",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26895,
@@ -33117,7 +33117,7 @@
     "Title": "ТиктокПРО - Помоћник за 20 идеја за Уради сам (уради сам) видео записе",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26899,
@@ -33129,7 +33129,7 @@
     "Title": "ТиктокПРО - Тикток помоћник за скриптирање Уради сам (уради сам)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26905,
@@ -33141,7 +33141,7 @@
     "Title": "ТиктокПРО - Врхунски стручњак за обуку вештина уживо",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26955,
@@ -33153,7 +33153,7 @@
     "Title": "[ГПТ4] Предложите 10 видео идеја на основу дате Иоутубе линка, потребан вам је додатак",
     "Usages": 0,
     "Categories": "[{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26964,
@@ -33165,7 +33165,7 @@
     "Title": "[ГПТ4] Сумирајте било који Иоутубе видео са само 1 кликом",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26968,
@@ -33177,7 +33177,7 @@
     "Title": "[ГПТ4] Алат за сумирање пдф и ворд датотека на мрежи",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26971,
@@ -33189,7 +33189,7 @@
     "Title": "[ГПТ4] Алат за издвајање текстуалних података из слика, претварање слика у текст",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26973,
@@ -33201,7 +33201,7 @@
     "Title": "Лотус Фацебоок огласи",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26989,
@@ -33213,7 +33213,7 @@
     "Title": "ТиктокПРО - Стручњаци воде кршења која треба избегавати у Тикток Ливестреам смерницама",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27004,
@@ -33225,7 +33225,7 @@
     "Title": "ТиктокПРО - Тикток помоћник за скриптовање у жанру подкаста",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27037,
@@ -33237,7 +33237,7 @@
     "Title": "ТиктокПРО - Тикток помоћник за писање скрипти, жанр Талксхов Иоутубе",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27043,
@@ -33249,7 +33249,7 @@
     "Title": "АИТутор, АИ тутор који вам помаже да савладате и научите било коју тему",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27047,
@@ -33261,7 +33261,7 @@
     "Title": "Мелла - Ефикасан асистент за писање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27060,
@@ -33273,7 +33273,7 @@
     "Title": "[УЛТРА] Пример демо података за брз и очекивани резултат",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27069,
@@ -33285,7 +33285,7 @@
     "Title": "ТиктокПРО - Експерт за изградњу Тикток канала у наредних 12 месеци",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27078,
@@ -33297,7 +33297,7 @@
     "Title": "ТиктокПРО - 30-дневни асистент за планирање за ваш Тикток канал",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27087,
@@ -33309,7 +33309,7 @@
     "Title": "Роса – примените ефикасну стратегију са алокатором ресурса",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27093,
@@ -33321,7 +33321,7 @@
     "Title": "КПИПро – стручњак за мерење КПИ учинка за вашу стратегију, план",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27096,
@@ -33333,7 +33333,7 @@
     "Title": "Цлара 212 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27097,
@@ -33345,7 +33345,7 @@
     "Title": "Цлара 212ек43 - Супер професионална и врхунска помоћница за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sdfsdf\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"sdfdsf\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"sdfdsf\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"сдфсдф\", \"FieldValue\": null, \"FieldPlaceholder\": \"сдфдсф\", \"FieldOptions\": [ { \"OptionValue\": \"сдфдсф\" } ] }]"
   },
   {
     "ID": 27099,
@@ -33357,7 +33357,7 @@
     "Title": "Цлара 212 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào \",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27119,
@@ -33369,7 +33369,7 @@
     "Title": "Цлара 213 - Професионални и врхунски асистент за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27121,
@@ -33381,7 +33381,7 @@
     "Title": "Цлара 21423 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27138,
@@ -33393,7 +33393,7 @@
     "Title": "Артица - Помоћник за прикупљање вести из много различитих извора веза",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27141,
@@ -33405,7 +33405,7 @@
     "Title": "Артица – АИ редакција која помаже у вођењу примене садржаја из тема",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27143,
@@ -33417,7 +33417,7 @@
     "Title": "Артица - Сапо помоћник за писање (цхапеау) и предложене ознаке за чланке",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27150,
@@ -33429,7 +33429,7 @@
     "Title": "Адела -Пишите Фацебоок огласе према КОНЦЕПТ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Khách hàng tiềm năng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Thương hiệu của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn công thức bạn muốn viết\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" PAS (Vấn đề, Kích thích, Giải pháp)\\\",\\\"OptionValue\\\":\\\"PAS (Problem, Agitate, Solution)\\\"},{\\\"OptionLabel\\\":\\\" AIDA (Sự chú ý, Sự quan tâm, Sự khao khát, Hành động)\\\",\\\"OptionValue\\\":\\\"AIDA (Attention, Interest, Desire, Action)\\\"},{\\\"OptionLabel\\\":\\\" BAB (Trước, Sau, Cầu nối)\\\",\\\"OptionValue\\\":\\\"BAB (Before, After, Bridge)\\\"},{\\\"OptionLabel\\\":\\\" FAB (Tính năng, Lợi ích, Đặc điểm)\\\",\\\"OptionValue\\\":\\\"FAB (Features, Advantages, Benefits)\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Потенцијални купци на које циљате\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Који је ваш бренд?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Изаберите формулу коју желите да напишете\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ПАС (проблем, подстицај, решење)\", \"OptionValue\": \"ПАС (проблем, узнемиреност, решење)\" }, { \"OptionLabel\": \"АИДА (пажња, интересовање, жеља, акција)\", \"OptionValue\": \"АИДА (пажња, интересовање, жеља, акција)\" }, { \"OptionLabel\": \"БАБ (пре, после, мост)\", \"OptionValue\": \"БАБ (пре, после, мост)\" }, { \"OptionLabel\": \"ФАБ (карактеристике, предности, карактеристике)\", \"OptionValue\": \"ФАБ (карактеристике, предности, предности)\" } ] }]"
   },
   {
     "ID": 27195,
@@ -33441,7 +33441,7 @@
     "Title": "СлидеПитцх - помоћник за креирање атрактивних продајних презентација",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27198,
@@ -33453,7 +33453,7 @@
     "Title": "Цлара - Реврите асистент проширује дужи садржај, једноставна верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tac-gia\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27244,
@@ -33465,7 +33465,7 @@
     "Title": "[ГПТ4] Помоћник за агрегатор вести: сумира садржај са линкова на чланак",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27260,
@@ -33477,7 +33477,7 @@
     "Title": "Артица - Ваш помоћник за писање блога о маркетингу производа",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27263,
@@ -33489,7 +33489,7 @@
     "Title": "Артица – Ваш помоћник за писање блога за маркетинг производа, СЕО верзија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27274,
@@ -33501,7 +33501,7 @@
     "Title": "Видо - Предложите 15 видео идеја за Иоутубе/Тикток на основу датог садржаја и сценарија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27279,
@@ -33513,7 +33513,7 @@
     "Title": "Вал - Помоћник за видео скрипте за Тикток/Иоутубе/Реелс - Проблем - Решење",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27289,
@@ -33525,7 +33525,7 @@
     "Title": "АскГПТ - Паметан помоћник за испитивање",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27291,
@@ -33537,7 +33537,7 @@
     "Title": "РолеГПТ - Разговарајте са милијардерима и сјајним људима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Bạn muốn được góp ý, nói chuyện với ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Са ким желите да се консултујете, разговарате?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27326,
@@ -33549,7 +33549,7 @@
     "Title": "ЕстатеГПТ - Професионални писац пројеката за некретнине",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27363,
@@ -33561,7 +33561,7 @@
     "Title": "Виви - Помоћник за поделу садржаја на 2 дела за видео Тикток, Реелс",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27367,
@@ -33573,7 +33573,7 @@
     "Title": "АгриБот - Стручни водич за узгој свих врста биљака",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27370,
@@ -33585,7 +33585,7 @@
     "Title": "АниБот - Стручњак за узгој и негу стоке и живине",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27401,
@@ -33597,7 +33597,7 @@
     "Title": "[ГПТ4] Паметни помоћник за дијаграмирање (графикон, дијаграм тока...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27459,
@@ -33609,7 +33609,7 @@
     "Title": "Сали - стручњак за одбијање за 1 питање, продајна ситуација",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Sản phẩm, dịch vụ của bạn là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"Product\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng, hoặc tình huống khách hàng bạn gặp\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Који је ваш производ или услуга?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"Product\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Циљајте купце или ситуације купаца које сретнете\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 27488,
@@ -33621,7 +33621,7 @@
     "Title": "Винебот - Помоћник за писање описа винских производа",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27660,
@@ -33633,7 +33633,7 @@
     "Title": "Суми - Паметан сажетак садржаја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27662,
@@ -33645,7 +33645,7 @@
     "Title": "Суми - Паметан резиме, верзија емоџија",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27674,
@@ -33657,7 +33657,7 @@
     "Title": "ИЗВЕШТАЈ",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27692,
@@ -33669,7 +33669,7 @@
     "Title": "Смешно",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27693,
@@ -33681,7 +33681,7 @@
     "Title": "Смешно",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27695,
@@ -33693,7 +33693,7 @@
     "Title": "Смешно",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28038,
@@ -33705,7 +33705,7 @@
     "Title": "АБЦ 123",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28040,
@@ -33717,7 +33717,7 @@
     "Title": "Елла 372- Супер помоћник за интеракцију и одговарање на клијенте - Вер Афтер Салес",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Који су ваши производи и услуге?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Који су ваши производи и услуге?\", \"FieldOptions\": [ { \"OptionValue\": \"Који су ваши производи и услуге?\" } ] }]"
   },
   {
     "ID": 28042,
@@ -33729,7 +33729,7 @@
     "Title": "АБЦ 1234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28044,
@@ -33741,7 +33741,7 @@
     "Title": "АБЦ 12345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28046,
@@ -33753,7 +33753,7 @@
     "Title": "АБЦ 123456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28048,
@@ -33765,7 +33765,7 @@
     "Title": "АБЦ 234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28050,
@@ -33777,7 +33777,7 @@
     "Title": "АБЦ 345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28052,
@@ -33789,7 +33789,7 @@
     "Title": "АБЦ 3456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28054,
@@ -33801,7 +33801,7 @@
     "Title": "АБЦ Елла 37- Супер помоћник за интеракцију и одговарање на клијенте - Вер постпродаја",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Који су ваши производи и услуге?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Који су ваши производи и услуге?\", \"FieldOptions\": [ { \"OptionValue\": \"Који су ваши производи и услуге?\" } ] }]"
   },
   {
     "ID": 28057,
@@ -33813,7 +33813,7 @@
     "Title": "Цлара 214235 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28061,
@@ -33825,7 +33825,7 @@
     "Title": "Цлара 214235 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28063,
@@ -33837,7 +33837,7 @@
     "Title": "Цлара 21423 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28065,
@@ -33849,7 +33849,7 @@
     "Title": "Цлара 12 - Професионални и врхунски асистент за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28067,
@@ -33861,7 +33861,7 @@
     "Title": "Цлара 12345 6 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Tiêu đề nội dung bạn viết\\\",\\\"OptionValue\\\":\\\"Tiêu đề nội dung bạn viết\\\"},{\\\"OptionLabel\\\":\\\" nhập vào\\\",\\\"OptionValue\\\":\\\" nhập vào\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"Наслов садржаја који пишете, унесите\", \"FieldOptions\": [ { \"OptionLabel\": \"Наслов садржаја који пишете\", \"OptionValue\": \"Наслов садржаја који пишете\" }, { \"OptionLabel\": \"улазни\", \"OptionValue\": \"улазни\" } ] }]"
   },
   {
     "ID": 28069,
@@ -33873,7 +33873,7 @@
     "Title": "Цлара АБЦ 123 - Професионални и врхунски асистент за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28071,
@@ -33885,7 +33885,7 @@
     "Title": "Цлара АБЦ 234 5- Професионални и врхунски асистент за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28073,
@@ -33897,7 +33897,7 @@
     "Title": "АБЦ 567",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567 3\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567 fd\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567 fd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"АБЦ 567\", \"FieldValue\": null, \"FieldPlaceholder\": \"АБЦ 567\", \"FieldOptions\": [ { \"OptionValue\": \"АБЦ 567\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"АБЦ 567 3\", \"FieldValue\": null, \"FieldPlaceholder\": \"АБЦ 567 фд\", \"FieldOptions\": [ { \"OptionValue\": \"АБЦ 567 фд\" } ] }]"
   },
   {
     "ID": 28082,
@@ -33909,7 +33909,7 @@
     "Title": "Господин СИКС, стручњак који ће вам помоћи да донесете паметне одлуке са 6 шешира",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Изаберите шешир који желите да анализирате\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Бели шешир - подаци и стварност\", \"OptionValue\": \"Бели шешир - подаци и стварност\" }, { \"OptionLabel\": \"Црвени шешир - Емоције и интуиција\", \"OptionValue\": \"Црвени шешир - Емоције и интуиција\" }, { \"OptionLabel\": \"Црни шешир - тешкоћа и опасност\", \"OptionValue\": \"Црни шешир - тешкоћа и опасност\" }, { \"OptionLabel\": \"Жути шешир - Позитивне и користи\", \"OptionValue\": \"Жути шешир - Позитивне и користи\" }, { \"OptionLabel\": \"Зелени шешир - Креативност и идеје\", \"OptionValue\": \"Зелени шешир - Креативност и идеје\" }, { \"OptionLabel\": \"Плави шешир – закључак и резиме\", \"OptionValue\": \"Плави шешир – закључак и резиме\" } ] }]"
   },
   {
     "ID": 28088,
@@ -33921,7 +33921,7 @@
     "Title": "",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28096,
@@ -33933,7 +33933,7 @@
     "Title": "Артица - Пишите чланке на блогу да бисте своје производе/услуге упознали са СЕО стандардима",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm, dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm đến\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa bạn muốn SEO\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Који је ваш производ или услуга?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нпр. СкинКс колаген таблете за подмлађивање коже\", \"FieldOptions\": [ { \"OptionValue\": \"нпр. СкинКс колаген таблете за подмлађивање коже\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Ваша циљна публика?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Унесите своју циљну публику\", \"FieldOptions\": [ { \"OptionValue\": \"Унесите своју циљну публику\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Кључна реч коју желите СЕО\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28104,
@@ -33945,7 +33945,7 @@
     "Title": "Пара - Суперлативе Цонтент Ревритинг",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn viết lại như nào?\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\" Viết lại mới\",\"OptionValue\":\"Paraphrasing \"},{\"OptionLabel\":\" Ngắn hơn\",\"OptionValue\":\"Brevity \"},{\"OptionLabel\":\" Dài hơn\",\"OptionValue\":\"Expand \"},{\"OptionLabel\":\" Đơn giản hơn\",\"OptionValue\":\"Simplicity\"},{\"OptionLabel\":\" Chi tiết hơn\",\"OptionValue\":\"Detailing \"},{\"OptionLabel\":\"Tương tác hơn\",\"OptionValue\":\"Engagement \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasion \"},{\"OptionLabel\":\" Thêm dữ liệu\",\"OptionValue\":\"Data \"},{\"OptionLabel\":\" Tinh tế hơn\",\"OptionValue\":\"Sophistication \"},{\"OptionLabel\":\"Chính xác hơn\",\"OptionValue\":\"Accuracy \"},{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"select\",\"FieldLabel\":\"Chọn giọng điệu đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"     null\",\"FieldOptions\":[{\"OptionLabel\":\" Không đổi\",\"OptionValue\":\"Unchanged \"},{\"OptionLabel\":\" Formal\",\"OptionValue\":\"Formalize \"},{\"OptionLabel\":\" Casual\",\"OptionValue\":\"Casualize\"},{\"OptionLabel\":\" Giáo dục\",\"OptionValue\":\"Educational \"},{\"OptionLabel\":\" Hài hước\",\"OptionValue\":\"Humorous \"},{\"OptionLabel\":\" Truyền cảm hứng\",\"OptionValue\":\"Inspirational \"},{\"OptionLabel\":\" Chuyên môn\",\"OptionValue\":\"Authoritative \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Како бисте желели да препишете?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Ново преписивање\", \"OptionValue\": \"Парафразирање\" }, { \"OptionLabel\": \"Краћи\", \"OptionValue\": \"Краткоћа\" }, { \"OptionLabel\": \"Дуже\", \"OptionValue\": \"Проширити\" }, { \"OptionLabel\": \"Једноставније\", \"OptionValue\": \"Једноставност\" }, { \"OptionLabel\": \"Више детаља\", \"OptionValue\": \"Детаилинг\" }, { \"OptionLabel\": \"Више интерактивни\", \"OptionValue\": \"Ангажовање\" }, { \"OptionLabel\": \"Убедити\", \"OptionValue\": \"Убеђивање\" }, { \"OptionLabel\": \"Више података\", \"OptionValue\": \"Подаци\" }, { \"OptionLabel\": \"Префињеније\", \"OptionValue\": \"Софистицираност\" }, { \"OptionLabel\": \"Тачније\", \"OptionValue\": \"Прецизност\" }, { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Изаберите тон пасуса\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Непромењено\", \"OptionValue\": \"Непромењено\" }, { \"OptionLabel\": \"Формално\", \"OptionValue\": \"Формализујте\" }, { \"OptionLabel\": \"Неформалан\", \"OptionValue\": \"Цасуализе\" }, { \"OptionLabel\": \"образовање\", \"OptionValue\": \"образовне\" }, { \"OptionLabel\": \"Шаљив\", \"OptionValue\": \"Шаљив\" }, { \"OptionLabel\": \"Инспире\", \"OptionValue\": \"Инспиративно\" }, { \"OptionLabel\": \"Специјализујте се\", \"OptionValue\": \"Ауторитативан\" } ] }]"
   },
   {
     "ID": 28116,
@@ -33957,7 +33957,7 @@
     "Title": "Тина - Напишите 10 најбољих наслова",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn kiểu tiêu đề bạn muốn viết (khuyến nghị: auto)\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" auto\\\",\\\"OptionValue\\\":\\\"auto \\\"},{\\\"OptionLabel\\\":\\\" listicle\\\",\\\"OptionValue\\\":\\\"listicle \\\"},{\\\"OptionLabel\\\":\\\" how-to\\\",\\\"OptionValue\\\":\\\"how-to \\\"},{\\\"OptionLabel\\\":\\\" inspirational\\\",\\\"OptionValue\\\":\\\"inspirational \\\"},{\\\"OptionLabel\\\":\\\" clickbait\\\",\\\"OptionValue\\\":\\\"clickbait \\\"},{\\\"OptionLabel\\\":\\\" question\\\",\\\"OptionValue\\\":\\\"question \\\"},{\\\"OptionLabel\\\":\\\" guide\\\",\\\"OptionValue\\\":\\\"guide \\\"},{\\\"OptionLabel\\\":\\\" mistakes\\\",\\\"OptionValue\\\":\\\"mistakes \\\"},{\\\"OptionLabel\\\":\\\" secrets/tips\\\",\\\"OptionValue\\\":\\\"secrets/tips \\\"},{\\\"OptionLabel\\\":\\\" comparison\\\",\\\"OptionValue\\\":\\\"comparison \\\"},{\\\"OptionLabel\\\":\\\" review\\\",\\\"OptionValue\\\":\\\"review \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Изаберите стил наслова који желите да напишете (препоручено: аутоматски)\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ауто\", \"OptionValue\": \"ауто\" }, { \"OptionLabel\": \"листицле\", \"OptionValue\": \"листицле\" }, { \"OptionLabel\": \"како да\", \"OptionValue\": \"како да\" }, { \"OptionLabel\": \"инспиративно\", \"OptionValue\": \"инспиративно\" }, { \"OptionLabel\": \"цлицкбаит\", \"OptionValue\": \"цлицкбаит\" }, { \"OptionLabel\": \"питање\", \"OptionValue\": \"питање\" }, { \"OptionLabel\": \"Водич\", \"OptionValue\": \"Водич\" }, { \"OptionLabel\": \"грешке\", \"OptionValue\": \"грешке\" }, { \"OptionLabel\": \"тајне / савете\", \"OptionValue\": \"тајне / савете\" }, { \"OptionLabel\": \"поређење\", \"OptionValue\": \"поређење\" }, { \"OptionLabel\": \"преглед\", \"OptionValue\": \"преглед\" } ] }]"
   },
   {
     "ID": 28123,
@@ -33969,7 +33969,7 @@
     "Title": "БлогПро - Креирајте професионалне нацрте за блогове и чланке",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa, nội dung bạn muốn đưa vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Кључне речи, садржај који желите да укључите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28138,
@@ -33981,7 +33981,7 @@
     "Title": "Извештај Гоогле аналитике",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28154,
@@ -33993,7 +33993,7 @@
     "Title": "ЕссаиГПТ - асистент за писање есеја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"sinh-vien\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần nội dung chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Колико пасуса желите да направите главни део садржаја?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ауто\", \"OptionValue\": \"ауто\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28158,
@@ -34005,7 +34005,7 @@
     "Title": "ЕссаиГПТ - Аргумент помоћник за писање есеја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Колико пасуса желите да направите главно тело?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ауто\", \"OptionValue\": \"ауто\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28161,
@@ -34017,7 +34017,7 @@
     "Title": "ЕссаиГПТ - Помоћник за писање наративних есеја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn phần chính bạn muốn tạo\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Број главних пасуса које желите да направите\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ауто\", \"OptionValue\": \"ауто\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28171,
@@ -34029,7 +34029,7 @@
     "Title": "Пара - помоћник за писање пасуса",
     "Usages": 0,
     "Categories": "[{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Phong cách viết cho đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"auto\",\"OptionValue\":\"auto\"},{\"OptionLabel\":\"formal\",\"OptionValue\":\"formal\"},{\"OptionLabel\":\"informal\",\"OptionValue\":\"informal\"},{\"OptionLabel\":\" Đàm thoại\",\"OptionValue\":\"conversational\"},{\"OptionLabel\":\" Mô tả\",\"OptionValue\":\"Descriptive \"},{\"OptionLabel\":\" Kể chuyện\",\"OptionValue\":\"Narrative \"},{\"OptionLabel\":\" Sáng tạo\",\"OptionValue\":\"Creative \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasive \"},{\"OptionLabel\":\" Có dữ liệu\",\"OptionValue\":\"Statistic \"},{\"OptionLabel\":\" Hướng dẫn\",\"OptionValue\":\"Instruction \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Стил писања пасуса\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ауто\", \"OptionValue\": \"ауто\" }, { \"OptionLabel\": \"формални\", \"OptionValue\": \"формални\" }, { \"OptionLabel\": \"неформални\", \"OptionValue\": \"неформални\" }, { \"OptionLabel\": \"Разговор\", \"OptionValue\": \"разговорни\" }, { \"OptionLabel\": \"Опишите\", \"OptionValue\": \"Дескриптивна\" }, { \"OptionLabel\": \"Причање прича\", \"OptionValue\": \"Наративе\" }, { \"OptionLabel\": \"Креативно\", \"OptionValue\": \"Креативно\" }, { \"OptionLabel\": \"Убедити\", \"OptionValue\": \"Убедљиво\" }, { \"OptionLabel\": \"Постоје подаци\", \"OptionValue\": \"Статистика\" }, { \"OptionLabel\": \"Инструцт\", \"OptionValue\": \"Упутство\" } ] }]"
   },
   {
     "ID": 28174,
@@ -34041,7 +34041,7 @@
     "Title": "Пара - помоћник за писање УВОДА за чланак",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28178,
@@ -34053,7 +34053,7 @@
     "Title": "Пара – помоћник да напише ЗАКЉУЧАК за чланак",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn kêu gọi hành động (CTA) gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Bình luận\\\",\\\"OptionValue\\\":\\\"Comment \\\"},{\\\"OptionLabel\\\":\\\" Đăng ký\\\",\\\"OptionValue\\\":\\\"Subscribe \\\"},{\\\"OptionLabel\\\":\\\" Chia sẻ\\\",\\\"OptionValue\\\":\\\"Share \\\"},{\\\"OptionLabel\\\":\\\" Đọc thêm bài khác\\\",\\\"OptionValue\\\":\\\"Read More \\\"},{\\\"OptionLabel\\\":\\\" Mua sản phẩm\\\",\\\"OptionValue\\\":\\\"Purchase \\\"},{\\\"OptionLabel\\\":\\\" Tải miễn phí\\\",\\\"OptionValue\\\":\\\"Download \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Који позив на акцију (ЦТА) желите?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Коментар\", \"OptionValue\": \"Коментар\" }, { \"OptionLabel\": \"Регистровати\", \"OptionValue\": \"претплатити се\" }, { \"OptionLabel\": \"Објави\", \"OptionValue\": \"Објави\" }, { \"OptionLabel\": \"Прочитајте више чланака\", \"OptionValue\": \"Опширније\" }, { \"OptionLabel\": \"Купи производ\", \"OptionValue\": \"Куповина\" }, { \"OptionLabel\": \"Бесплатно скидање\", \"OptionValue\": \"Преузимање\" } ] }]"
   },
   {
     "ID": 28189,
@@ -34065,7 +34065,7 @@
     "Title": "Мр СИКС 123, стручњак који ће вам помоћи да донесете паметне одлуке са 6 шешира",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"Chọn chiếc mũ bạn muốn phân tích\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"fieldmap\":\"undefined\",\"FieldOptions\":[{\"OptionLabel\":\"Mũ Trắng Dữ liệu và Thực tế\",\"OptionValue\":\"Mũ Trắng Dữ liệu và Thực tế\"},{\"OptionLabel\":\"Đỏ Cảm xúc và Trực giác\",\"OptionValue\":\"Đỏ Cảm xúc và Trực giác\"},{\"OptionLabel\":\" Đen Khó khăn và Nguy hiểm\",\"OptionValue\":\" Đen Khó khăn và Nguy hiểm\"},{\"OptionLabel\":\"Vàng Tích cực và Lợi ích\",\"OptionValue\":\"Vàng Tích cực và Lợi ích\"},{\"OptionLabel\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\",\"OptionValue\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\"},{\"OptionLabel\":\"Mũ Xanh Dương Suy luận và Tổng kết\",\"OptionValue\":\"Mũ Xanh Dương Suy luận và Tổng kết\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Hi\",\"FieldValue\":null,\"FieldPlaceholder\":\"    Hi\",\"fieldmap\":\"company\",\"FieldOptions\":[{\"OptionLabel\":\"   Hi\",\"OptionValue\":\"   Hi\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"textarea\",\"FieldLabel\":\"Three\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Three\",\"fieldmap\":\"address\",\"FieldOptions\":[{\"OptionLabel\":\" Three\",\"OptionValue\":\" Three\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Изаберите шешир који желите да анализирате\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"fieldmap\": \"undefined\", \"FieldOptions\": [ { \"OptionLabel\": \"Подаци о Белом шеширу и стварност\", \"OptionValue\": \"Подаци о Белом шеширу и стварност\" }, { \"OptionLabel\": \"Црвена емоција и интуиција\", \"OptionValue\": \"Црвена емоција и интуиција\" }, { \"OptionLabel\": \"Црно тешко и опасно\", \"OptionValue\": \"Црно тешко и опасно\" }, { \"OptionLabel\": \"Позитивно злато и бенефиције\", \"OptionValue\": \"Позитивно злато и бенефиције\" }, { \"OptionLabel\": \"Зелени шешири Креативност и идеје\", \"OptionValue\": \"Зелени шешири Креативност и идеје\" }, { \"OptionLabel\": \"Закључак и резиме Плавог шешира\", \"OptionValue\": \"Закључак и резиме Плавог шешира\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Здраво\", \"FieldValue\": null, \"FieldPlaceholder\": \"Здраво\", \"fieldmap\": \"company\", \"FieldOptions\": [ { \"OptionLabel\": \"Здраво\", \"OptionValue\": \"Здраво\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"textarea\", \"FieldLabel\": \"Три\", \"FieldValue\": null, \"FieldPlaceholder\": \"Три\", \"fieldmap\": \"address\", \"FieldOptions\": [ { \"OptionLabel\": \"Три\", \"OptionValue\": \"Три\" } ] }]"
   },
   {
     "ID": 28201,
@@ -34077,7 +34077,7 @@
     "Title": "Цлара АБЦ 234 6- Супер професионална и врхунска помоћница за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28203,
@@ -34089,7 +34089,7 @@
     "Title": "Цлара АБЦ 234 65- Професионални и врхунски асистент за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"sdfdsfd dfds \",\"FieldValue\":null,\"FieldPlaceholder\":\"dsf\",\"FieldOptions\":[{\"OptionLabel\":\"dsf\",\"OptionValue\":\"dsf\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"сдфдсфд дфдс\", \"FieldValue\": null, \"FieldPlaceholder\": \"дсф\", \"FieldOptions\": [ { \"OptionLabel\": \"дсф\", \"OptionValue\": \"дсф\" } ] }]"
   },
   {
     "ID": 28217,
@@ -34101,7 +34101,7 @@
     "Title": "Тест [ПРОМПТ]",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sadfsd\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"asd\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"asd\\\",\\\"OptionValue\\\":\\\"asd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"садфсд\", \"FieldValue\": null, \"FieldPlaceholder\": \"асд\", \"FieldOptions\": [ { \"OptionLabel\": \"асд\", \"OptionValue\": \"асд\" } ] }]"
   },
   {
     "ID": 28219,
@@ -34113,7 +34113,7 @@
     "Title": "Цлара АБЦ 123 1666666 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"  rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"рдрт\", \"FieldOptions\": [ { \"OptionLabel\": \"рдрт\", \"OptionValue\": \"рдрт\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"ерте\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ертер\", \"OptionValue\": \"ертер\" }, { \"OptionLabel\": \"ттр\", \"OptionValue\": \"ттр\" } ] }]"
   },
   {
     "ID": 28223,
@@ -34125,7 +34125,7 @@
     "Title": "Цлара АБЦ 123 3666666 - Професионални и врхунски асистент при писању садржаја - ВИП",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"    rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"рдрт\", \"FieldOptions\": [ { \"OptionLabel\": \"рдрт\", \"OptionValue\": \"рдрт\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"ерте\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ертер\", \"OptionValue\": \"ертер\" }, { \"OptionLabel\": \"ттр\", \"OptionValue\": \"ттр\" } ] }]"
   },
   {
     "ID": 28228,
@@ -34137,7 +34137,7 @@
     "Title": "Цлара АБЦ 123 21666666 - Супер професионална и врхунска помоћница за преписивање садржаја - ВИП",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   rdrt\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"rdrt\\\",\\\"OptionValue\\\":\\\"rdrt\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"erte\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"erter\\\",\\\"OptionValue\\\":\\\"erter\\\"},{\\\"OptionLabel\\\":\\\"ttr\\\",\\\"OptionValue\\\":\\\"ttr\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Наслов садржаја који пишете, унесите\", \"FieldValue\": null, \"FieldPlaceholder\": \"рдрт\", \"FieldOptions\": [ { \"OptionLabel\": \"рдрт\", \"OptionValue\": \"рдрт\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"ерте\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"ертер\", \"OptionValue\": \"ертер\" }, { \"OptionLabel\": \"ттр\", \"OptionValue\": \"ттр\" } ] }]"
   },
   {
     "ID": 28239,
@@ -34149,7 +34149,7 @@
     "Title": "Господине Висе, помозите вам да се уздигнете МОЋНИМ ПИТАЊИМА сваког дана",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28284,
@@ -34161,7 +34161,7 @@
     "Title": "Мр Коол - Мајстор флертовања",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-tri\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn Mr Kool:\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"  null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" 1. Chia sẻ bí quyết\\\",\\\"OptionValue\\\":\\\"1. Chia sẻ bí quyết \\\"},{\\\"OptionLabel\\\":\\\" 2. Hỗ trợ 1 tình huống \\\",\\\"OptionValue\\\":\\\"2. Hỗ trợ 1 tình huống \\\"},{\\\"OptionLabel\\\":\\\" 3. Trả lời 1 câu nói\\\",\\\"OptionValue\\\":\\\"3. Trả lời 1 câu nói \\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tình huống bạn gặp là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Cô ấy nói điều gì với bạn?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Mr Kool sẽ giúp bạn trả lời \\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Mr Kool sẽ giúp bạn trả lời \\\"cool\\\" nhất\\\"}]}]\""
+    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn Mr Kool:\",\"FieldValue\":null,\"FieldPlaceholder\":\" null\",\"FieldOptions\":[{\"OptionLabel\":\" 1. Chia sẻ bí quyết\",\"OptionValue\":\"1. Chia sẻ bí quyết \"},{\"OptionLabel\":\" 2. Hỗ trợ 1 tình huống \",\"OptionValue\":\"2. Hỗ trợ 1 tình huống \"},{\"OptionLabel\":\" 3. Trả lời 1 câu nói\",\"OptionValue\":\"3. Trả lời 1 câu nói \"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình huống bạn gặp là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\",\"FieldOptions\":[{\"OptionValue\":\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Cô ấy nói điều gì với bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Mr Kool sẽ giúp bạn trả lời \",\"FieldOptions\":[{\"OptionValue\":\"Mr Kool sẽ giúp bạn trả lời \"cool\" nhất\"}]}]"
   },
   {
     "ID": 28316,
@@ -34209,7 +34209,7 @@
     "Title": "Тина - Напишите 10 наслова за мамце за кликове",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28329,
@@ -34221,7 +34221,7 @@
     "Title": "Суми - интелигентно прилагодљив резиме садржаја",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"number\\\",\\\"FieldLabel\\\":\\\"Số lượng\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại tóm tắt\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ý chính (takeaways), ý (points), đoạn văn, câu\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Tùy chọn Emoji\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Có emoji ở đầu, không có emoji\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"number\", \"FieldLabel\": \"Количина\", \"FieldValue\": null, \"FieldPlaceholder\": \"ауто, 1,2,3,4,5,6,7,8,9,10\", \"FieldOptions\": [ { \"OptionValue\": \"ауто, 1,2,3,4,5,6,7,8,9,10\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Врста резимеа\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionValue\": \"главне идеје (за понети), тачке (тачке), параграфи, реченице\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Емоји опција\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionValue\": \"Са емоџијима на врху, без емоџија\" } ] }]"
   },
   {
     "ID": 28341,
@@ -34245,7 +34245,7 @@
     "Title": "Сониа - 10 тема и идеје за објаве на Твитеру",
     "Usages": 0,
     "Categories": "[{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"twitter\",\"Community\":\"social-media\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28373,
@@ -34257,7 +34257,7 @@
     "Title": "Адела - Најбољи помоћник за писање 10 позива на акцију (ЦТА).",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thương hiệu, tên sản phẩm của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Khách hàng bạn nhắm tới là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn họ có hành động gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"Mua sản phẩm/dịch vụ\",\"OptionValue\":\"Mua sản phẩm/dịch vụ\"},{\"OptionLabel\":\" Tải về\",\"OptionValue\":\" Tải về\"},{\"OptionLabel\":\" Nhận báo giá\",\"OptionValue\":\" Nhận báo giá\"},{\"OptionLabel\":\" Đăng ký kênh và chia sẻ\",\"OptionValue\":\" Đăng ký kênh và chia sẻ\"},{\"OptionLabel\":\" Bình luận\",\"OptionValue\":\" Bình luận\"},{\"OptionLabel\":\" Liên hệ\",\"OptionValue\":\" Liên hệ\"},{\"OptionLabel\":\" Nhận ưu đãi\",\"OptionValue\":\" Nhận ưu đãi\"}]},{\"FieldID\":\"FIELD4\",\"FieldType\":\"text\",\"FieldLabel\":\"Đường link website, fanpage, liên kết CTA\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ваш бренд, назив производа?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Ко су ваши циљни купци?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Коју акцију желите да предузму?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Купујте производе/услуге\", \"OptionValue\": \"Купујте производе/услуге\" }, { \"OptionLabel\": \"Преузимање\", \"OptionValue\": \"Преузимање\" }, { \"OptionLabel\": \"Добили Цитат\", \"OptionValue\": \"Добили Цитат\" }, { \"OptionLabel\": \"Претплатите се на канал и поделите\", \"OptionValue\": \"Претплатите се на канал и поделите\" }, { \"OptionLabel\": \"Коментар\", \"OptionValue\": \"Коментар\" }, { \"OptionLabel\": \"Контакт\", \"OptionValue\": \"Контакт\" }, { \"OptionLabel\": \"Добијте понуде\", \"OptionValue\": \"Добијте понуде\" } ] }, { \"FieldID\": \"FIELD4\", \"FieldType\": \"text\", \"FieldLabel\": \"Веб сајт, фан страница, ЦТА линк\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 31756,
@@ -34281,7 +34281,7 @@
     "Title": "[КЊИГА] 1.1 - Напишите 10 нових наслова за своју књигу",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75691,
@@ -34305,7 +34305,7 @@
     "Title": "6 шешира - паметно решавање проблема са 6 шешира",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Изаберите шешир који желите да анализирате\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Бели шешир - подаци и стварност\", \"OptionValue\": \"Бели шешир - подаци и стварност\" }, { \"OptionLabel\": \"Црвени шешир - Емоције и интуиција\", \"OptionValue\": \"Црвени шешир - Емоције и интуиција\" }, { \"OptionLabel\": \"Црни шешир - тешкоћа и опасност\", \"OptionValue\": \"Црни шешир - тешкоћа и опасност\" }, { \"OptionLabel\": \"Жути шешир - Позитивне и користи\", \"OptionValue\": \"Жути шешир - Позитивне и користи\" }, { \"OptionLabel\": \"Зелени шешир - Креативност и идеје\", \"OptionValue\": \"Зелени шешир - Креативност и идеје\" }, { \"OptionLabel\": \"Плави шешир – закључак и резиме\", \"OptionValue\": \"Плави шешир – закључак и резиме\" } ] }]"
   },
   {
     "ID": 75700,
@@ -34317,7 +34317,7 @@
     "Title": "6 шешира - паметно решавање проблема са 6 шешира",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Изаберите шешир који желите да анализирате\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Бели шешир - подаци и стварност\", \"OptionValue\": \"Бели шешир - подаци и стварност\" }, { \"OptionLabel\": \"Црвени шешир - Емоције и интуиција\", \"OptionValue\": \"Црвени шешир - Емоције и интуиција\" }, { \"OptionLabel\": \"Црни шешир - тешкоћа и опасност\", \"OptionValue\": \"Црни шешир - тешкоћа и опасност\" }, { \"OptionLabel\": \"Жути шешир - Позитивне и користи\", \"OptionValue\": \"Жути шешир - Позитивне и користи\" }, { \"OptionLabel\": \"Зелени шешир - Креативност и идеје\", \"OptionValue\": \"Зелени шешир - Креативност и идеје\" }, { \"OptionLabel\": \"Плави шешир – закључак и резиме\", \"OptionValue\": \"Плави шешир – закључак и резиме\" } ] }]"
   },
   {
     "ID": 75702,
@@ -34329,7 +34329,7 @@
     "Title": "6 шешира - паметно решавање проблема са 6 шешира",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Изаберите шешир који желите да анализирате\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Бели шешир - подаци и стварност\", \"OptionValue\": \"Бели шешир - подаци и стварност\" }, { \"OptionLabel\": \"Црвени шешир - Емоције и интуиција\", \"OptionValue\": \"Црвени шешир - Емоције и интуиција\" }, { \"OptionLabel\": \"Црни шешир - тешкоћа и опасност\", \"OptionValue\": \"Црни шешир - тешкоћа и опасност\" }, { \"OptionLabel\": \"Жути шешир - Позитивне и користи\", \"OptionValue\": \"Жути шешир - Позитивне и користи\" }, { \"OptionLabel\": \"Зелени шешир - Креативност и идеје\", \"OptionValue\": \"Зелени шешир - Креативност и идеје\" }, { \"OptionLabel\": \"Плави шешир – закључак и резиме\", \"OptionValue\": \"Плави шешир – закључак и резиме\" } ] }]"
   },
   {
     "ID": 75739,
@@ -34341,7 +34341,7 @@
     "Title": "пакет селидбе",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75759,
@@ -34353,7 +34353,7 @@
     "Title": "Комплетна услуга селидбе",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":\\\"\\\"}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": \"\" }]"
   },
   {
     "ID": 75779,
@@ -34365,7 +34365,7 @@
     "Title": "Миба - Стручни савети за пословни план",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Kế hoạch bạn lên trong vòng bao lâu?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình hình và kết quả kinh doanh hiện tại của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào tình hình chi tiết\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào tình hình chi tiết\",\"OptionValue\":\"Nhập vào tình hình chi tiết\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Nguồn lực hiện tại bạn có?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Ngân sách, nhân sự triển khai v.v\",\"FieldOptions\":[{\"OptionLabel\":\"Ngân sách\",\"OptionValue\":\"Ngân sách\"},{\"OptionLabel\":\" nhân sự triển khai v.v\",\"OptionValue\":\" nhân sự triển khai v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Колико дуго планирате да останете?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Каква је ваша тренутна пословна ситуација и резултати?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Унесите детаљну ситуацију\", \"FieldOptions\": [ { \"OptionLabel\": \"Унесите детаљну ситуацију\", \"OptionValue\": \"Унесите детаљну ситуацију\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Које ресурсе тренутно имате?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Буџет, имплементација особља итд\", \"FieldOptions\": [ { \"OptionLabel\": \"Буџет\", \"OptionValue\": \"Буџет\" }, { \"OptionLabel\": \"особље за распоређивање итд\", \"OptionValue\": \"особље за распоређивање итд\" } ] }]"
   },
   {
     "ID": 75786,
@@ -34377,7 +34377,7 @@
     "Title": "Миба - Стручни савети за пословне идеје",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khoi-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Bạn có thể mô tả rõ hơn nữa không? \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Khách hàng, Giá bán, Chiến lược tăng trưởng v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Khách hàng\\\",\\\"OptionValue\\\":\\\"Khách hàng\\\"},{\\\"OptionLabel\\\":\\\" Giá bán\\\",\\\"OptionValue\\\":\\\" Giá bán\\\"},{\\\"OptionLabel\\\":\\\" Chiến lược tăng trưởng v.v\\\",\\\"OptionValue\\\":\\\" Chiến lược tăng trưởng v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Можете ли то јасније описати?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Купци, цена, стратегија раста итд\", \"FieldOptions\": [ { \"OptionLabel\": \"Клијент\", \"OptionValue\": \"Клијент\" }, { \"OptionLabel\": \"Цена\", \"OptionValue\": \"Цена\" }, { \"OptionLabel\": \"Стратегија раста итд\", \"OptionValue\": \"Стратегија раста итд\" } ] }]"
   },
   {
     "ID": 75790,
@@ -34389,7 +34389,7 @@
     "Title": "Клара - Коментирајте и препишите професионални садржај",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại nội dung nào bạn muốn góp ý?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Bài viết\\\",\\\"OptionValue\\\":\\\"Bài viết\\\"},{\\\"OptionLabel\\\":\\\" Quảng cáo\\\",\\\"OptionValue\\\":\\\" Quảng cáo\\\"},{\\\"OptionLabel\\\":\\\" Social Media\\\",\\\"OptionValue\\\":\\\" Social Media\\\"},{\\\"OptionLabel\\\":\\\" Kịch bản video\\\",\\\"OptionValue\\\":\\\" Kịch bản video\\\"},{\\\"OptionLabel\\\":\\\" Email\\\",\\\"OptionValue\\\":\\\" Email\\\"},{\\\"OptionLabel\\\":\\\" Thể loại khác\\\",\\\"OptionValue\\\":\\\" Thể loại khác\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Коју врсту садржаја бисте желели да коментаришете?\", \"FieldValue\": null, \"FieldPlaceholder\": \"нула\", \"FieldOptions\": [ { \"OptionLabel\": \"Постови\", \"OptionValue\": \"Постови\" }, { \"OptionLabel\": \"Реклама\", \"OptionValue\": \"Реклама\" }, { \"OptionLabel\": \"Друштвени медији\", \"OptionValue\": \"Друштвени медији\" }, { \"OptionLabel\": \"Видео сценарио\", \"OptionValue\": \"Видео сценарио\" }, { \"OptionLabel\": \"Емаил\", \"OptionValue\": \"Емаил\" }, { \"OptionLabel\": \"Друга врста\", \"OptionValue\": \"Друга врста\" } ] }]"
   },
   {
     "ID": 75813,
@@ -34401,7 +34401,7 @@
     "Title": "Цлио - Разумевање увида купаца, сочива производа/услуга од купаца",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm tới\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Độ tuổi, giới tính, thu nhập v.v\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"  Độ tuổi\",\"OptionValue\":\"  Độ tuổi\"},{\"OptionLabel\":\" giới tính\",\"OptionValue\":\" giới tính\"},{\"OptionLabel\":\" thu nhập v.v\",\"OptionValue\":\" thu nhập v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ваша циљна публика?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Старост, пол, приход итд\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"Старост\", \"OptionValue\": \"Старост\" }, { \"OptionLabel\": \"сек\", \"OptionValue\": \"сек\" }, { \"OptionLabel\": \"приходи итд\", \"OptionValue\": \"приходи итд\" } ] }]"
   },
   {
     "ID": 75822,
@@ -34413,7 +34413,7 @@
     "Title": "ХР - Професионални асистент за запошљавање: 10 питања за кандидате",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75848,
@@ -34425,6 +34425,6 @@
     "Title": "Цлио - Разумевање увида купаца, сочива производа/услуга од купаца",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   Độ tuổi, giới tính, thu nhập v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Độ tuổi\\\",\\\"OptionValue\\\":\\\"  Độ tuổi\\\"},{\\\"OptionLabel\\\":\\\" giới tính\\\",\\\"OptionValue\\\":\\\" giới tính\\\"},{\\\"OptionLabel\\\":\\\" thu nhập v.v\\\",\\\"OptionValue\\\":\\\" thu nhập v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ваша циљна публика?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Старост, пол, приход итд\", \"FieldOptions\": [ { \"OptionLabel\": \"Старост\", \"OptionValue\": \"Старост\" }, { \"OptionLabel\": \"сек\", \"OptionValue\": \"сек\" }, { \"OptionLabel\": \"приходи итд\", \"OptionValue\": \"приходи итд\" } ] }]"
   }
 ]

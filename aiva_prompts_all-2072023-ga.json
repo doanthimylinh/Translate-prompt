@@ -30525,7 +30525,7 @@
     "Title": "Cúntóir chun scripteanna Tiktok a chruthú ó fhíseáin Youtube nó ó alt ar leith - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thời gian video bạn muốn tạo\",\"FieldValue\":null,\"FieldPlaceholder\":\"45s, 60s, 2 phút v.v\",\"FieldOptions\":[{\"OptionLabel\":\"45s\",\"OptionValue\":\"45s\"},{\"OptionLabel\":\" 60s\",\"OptionValue\":\" 60s\"},{\"OptionLabel\":\" 2 phút v.v\",\"OptionValue\":\" 2 phút v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Am an físeán is mian leat a chruthú\", \"FieldValue\": null, \"FieldPlaceholder\": \"45s, 60s, 2 nóiméad etc\", \"FieldOptions\": [ { \"OptionLabel\": \"45s\", \"OptionValue\": \"45s\" }, { \"OptionLabel\": \"60s\", \"OptionValue\": \"60s\" }, { \"OptionLabel\": \"2 nóiméad etc\", \"OptionValue\": \"2 nóiméad etc\" } ] }]"
   },
   {
     "ID": 21967,
@@ -30537,7 +30537,7 @@
     "Title": "An uirlis Super a chruthaíonn na cúntóirí AI deiridh",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21973,
@@ -30549,7 +30549,7 @@
     "Title": "Sumy - Déan achoimre ar aon alt, aon fhíseán go tapa agus go héasca",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21976,
@@ -30561,7 +30561,7 @@
     "Title": "Nochtann saineolaithe na príomhrúin [CAITHFIDH TRÍ TÚ]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21978,
@@ -30573,7 +30573,7 @@
     "Title": "An Saineolaí #1 i Réiteach Fadhbanna le Cúig Chuige",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22013,
@@ -30585,7 +30585,7 @@
     "Title": "Conas an Uirlis a Úsáid",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22014,
@@ -30597,7 +30597,7 @@
     "Title": "10 leid bogearraí chun táirgiúlacht a mhéadú",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22025,
@@ -30609,7 +30609,7 @@
     "Title": "Foghlaim IELTS le teagascóir Lexa!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tieng-anh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22051,
@@ -30621,7 +30621,7 @@
     "Title": "Cóiste gairmiúil ar fhorbairt gairme - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22066,
@@ -30633,7 +30633,7 @@
     "Title": "Oiliúnóir Caidrimh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"moi-quan-he\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22281,
@@ -30657,7 +30657,7 @@
     "Title": "Clio - Bun-anailís portráid chustaiméara 2 (leis an lucht féachana)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cé hé do spriocghrúpa?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 22316,
@@ -30669,7 +30669,7 @@
     "Title": "Cúntóir Anailíse Ábhar Gréasáin",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22317,
@@ -30681,7 +30681,7 @@
     "Title": "Cúntóir Anailíse Ábhar Gréasáin",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22318,
@@ -30693,7 +30693,7 @@
     "Title": "Cúntóir Anailíse Ábhar Gréasáin",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22319,
@@ -30705,7 +30705,7 @@
     "Title": "Cúntóir Anailíse Ábhar Gréasáin",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22324,
@@ -30717,7 +30717,7 @@
     "Title": "UTB - Torthaí Cúrsa Ar Líne agus Gineadóir Sochair",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22372,
@@ -30729,7 +30729,7 @@
     "Title": "Cuidíonn cóiste leat do leanbh a mhúineadh, scileanna a fhorbairt do do leanbh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Đặc điểm bạn muốn phát triển như \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tự giác\\\",\\\"OptionValue\\\":\\\"Tự giác\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết vấn đề\\\",\\\"OptionValue\\\":\\\"Giải quyết vấn đề\\\"},{\\\"OptionLabel\\\":\\\" Tư duy phản biện\\\",\\\"OptionValue\\\":\\\"Tư duy phản biện\\\"},{\\\"OptionLabel\\\":\\\" Ra quyết định\\\",\\\"OptionValue\\\":\\\"Ra quyết định\\\"},{\\\"OptionLabel\\\":\\\" Sáng tạo\\\",\\\"OptionValue\\\":\\\"Sáng tạo\\\"},{\\\"OptionLabel\\\":\\\" Tôn trọng người khác\\\",\\\"OptionValue\\\":\\\"Tôn trọng người khác\\\"},{\\\"OptionLabel\\\":\\\" Trách nhiệm\\\",\\\"OptionValue\\\":\\\"Trách nhiệm\\\"},{\\\"OptionLabel\\\":\\\" Trung thực\\\",\\\"OptionValue\\\":\\\"Trung thực\\\"},{\\\"OptionLabel\\\":\\\" Tốt bụng và thông cảm\\\",\\\"OptionValue\\\":\\\"Tốt bụng và thông cảm\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng giao tiếp\\\",\\\"OptionValue\\\":\\\"Kỹ năng giao tiếp\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết xung đột\\\",\\\"OptionValue\\\":\\\"Giải quyết xung đột\\\"},{\\\"OptionLabel\\\":\\\" Làm việc nhóm\\\",\\\"OptionValue\\\":\\\"Làm việc nhóm\\\"},{\\\"OptionLabel\\\":\\\" Lễ nghi và ứng xử\\\",\\\"OptionValue\\\":\\\"Lễ nghi và ứng xử\\\"},{\\\"OptionLabel\\\":\\\" Quản lý thời gian\\\",\\\"OptionValue\\\":\\\"Quản lý thời gian\\\"},{\\\"OptionLabel\\\":\\\" Tổ chức\\\",\\\"OptionValue\\\":\\\"Tổ chức\\\"},{\\\"OptionLabel\\\":\\\" Quản lý tiền bạc và ngân sách\\\",\\\"OptionValue\\\":\\\"Quản lý tiền bạc và ngân sách\\\"},{\\\"OptionLabel\\\":\\\" Việc nhà\\\",\\\"OptionValue\\\":\\\"Việc nhà\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng học tập\\\",\\\"OptionValue\\\":\\\"Kỹ năng học tập\\\"},{\\\"OptionLabel\\\":\\\" Đọc và viết\\\",\\\"OptionValue\\\":\\\"Đọc và viết\\\"},{\\\"OptionLabel\\\":\\\" Toán học\\\",\\\"OptionValue\\\":\\\"Toán học\\\"},{\\\"OptionLabel\\\":\\\" Tiếng Anh\\\",\\\"OptionValue\\\":\\\"Tiếng Anh\\\"},{\\\"OptionLabel\\\":\\\" Phát triển thể chất\\\",\\\"OptionValue\\\":\\\"Phát triển thể chất\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Tréithe is mian leat a fhorbairt cosúil le\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Go deonach\", \"OptionValue\": \"Go deonach\" }, { \"OptionLabel\": \"Réiteach fadhbanna\", \"OptionValue\": \"Réiteach fadhbanna\" }, { \"OptionLabel\": \"Smaointeoireacht chriticiúil\", \"OptionValue\": \"Smaointeoireacht chriticiúil\" }, { \"OptionLabel\": \"Déan cinneadh\", \"OptionValue\": \"Déan cinneadh\" }, { \"OptionLabel\": \"Cruthaitheach\", \"OptionValue\": \"Cruthaitheach\" }, { \"OptionLabel\": \"Meas daoine eile\", \"OptionValue\": \"Meas daoine eile\" }, { \"OptionLabel\": \"Freagracht\", \"OptionValue\": \"Freagracht\" }, { \"OptionLabel\": \"Macánta\", \"OptionValue\": \"Macánta\" }, { \"OptionLabel\": \"cineálta agus báúil\", \"OptionValue\": \"cineálta agus báúil\" }, { \"OptionLabel\": \"Scileanna cumarsáide\", \"OptionValue\": \"Scileanna cumarsáide\" }, { \"OptionLabel\": \"Réiteach coinbhleachta\", \"OptionValue\": \"Réiteach coinbhleachta\" }, { \"OptionLabel\": \"Grúpa oibre\", \"OptionValue\": \"Grúpa oibre\" }, { \"OptionLabel\": \"Deasghnátha agus iompar\", \"OptionValue\": \"Deasghnátha agus iompar\" }, { \"OptionLabel\": \"Bainistíocht ama\", \"OptionValue\": \"Bainistíocht ama\" }, { \"OptionLabel\": \"Eagraíocht\", \"OptionValue\": \"Eagraíocht\" }, { \"OptionLabel\": \"Bainistíocht airgid agus buiséid\", \"OptionValue\": \"Bainistíocht airgid agus buiséid\" }, { \"OptionLabel\": \"Obair tí\", \"OptionValue\": \"Obair tí\" }, { \"OptionLabel\": \"Ag déanamh staidéir ar scil\", \"OptionValue\": \"Ag déanamh staidéir ar scil\" }, { \"OptionLabel\": \"Léamh agus scríobh\", \"OptionValue\": \"Léamh agus scríobh\" }, { \"OptionLabel\": \"Math\", \"OptionValue\": \"Math\" }, { \"OptionLabel\": \"Béarla\", \"OptionValue\": \"Béarla\" }, { \"OptionLabel\": \"Feabhas fisiciúil\", \"OptionValue\": \"Feabhas fisiciúil\" } ] }]"
   },
   {
     "ID": 22461,
@@ -30741,7 +30741,7 @@
     "Title": "Super CODER - Cód rud ar bith",
     "Usages": 0,
     "Categories": "[{\"Category\":\"web-development\",\"Community\":\"developper-lap-trinh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22473,
@@ -30753,7 +30753,7 @@
     "Title": "Déan anailís ar chomhaid ionchasacha custaiméirí",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22567,
@@ -30765,7 +30765,7 @@
     "Title": "Déan anailís ar chomhad custaiméara féideartha táirge",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22690,
@@ -30777,7 +30777,7 @@
     "Title": "Cúntóir gairmiúil scríbhneoireachta ríomhphoist",
     "Usages": 0,
     "Categories": "[{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22707,
@@ -30789,7 +30789,7 @@
     "Title": "Cúntóir dúnta díolachán díreach Master Angela",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22717,
@@ -30801,7 +30801,7 @@
     "Title": "Sally - saineolaí díolacháin ag láimhseáil 10 bpríomhchúinsí diúltaithe",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22720,
@@ -30813,7 +30813,7 @@
     "Title": "Máistirchúntóir chun díolachán Uimh. 1 a dhúnadh trí theilea-dhíol Emma",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22742,
@@ -30825,7 +30825,7 @@
     "Title": "Oiliúnóir do ghnó gairmiúil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22751,
@@ -30837,7 +30837,7 @@
     "Title": "An cúntóir scriptithe Tiktok deiridh le radhairc",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22797,
@@ -30849,7 +30849,7 @@
     "Title": "Oiliúnóir forbartha foirne fiontraíochta",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22806,
@@ -30861,7 +30861,7 @@
     "Title": "Cúntóir scríbhneoireachta cainte le 1 cliceáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"su-kien\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22813,
@@ -30873,7 +30873,7 @@
     "Title": "An cúntóir pleanála imeacht deiridh - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22833,
@@ -30885,7 +30885,7 @@
     "Title": "AAA Cúntóir scríbhneoireachta cainte le 1 cliceáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22905,
@@ -30897,7 +30897,7 @@
     "Title": "Doer- Cur i bhfeidhm pleanála cúnta",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22914,
@@ -30945,7 +30945,7 @@
     "Title": "Cúntóir chun imlíne ceachta a chruthú do chúrsaí/cláir oiliúna - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22951,
@@ -30957,7 +30957,7 @@
     "Title": "UTB - Uirlis Cruthaithe Ábhar Scripte le haghaidh 1 Cheacht Físe [AR LEAN]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22969,
@@ -30981,7 +30981,7 @@
     "Title": "[ULTRA] Cúntóir scríbhneoireachta pras",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22983,
@@ -30993,7 +30993,7 @@
     "Title": "Cuidíonn straitéiseoirí le ráta fillte custaiméirí ar cheannachán a mhéadú (COINNEÁIL)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22991,
@@ -31005,7 +31005,7 @@
     "Title": "Straitéisí Pearsanúcháin: Do Tháirge/Seirbhís a Chur Chun Cinn Na Coimisinéirí Ioncaim",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22996,
@@ -31017,7 +31017,7 @@
     "Title": "An Rún Custaiméirí Nua a Mhealladh ó Straitéisí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23056,
@@ -31029,7 +31029,7 @@
     "Title": "Straitéis Díolacháin &amp; MKT TMS Quy Nhon ar cíos",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23059,
@@ -31041,7 +31041,7 @@
     "Title": "Iníon Izy - Míníonn an cúntóir an fhadhb ar bhealach éasca",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23165,
@@ -31053,7 +31053,7 @@
     "Title": "Púma - Do chúntóir ilteangach eagarthóireachta agus profaí!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23176,
@@ -31065,7 +31065,7 @@
     "Title": "Sophia - cúntóir pleanála meán sóisialta ar feadh 30 lá",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23190,
@@ -31077,7 +31077,7 @@
     "Title": "Cúntóir chun ceisteanna suimiúla a chruthú do ghrúpaí Facebook agus do leathanaigh fan: Méadaigh idirghníomhaíocht do do phobal",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23199,
@@ -31089,7 +31089,7 @@
     "Title": "Sophia - Cúntóir Meán Sóisialta: 30 smaoineamh maidir le hábhar meán sóisialta chun do chustaiméirí a bhaint amach.",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23218,
@@ -31101,7 +31101,7 @@
     "Title": "Cruthaigh cúrsa",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23221,
@@ -31113,7 +31113,7 @@
     "Title": "Lily - Cúntóir chun postálacha a chruthú ar gach ardán meán sóisialta",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Nền tảng bạn muốn tạo nội dung\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"Facebook\",\"OptionValue\":\"Facebook\"},{\"OptionLabel\":\" Tiktok\",\"OptionValue\":\" Tiktok\"},{\"OptionLabel\":\" Youtube\",\"OptionValue\":\" Youtube\"},{\"OptionLabel\":\" Instagram\",\"OptionValue\":\" Instagram\"},{\"OptionLabel\":\" Twitter\",\"OptionValue\":\" Twitter\"},{\"OptionLabel\":\" Linkedin\",\"OptionValue\":\" Linkedin\"},{\"OptionLabel\":\" Snapchat\",\"OptionValue\":\" Snapchat\"},{\"OptionLabel\":\" Pinterest\",\"OptionValue\":\" Pinterest\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"An t-ardán ar mhaith leat ábhar a chruthú air\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Facebook\", \"OptionValue\": \"Facebook\" }, { \"OptionLabel\": \"Tictoc\", \"OptionValue\": \"Tictoc\" }, { \"OptionLabel\": \"Youtube\", \"OptionValue\": \"Youtube\" }, { \"OptionLabel\": \"Instagram\", \"OptionValue\": \"Instagram\" }, { \"OptionLabel\": \"Twitter\", \"OptionValue\": \"Twitter\" }, { \"OptionLabel\": \"Linkedin\", \"OptionValue\": \"Linkedin\" }, { \"OptionLabel\": \"Snapchat\", \"OptionValue\": \"Snapchat\" }, { \"OptionLabel\": \"Pinterest\", \"OptionValue\": \"Pinterest\" } ] }]"
   },
   {
     "ID": 23232,
@@ -31125,7 +31125,7 @@
     "Title": "Tiomsaigh liosta de dheich bpríomhfhocal eireaball fada a bhaineann le [ábhar].",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23233,
@@ -31137,7 +31137,7 @@
     "Title": "Tiomsaigh liosta de dheich bpríomhfhocal eireaball fada a bhaineann le [ábhar].",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23234,
@@ -31149,7 +31149,7 @@
     "Title": "Scríobh script le haghaidh físeán réamhrá táirge 5 nóiméad",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23318,
@@ -31161,7 +31161,7 @@
     "Title": "Cúntóir Cruthaithe Teidil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de\",\"Community\":\"seo-blog\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23319,
@@ -31173,7 +31173,7 @@
     "Title": "[Ultra] Cúntóir scríbhneoireachta scripte agus tuairiscí Tiktok le haghaidh orduithe AIB",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23320,
@@ -31185,7 +31185,7 @@
     "Title": "[Ultra] - Sárchúntóir chun cabhrú le hábhar Meáin Shóisialta a scríobh le haghaidh Leideanna",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23326,
@@ -31197,7 +31197,7 @@
     "Title": "[Ultra] Scríobhann Assistant blag faoi chúntóir AIB",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23328,
@@ -31209,7 +31209,7 @@
     "Title": "Mike - Cóiste Tosaithe Leana",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23333,
@@ -31221,7 +31221,7 @@
     "Title": "Léarscáil Gnó d'Fhiontraithe le Cóitseálaí Gnó Mike",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23347,
@@ -31233,7 +31233,7 @@
     "Title": "API Revit",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23349,
@@ -31245,7 +31245,7 @@
     "Title": "Optamú Ioncaim",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23351,
@@ -31257,7 +31257,7 @@
     "Title": "Cruthaigh íomhánna",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23391,
@@ -31269,7 +31269,7 @@
     "Title": "[Ultra] Assistant chun cabhrú le do leid go leagan gairmiúil a fheabhsú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23392,
@@ -31281,7 +31281,7 @@
     "Title": "[ULTRA] Cúntóir chun Megaprompt a chruthú ó leid ar leith",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23393,
@@ -31293,7 +31293,7 @@
     "Title": "Tony - Cóiste Rath: Conquer aon cheann de do spriocanna - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"coach\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23397,
@@ -31305,7 +31305,7 @@
     "Title": "AD - Saineolaí ar oiliúint agus ar fhorbairt scileanna agus inniúlachtaí daonna",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23398,
@@ -31317,7 +31317,7 @@
     "Title": "AD - Saineolaí ar inniúlachtaí/scileanna a fhorbairt trí ghníomhaíochtaí oibre",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23399,
@@ -31329,7 +31329,7 @@
     "Title": "HR - Saineolaí ar chreat acmhainní daonna a thógáil agus a mheas",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23410,
@@ -31341,7 +31341,7 @@
     "Title": "AD - Cúntóir scríbhneoireachta ríomhphoist diúltaithe iarrthóra ghairmiúil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23411,
@@ -31353,7 +31353,7 @@
     "Title": "AD - Cúntóir earcaíochta gairmiúil: 10 gceist d’iarrthóirí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23412,
@@ -31365,7 +31365,7 @@
     "Title": "AD - Cúntóir chun ríomhphoist a scríobh chun comhghairdeas a dhéanamh le hiarrthóirí gairmiúla",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23415,
@@ -31377,7 +31377,7 @@
     "Title": "AD - Cúntóir cruthú fógraí earcaíochta gairmiúil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23416,
@@ -31389,7 +31389,7 @@
     "Title": "HR - Treoir bordála cúnta do chomhaltaí nua",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23417,
@@ -31401,7 +31401,7 @@
     "Title": "AD - scríobhann cúntóir \"ceann-fiach\" ríomhphoist chun buanna a earcú agus a earcú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23421,
@@ -31413,7 +31413,7 @@
     "Title": "AD - Saineolaí ar iarrthóirí a mheas agus a anailísiú a bhfuil 10 gcinn sna buntáistí agus na míbhuntáistí a bhaineann leo",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23424,
@@ -31425,7 +31425,7 @@
     "Title": "AD - Cúntóir chun jabthuairiscí mionsonraithe agus cruinne a scríobh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23427,
@@ -31437,7 +31437,7 @@
     "Title": "AD - Déanann saineolaithe cur síos ar an gcreat inniúlachta ar scála 1-5",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23437,
@@ -31449,7 +31449,7 @@
     "Title": "Uirlis ghairmiúil CV chun fostóirí a shárú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23439,
@@ -31461,7 +31461,7 @@
     "Title": "Uirlis ghairmiúil scríbhneoireachta litir chlúdaigh chun fostóirí a shárú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23440,
@@ -31473,7 +31473,7 @@
     "Title": "Agallóir Poist: Bí Réidh don Agallamh do Phost Do Bhrionglóidí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"phong-van\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23463,
@@ -31485,7 +31485,7 @@
     "Title": "Saineolaithe i scríbhinn agus próisis a bharrfheabhsú d'aon ghnó - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23464,
@@ -31497,7 +31497,7 @@
     "Title": "Uirlisí chun léaráidí, próisis, léaráidí a tharraingt ag baint úsáide as Mermaid",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23478,
@@ -31509,7 +31509,7 @@
     "Title": "[LEABHAR] 1 - Molann an cúntóir topaicí do do leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Chọn chủ đề bạn muốn viết\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Độc giả bạn hướng đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào đối tượng độc giả hoặc bỏ qua\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\",\"OptionValue\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Roghnaigh an topaic ar mhaith leat scríobh faoi\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Cé hé do spriocghrúpa?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Cuir isteach do lucht féachana nó scipeáil é\", \"FieldOptions\": [ { \"OptionLabel\": \"Cuir isteach do lucht féachana nó scipeáil é\", \"OptionValue\": \"Cuir isteach do lucht féachana nó scipeáil é\" } ] }]"
   },
   {
     "ID": 23479,
@@ -31521,7 +31521,7 @@
     "Title": "[LEABHAR] 2 - Molann an cúntóir mionsmaointe do do leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23480,
@@ -31545,7 +31545,7 @@
     "Title": "[LEBHAR] 4 - Cúntóir chun ábhar agus smaointe a mholadh do Chaibidlí Leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23482,
@@ -31557,7 +31557,7 @@
     "Title": "[LEABHAR] 5 - Scríobhann an cúntóir ábhar chaibidil an leabhair duit",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23483,
@@ -31569,7 +31569,7 @@
     "Title": "[LEBHAR] 6 - Cuir draíocht le do chaibidlí leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23484,
@@ -31581,7 +31581,7 @@
     "Title": "[LEBHAR] 7 - An Cúntóir a scríobh an clár deiridh ábhar don leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23485,
@@ -31593,7 +31593,7 @@
     "Title": "[LEBHAR] 8 - Scríobhann an cúntóir an réamhrá don leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23501,
@@ -31605,7 +31605,7 @@
     "Title": "[LEBHAR] 9 - Tá Cúntóir chun Conclúid an leabhair a scríobh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23502,
@@ -31617,7 +31617,7 @@
     "Title": "[LEABHAR] 10 - Cuireadh chun cinn ebook cúntóir scríbhneoireachta Íoslódáil saor in aisce",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23503,
@@ -31629,7 +31629,7 @@
     "Title": "Cúntóir cliste pleanála oibre le Maitrís Eisenhower",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23505,
@@ -31641,7 +31641,7 @@
     "Title": "[LEABHAR] 6.1 - Cuir draíocht le do chaibidlí leabhar: Comhrá agus Scéalaíocht",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23506,
@@ -31653,7 +31653,7 @@
     "Title": "[LEABHAR] 5.1 - Cúntóir Taighde Smaointe Nua mar chomhlánú ar do chaibidil sa leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23535,
@@ -31665,7 +31665,7 @@
     "Title": "[LEABHAR] - 5.2: Athscríobhann an cúntóir ábhar mealltach mionsonraithe d’aon chuid den leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23540,
@@ -31677,7 +31677,7 @@
     "Title": "Clara - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23608,
@@ -31689,7 +31689,7 @@
     "Title": "Cúntóir teagaisc do mhúinteoirí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"nha-giao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23609,
@@ -31701,7 +31701,7 @@
     "Title": "Cúntóir teagaisc do mhúinteoirí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23618,
@@ -31713,7 +31713,7 @@
     "Title": "Adela - Ultimate Facebook Ads Writing: Drive Action",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23621,
@@ -31725,7 +31725,7 @@
     "Title": "[ULTRA] Scríobhann Assistant megaprompt ó shraith leid tugtha",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23690,
@@ -31737,7 +31737,7 @@
     "Title": "Edita - Cúntóir Próiseála Focal Deiridh: Claochlú Téacs",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23703,
@@ -31749,7 +31749,7 @@
     "Title": "Postáil Facebook le emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23704,
@@ -31761,7 +31761,7 @@
     "Title": "Postáil Facebook le emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23705,
@@ -31773,7 +31773,7 @@
     "Title": "Postáil Facebook le emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23731,
@@ -31785,7 +31785,7 @@
     "Title": "Foghlaim Sínis gach lá le Rabbit Tu Zi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23740,
@@ -31797,7 +31797,7 @@
     "Title": "Foghlaim Stór Focal Béarla",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23771,
@@ -31809,7 +31809,7 @@
     "Title": "CareerGPT: Speisialtóir Gairme Mac Léinn - Solas suas do thodhchaí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23805,
@@ -31821,7 +31821,7 @@
     "Title": "CareerGPT: Treoshuíomh gairmiúil do dhaoine atá ag obair",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23823,
@@ -31833,7 +31833,7 @@
     "Title": "Edita - Cúntóir próiseála focal deiridh: Eastóscadh sonraí uathoibríoch",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23887,
@@ -31845,7 +31845,7 @@
     "Title": "Satima - An cúntóir anailíse sentiment custaiméara deiridh - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23889,
@@ -31857,7 +31857,7 @@
     "Title": "[ULTRA] Cúntóir chun cur síos ar shochair a scríobh do Chúntóirí Fíorúla AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23890,
@@ -31869,7 +31869,7 @@
     "Title": "[ULTRA] Déan anailís ar na buntáistí, na costais agus an t-am a shábháiltear do 1 cúntóir AIVA Best",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23940,
@@ -31881,7 +31881,7 @@
     "Title": "Ella - Sárchúntóir chun idirghníomhú agus freagairt do chustaiméirí - Cúram custaiméirí roimh agus tar éis díolacháin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23943,
@@ -31893,7 +31893,7 @@
     "Title": "Ella - Cúntóir Super chun idirghníomhú agus freagra a thabhairt do chustaiméirí - Leagan Tar éis Díolacháin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23944,
@@ -31905,7 +31905,7 @@
     "Title": "Ella - Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Leagan Réamh-díolacháin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23987,
@@ -31917,7 +31917,7 @@
     "Title": "Petalia Angel - Le haghaidh gach lá a bheith dearfach, síochánta agus spreagthach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23998,
@@ -31929,7 +31929,7 @@
     "Title": "[Ultra] Tugann Assistant cásanna taispeána do Chúntóirí AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24003,
@@ -31941,7 +31941,7 @@
     "Title": "Stiúrthóir urláir ríomhthráchtála",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24004,
@@ -31953,7 +31953,7 @@
     "Title": "Stiúrthóir i gceannas ar MKT",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24005,
@@ -31965,7 +31965,7 @@
     "Title": "Bainisteoir Margaíochta Fiontair",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24066,
@@ -31977,7 +31977,7 @@
     "Title": "Rapora - Cúntóir cumhachtach chun tuarascálacha gairmiúla a chruthú ó aon sonraí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24072,
@@ -31989,7 +31989,7 @@
     "Title": "Rapora - Cúntóir cumhachtach chun tuarascálacha gairmiúla a chruthú - leagan a ghreamú agus a reáchtáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24091,
@@ -32001,7 +32001,7 @@
     "Title": "Gúrú Sinsearach - An saineolaí taighde pleanála, ábhar agus eochairfhocal deiridh Sinsearach - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24105,
@@ -32013,7 +32013,7 @@
     "Title": "Gúrú Sinsearach - An saineolaí taighde eochairfhocal deiridh (50 toradh)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24106,
@@ -32025,7 +32025,7 @@
     "Title": "Gúrú Sinsearach - 1. Saineolaí taighde eochairfhocal Longtail - Eochairfhocail Longtail",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24107,
@@ -32037,7 +32037,7 @@
     "Title": "Gúrú Sinsearach - 2. Taighde eochairfhocal a bhaineann le saineolaí (synonym...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24108,
@@ -32049,7 +32049,7 @@
     "Title": "Gúrú Sinsearach - 3. An saineolaí taighde eochairfhocal deiridh ag baint úsáide as LSI agus NLP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24109,
@@ -32061,7 +32061,7 @@
     "Title": "Gúrú Sinsearach - 4. Saineolaí taighde eochairfhocal den scoth Teideal molta",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24112,
@@ -32073,7 +32073,7 @@
     "Title": "Gúrú Sinsearach - 5. Taighde Eochairfhocal Saineolaithe: CCanna agus Sinsearach Silo",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24131,
@@ -32121,7 +32121,7 @@
     "Title": "Rapora, cúntóir cumhachtach a iompaíonn sonraí ina dtuarascálacha gairmiúla",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24152,
@@ -32133,7 +32133,7 @@
     "Title": "Tina - Scríobh teideal, leagan le hAinm an Táirge",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tên thương hiệu của sản phẩm/ dịch vụ của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ainm branda do tháirge/seirbhíse\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 24167,
@@ -32145,7 +32145,7 @@
     "Title": "Val - An cúntóir gearrscríofa físeáin deiridh do Tiktok/Youtube/Reels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24173,
@@ -32157,7 +32157,7 @@
     "Title": "Val - Cúntóir gearrscríofa físe víreasach do Tiktok/Youtube/Reels ón Ábhar atá ar Fáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24181,
@@ -32169,7 +32169,7 @@
     "Title": "Tony - Saineolaí Inspioráideach: 30 Sleachta spreagthacha duit féin agus do do fhoireann",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24182,
@@ -32181,7 +32181,7 @@
     "Title": "Clara - Cúntóir athscríbhneoireachta ábhar sárghairmiúil - leagan optamaithe le Sinsearach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24195,
@@ -32193,7 +32193,7 @@
     "Title": "Ella - Sárchúntóir chun idirghníomhú agus custaiméirí a fhreagairt - Freagair go leor ceisteanna láithreach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24200,
@@ -32205,7 +32205,7 @@
     "Title": "Máistir cóiste díolacháin le 15 straitéis duit",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24298,
@@ -32217,7 +32217,7 @@
     "Title": "Satima - An cúntóir anailíse sentiment custaiméara deiridh - leagan a ghreamú agus a reáchtáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24308,
@@ -32229,7 +32229,7 @@
     "Title": "Val - An cúntóir scriptithe físe deiridh do Tiktok/Youtube/Reels le lucht féachana",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24315,
@@ -32241,7 +32241,7 @@
     "Title": "Suzy - An saineolaí #1 chun cabhrú leat 1 milliún leantóir a bhaint amach ar gach ardán Meán Sóisialta",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24325,
@@ -32253,7 +32253,7 @@
     "Title": "Sophia - Cúntóir chun 30 smaoineamh ábhair a chruthú do Tiktok, Youtube, Instagram, Facebook...",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24348,
@@ -32265,7 +32265,7 @@
     "Title": "Promo - Molann saineolaí 15 straitéis cur chun cinn barr - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24400,
@@ -32277,7 +32277,7 @@
     "Title": "PMH",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24428,
@@ -32301,7 +32301,7 @@
     "Title": "Artica - Cúntóir éifeachtach chun ábhar nuachtáin agus alt a athscríobh d'eagarthóirí/bhlagairí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24434,
@@ -32313,7 +32313,7 @@
     "Title": "Artica - Cúntóir cumhachtach chun ábhar nuachtáin agus alt a athscríobh i STÍL NUA d'eagarthóirí/bhlagairí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24435,
@@ -32325,7 +32325,7 @@
     "Title": "Artica - Cúntóir chun ábhar nuachtáin agus alt a athscríobh, leagan ag baint úsáide as Link agus breiseán",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24438,
@@ -32337,7 +32337,7 @@
     "Title": "Artica - Cúntóir scríbhneoireachta nuachtáin agus alt, bunaithe ar eochairfhocail agus eolas tugtha",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24439,
@@ -32349,7 +32349,7 @@
     "Title": "Artica - Cúntóir scríbhneoireachta nuachtáin agus alt, bunaithe ar eochairfhocail agus faisnéis tugtha, leagan Sinsearach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24442,
@@ -32361,7 +32361,7 @@
     "Title": "Artica - Cúntóir athscríobh nuachtáin agus alt d'eagarthóirí / blagairí, leagan Sinsearach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24480,
@@ -32373,7 +32373,7 @@
     "Title": "Cúntóir chun urraitheoirí/fógróirí a aimsiú don suíomh Gréasáin, teastaíonn GPT 4",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24585,
@@ -32385,7 +32385,7 @@
     "Title": "Exela - cúntóir Excel, tiontaigh agus próiseálann csv, sonraí comhaid txt i bhfoirm tábla",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24591,
@@ -32397,7 +32397,7 @@
     "Title": "LegaX - speisialtóir ilnáisiúnta gairmiúil ar dhréachtú conarthaí/comhaontuithe",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24592,
@@ -32409,7 +32409,7 @@
     "Title": "LegaX - Saineolaí gairmiúil ar dhréachtú conarthaí/comhaontuithe, Vítneam",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24593,
@@ -32421,7 +32421,7 @@
     "Title": "[ULTRA] Exela - cúntóir Excel, aistriú sonraí agus próiseáil do AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24612,
@@ -32433,7 +32433,7 @@
     "Title": "Exela - Cúntóir uathoibríoch aicmithe sonraí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24620,
@@ -32445,7 +32445,7 @@
     "Title": "SlideGPT - cúntóir chun cur i láthair Powerpoint gairmiúil agus tarraingteach a chruthú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24625,
@@ -32457,7 +32457,7 @@
     "Title": "SlideGPT - cúntóir cruthú cur i láthair Powerpoint, leagan greamaigh ábhair nó nasc",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24737,
@@ -32469,7 +32469,7 @@
     "Title": "Maki - comhairle stíl makeup a dhéanann tú conquer gach uillinn",
     "Usages": 0,
     "Categories": "[{\"Category\":\"lam-dep\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24738,
@@ -32481,7 +32481,7 @@
     "Title": "Bainne - saineolaí i meabhrúcháin a scríobh do na réimsí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24741,
@@ -32493,7 +32493,7 @@
     "Title": "Táirgiúlacht Optima - X2 le rialacha 80/20 (Pareto)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24743,
@@ -32505,7 +32505,7 @@
     "Title": "Numero - Do shaineolaí uimhreolaíochta (táscaire cosán na beatha, cinniúint, anam ...) (moltar GPT4)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"date\\\",\\\"FieldLabel\\\":\\\"Nhập vào ngày tháng năm sinh của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"date\", \"FieldLabel\": \"Cuir isteach do dháta breithe\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 25403,
@@ -32517,7 +32517,7 @@
     "Title": "Cúntóir scríbhneoireachta tuairisc táirge: athscríobh an tuairisc d'aois níos tarraingtí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tên sản phẩm của bạn\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ainm do tháirge\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 26054,
@@ -32529,7 +32529,7 @@
     "Title": "LeadMax - custaiméirí féideartha a mhealladh le smaointe bhaoite, maighnéad luaidhe",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26111,
@@ -32541,7 +32541,7 @@
     "Title": "A [LEAS]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"data\",\"Community\":\"developper-lap-trinh\"},{\"Category\":\"developper-lap-trinh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26241,
@@ -32553,7 +32553,7 @@
     "Title": "Cuóta - Cúntóir cruthú luachan gairmiúil agus tapa",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26280,
@@ -32565,7 +32565,7 @@
     "Title": "Púma - Cúntóir profaí éifeachtach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26298,
@@ -32577,7 +32577,7 @@
     "Title": "EmailPro - Méadú ar rátaí oscailte ríomhphoist le haghaidh feachtais mhargaíochta ríomhphoist",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26302,
@@ -32589,7 +32589,7 @@
     "Title": "EmailPro - Straitéis ghairmiúil tógála liosta (tóg liosta custaiméirí féideartha)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26315,
@@ -32601,7 +32601,7 @@
     "Title": "Fógraí Facebook",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26317,
@@ -32613,7 +32613,7 @@
     "Title": "Fógraí Facebook",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26319,
@@ -32625,7 +32625,7 @@
     "Title": "An Teaghlach a fhógairt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26321,
@@ -32637,7 +32637,7 @@
     "Title": "An Teaghlach a fhógairt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26356,
@@ -32649,7 +32649,7 @@
     "Title": "[ULTRA] Cruthaigh an script físe deiridh do chúntóir AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26365,
@@ -32661,7 +32661,7 @@
     "Title": "Edita - Cúntóir próiseála focal: Baintear úsáid as eastóscadh uathoibríoch sonraí, leagan greamaigh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26391,
@@ -32673,7 +32673,7 @@
     "Title": "Landa - An cúntóir cruthú leathanach tuirlingthe deiridh, leagan OCP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26471,
@@ -32685,7 +32685,7 @@
     "Title": "TiktokPRO - Saineolaí ar scríobh scripteanna drámaíochta do Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26473,
@@ -32697,7 +32697,7 @@
     "Title": "TiktokPRO - Cúntóir le 20 smaoineamh scripte DRAMA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26490,
@@ -32709,7 +32709,7 @@
     "Title": "DirectorPRO - Stiúrthóir Scannán Gairmiúil le haghaidh Tiktok, Youtube, TVC",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26493,
@@ -32721,7 +32721,7 @@
     "Title": "[ULTRA] Cúntóir scríbhneoireachta AIVA ó threoracha tugtha",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26500,
@@ -32733,7 +32733,7 @@
     "Title": "ActingPRO - Stiúrthóir gníomhach d’aisteoirí gairmiúla do Tiktok, Youtube, TVC",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26503,
@@ -32745,7 +32745,7 @@
     "Title": "MusicPRO - Cúntóir Scríobh Ceoil - Cas d'ábhar ina séiseanna",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26508,
@@ -32757,7 +32757,7 @@
     "Title": "MusicPRO: Cúntóir cumadóir a thugann beatha do script",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26511,
@@ -32769,7 +32769,7 @@
     "Title": "SongPRO - Cúntóir amhránaíochta gairmiúil gan ach 1 cliceáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Sắc thái của bài hát?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Auto\\\",\\\"OptionValue\\\":\\\"Auto\\\"},{\\\"OptionLabel\\\":\\\" Happy\\\",\\\"OptionValue\\\":\\\"Happy\\\"},{\\\"OptionLabel\\\":\\\" Sad\\\",\\\"OptionValue\\\":\\\"Sad\\\"},{\\\"OptionLabel\\\":\\\" Angry\\\",\\\"OptionValue\\\":\\\"Angry\\\"},{\\\"OptionLabel\\\":\\\" Calm\\\",\\\"OptionValue\\\":\\\"Calm\\\"},{\\\"OptionLabel\\\":\\\" Excited\\\",\\\"OptionValue\\\":\\\"Excited\\\"},{\\\"OptionLabel\\\":\\\" Romantic\\\",\\\"OptionValue\\\":\\\"Romantic\\\"},{\\\"OptionLabel\\\":\\\" Positive\\\",\\\"OptionValue\\\":\\\"Positive\\\"},{\\\"OptionLabel\\\":\\\" Nostalgic\\\",\\\"OptionValue\\\":\\\"Nostalgic\\\"},{\\\"OptionLabel\\\":\\\" Inspirational\\\",\\\"OptionValue\\\":\\\"Inspirational\\\"},{\\\"OptionLabel\\\":\\\" Empowering\\\",\\\"OptionValue\\\":\\\"Empowering\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bài hát này viết cho đối tượng nào?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tất cả\\\",\\\"OptionValue\\\":\\\"Tất cả\\\"},{\\\"OptionLabel\\\":\\\" Người lớn\\\",\\\"OptionValue\\\":\\\"Người lớn\\\"},{\\\"OptionLabel\\\":\\\" Trẻ con\\\",\\\"OptionValue\\\":\\\"Trẻ con\\\"},{\\\"OptionLabel\\\":\\\" Teen\\\",\\\"OptionValue\\\":\\\"Teen\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Nuance an amhráin?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"gluaisteán\", \"OptionValue\": \"gluaisteán\" }, { \"OptionLabel\": \"Sásta\", \"OptionValue\": \"Sásta\" }, { \"OptionLabel\": \"brónach\", \"OptionValue\": \"brónach\" }, { \"OptionLabel\": \"Feargach\", \"OptionValue\": \"Feargach\" }, { \"OptionLabel\": \"Calma\", \"OptionValue\": \"Calma\" }, { \"OptionLabel\": \"Ar bís\", \"OptionValue\": \"Ar bís\" }, { \"OptionLabel\": \"Rómánsúil\", \"OptionValue\": \"Rómánsúil\" }, { \"OptionLabel\": \"Dearfach\", \"OptionValue\": \"Dearfach\" }, { \"OptionLabel\": \"Nostalgic\", \"OptionValue\": \"Nostalgic\" }, { \"OptionLabel\": \"spreagthach\", \"OptionValue\": \"spreagthach\" }, { \"OptionLabel\": \"Cumhachtú\", \"OptionValue\": \"Cumhachtú\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Cé dó a bhfuil an t-amhrán seo scríofa?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Gach\", \"OptionValue\": \"Gach\" }, { \"OptionLabel\": \"Fásta\", \"OptionValue\": \"Fásta\" }, { \"OptionLabel\": \"Leanaí\", \"OptionValue\": \"Leanaí\" }, { \"OptionLabel\": \"Déagóir\", \"OptionValue\": \"Déagóir\" } ] }]"
   },
   {
     "ID": 26522,
@@ -32781,7 +32781,7 @@
     "Title": "MusicPRO - Cúntóir ceoil ó liricí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26534,
@@ -32793,7 +32793,7 @@
     "Title": "MonthlyPlanner - Tóg an Plean Margaíochta Foirfe don Mhí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26543,
@@ -32805,7 +32805,7 @@
     "Title": "MonthlyPlanner - Tóg an plean díolacháin foirfe don leagan míosa, TEAM",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26547,
@@ -32817,7 +32817,7 @@
     "Title": "PressX - Cúntóir preaseisiúint ghairmiúil (Preas Releash)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26558,
@@ -32829,7 +32829,7 @@
     "Title": "SalesPlanner - Ag Tógáil Plean Díolacháin B2C don Ráithe, Bliain, cuid 1",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26562,
@@ -32841,7 +32841,7 @@
     "Title": "SalesPlanner - Ag Tógáil Plean Díolacháin B2C don Ráithe, Bliain, cuid 2 - Coinneáil agus fás",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26564,
@@ -32853,7 +32853,7 @@
     "Title": "SalesPlanner - Ag Tógáil Plean Díolacháin B2C don Ráithe, don Bhliain, Cuid 3: Meastóireacht agus tomhas",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26574,
@@ -32865,7 +32865,7 @@
     "Title": "SalesPlanner B2B - Ag Tógáil Plean Díolacháin B2B don Ráithe, Bliain, cuid 1",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"saas-kinh-doanh\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26576,
@@ -32877,7 +32877,7 @@
     "Title": "B2B SalesPlanner - Ag Tógáil Plean Díolacháin B2B, cuid 2: Ag Lorg Custaiméirí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26578,
@@ -32889,7 +32889,7 @@
     "Title": "B2B SalesPlanner - Ag Tógáil Plean Díolacháin B2B, cuid 3: An fhoireann a fhorbairt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26583,
@@ -32901,7 +32901,7 @@
     "Title": "SalesPlanner B2B - Ag Tógáil Plean Díolacháin B2B, cuid 4: Measúnú, Réamhaisnéisiú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26603,
@@ -32913,7 +32913,7 @@
     "Title": "TiktokPRO - An cúntóir scriptithe Tiktok deiridh (roinn an t-eolas)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26607,
@@ -32925,7 +32925,7 @@
     "Title": "TiktokPRO - Cruthaigh script físeáin athbhreithnithe táirge den scoth",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26609,
@@ -32937,7 +32937,7 @@
     "Title": "TiktokPRO - Cúntóir scriptithe Tiktok DÚSHLÁN seánra",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26611,
@@ -32949,7 +32949,7 @@
     "Title": "TiktokPRO - Cúntóir le 20 smaoineamh le haghaidh físeáin DÚSHLÁN",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26618,
@@ -32961,7 +32961,7 @@
     "Title": "TiktokPRO - cúntóir scriptithe Tiktok, seánra Youtube VLOG",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26671,
@@ -32973,7 +32973,7 @@
     "Title": "DRÉACHT -Cuirtear AIBestPrompts in ionad an leidtéacs, lena n-áirítear an áitshealbhóir [TARGETLANGUAGE] nó [PROMPT]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26676,
@@ -32985,7 +32985,7 @@
     "Title": "Ella 37- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad iad do tháirgí agus seirbhísí?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Cad iad do tháirgí agus seirbhísí?\", \"FieldOptions\": [ { \"OptionValue\": \"Cad iad do tháirgí agus seirbhísí?\" } ] }]"
   },
   {
     "ID": 26679,
@@ -32997,7 +32997,7 @@
     "Title": "Ella 37- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26682,
@@ -33009,7 +33009,7 @@
     "Title": "Ella 37- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26685,
@@ -33021,7 +33021,7 @@
     "Title": "Ella 37- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26688,
@@ -33033,7 +33033,7 @@
     "Title": "Ella 37- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26698,
@@ -33045,7 +33045,7 @@
     "Title": "11- Super Assistant chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26702,
@@ -33057,7 +33057,7 @@
     "Title": "112- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After-sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26807,
@@ -33069,7 +33069,7 @@
     "Title": "Déantóir - Cúntóir forfheidhmithe plean le KPI sannta - Cuir an straitéis i ngníomh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26828,
@@ -33081,7 +33081,7 @@
     "Title": "Cúntóir ailt a scríobh chun táirgí a chur chun cinn lena n-áirítear stíleanna tarraingteacha FAB, FAS, 4C, BAB",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26886,
@@ -33093,7 +33093,7 @@
     "Title": "TiktokPRO - Roinneann saineolaithe Tiktok rúin bhunúsacha chun cainéal Tiktok a thógáil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26893,
@@ -33105,7 +33105,7 @@
     "Title": "TiktokPRO - Treoraíonn saineolaithe Siopa Tiktok tú maidir le sáruithe beartais ar Tiktok Shop",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26895,
@@ -33117,7 +33117,7 @@
     "Title": "TiktokPRO - Cúntóir le 20 smaoineamh le haghaidh físeáin Do It Yourself (DIY).",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26899,
@@ -33129,7 +33129,7 @@
     "Title": "TiktokPRO - cúntóir scriptithe Tiktok Déan é Féin (DIY)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26905,
@@ -33141,7 +33141,7 @@
     "Title": "TiktokPRO - An saineolaí oiliúna scileanna Livestream deiridh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26955,
@@ -33153,7 +33153,7 @@
     "Title": "[GPT4] Mol 10 smaoineamh físe bunaithe ar nasc Youtube tugtha, Breiseán de dhíth",
     "Usages": 0,
     "Categories": "[{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26964,
@@ -33165,7 +33165,7 @@
     "Title": "[GPT4] Déan achoimre ar aon fhíseán Youtube le cliceáil amháin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26968,
@@ -33177,7 +33177,7 @@
     "Title": "[GPT4] Uirlis chun comhaid pdf agus word a achoimriú ar líne",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26971,
@@ -33189,7 +33189,7 @@
     "Title": "[GPT4] Uirlis chun sonraí téacs a bhaint as íomhánna, íomhánna a iompú ina téacs",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26973,
@@ -33201,7 +33201,7 @@
     "Title": "Fógraí Facebook Lotus",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26989,
@@ -33213,7 +33213,7 @@
     "Title": "TiktokPRO - Treoraíonn saineolaithe sáruithe i mbeartas Tiktok Livestream",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27004,
@@ -33225,7 +33225,7 @@
     "Title": "TiktokPRO - Cúntóir scriptithe podchraolta Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27037,
@@ -33237,7 +33237,7 @@
     "Title": "TiktokPRO - cúntóir scríbhneoireachta script Tiktok, Seánra Talkshow Youtube",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27043,
@@ -33249,7 +33249,7 @@
     "Title": "AITutor, an teagascóir AI a chuidíonn leat máistreacht agus foghlaim aon ábhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27047,
@@ -33261,7 +33261,7 @@
     "Title": "Mella - Cúntóir éifeachtach scríbhneoireachta",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27060,
@@ -33273,7 +33273,7 @@
     "Title": "[ULTRA] Sonraí taispeána samplacha le haghaidh toradh pras agus ionchais",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27069,
@@ -33285,7 +33285,7 @@
     "Title": "TiktokPRO - Saineolaí ar chainéal Tiktok a thógáil go ceann 12 mhí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27078,
@@ -33297,7 +33297,7 @@
     "Title": "TiktokPRO - cúntóir pleanála 30-lá do do chainéal Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27087,
@@ -33309,7 +33309,7 @@
     "Title": "Rosa - Straitéis éifeachtach a imscaradh le leithroinnt acmhainní",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27093,
@@ -33321,7 +33321,7 @@
     "Title": "KPIPro - saineolaí tomhais feidhmíochta KPI do do straitéis, plean",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27096,
@@ -33333,7 +33333,7 @@
     "Title": "Clara 212 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27097,
@@ -33345,7 +33345,7 @@
     "Title": "Clara 212eq43 - Cúntóir athscríbhneoireachta ábhar sár-ghairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sdfsdf\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"sdfdsf\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"sdfdsf\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"sdfsdf\", \"FieldValue\": null, \"FieldPlaceholder\": \"sdfdsf\", \"FieldOptions\": [ { \"OptionValue\": \"sdfdsf\" } ] }]"
   },
   {
     "ID": 27099,
@@ -33357,7 +33357,7 @@
     "Title": "Clara 212 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào \",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27119,
@@ -33369,7 +33369,7 @@
     "Title": "Clara 213 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27121,
@@ -33381,7 +33381,7 @@
     "Title": "Clara 21423 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27138,
@@ -33393,7 +33393,7 @@
     "Title": "Artica - Cúntóir chun nuacht a chomhiomlánú ó go leor foinsí naisc éagsúla",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27141,
@@ -33405,7 +33405,7 @@
     "Title": "Artica - seomra nuachta AI a chuidíonn le himscaradh ábhar ó ábhair a threorú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27143,
@@ -33417,7 +33417,7 @@
     "Title": "Artica - cúntóir scríbhneoireachta Sapo (chapeau) agus clibeanna molta d'ailt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27150,
@@ -33429,7 +33429,7 @@
     "Title": "Adela -Scríobh fógraí Facebook de réir COINCHEAP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Khách hàng tiềm năng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Thương hiệu của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn công thức bạn muốn viết\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" PAS (Vấn đề, Kích thích, Giải pháp)\\\",\\\"OptionValue\\\":\\\"PAS (Problem, Agitate, Solution)\\\"},{\\\"OptionLabel\\\":\\\" AIDA (Sự chú ý, Sự quan tâm, Sự khao khát, Hành động)\\\",\\\"OptionValue\\\":\\\"AIDA (Attention, Interest, Desire, Action)\\\"},{\\\"OptionLabel\\\":\\\" BAB (Trước, Sau, Cầu nối)\\\",\\\"OptionValue\\\":\\\"BAB (Before, After, Bridge)\\\"},{\\\"OptionLabel\\\":\\\" FAB (Tính năng, Lợi ích, Đặc điểm)\\\",\\\"OptionValue\\\":\\\"FAB (Features, Advantages, Benefits)\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Custaiméirí ionchasacha a ndíreoidh tú orthu\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad é do bhranda?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Roghnaigh an fhoirmle is mian leat a scríobh\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"PAS (Fadhb, Spreagadh, Réiteach)\", \"OptionValue\": \"PAS (Fadhb, Corruair, Réiteach)\" }, { \"OptionLabel\": \"AIDA (Aird, Suim, Mianta, Gníomh)\", \"OptionValue\": \"AIDA (Aird, Suim, Mianta, Gníomh)\" }, { \"OptionLabel\": \"BAB (Roimh, Tar éis, Droichead)\", \"OptionValue\": \"BAB (Roimh, Tar éis, Droichead)\" }, { \"OptionLabel\": \"FAB (Gnéithe, Sochair, Tréithe)\", \"OptionValue\": \"FAB (Gnéithe, Buntáistí, Sochair)\" } ] }]"
   },
   {
     "ID": 27195,
@@ -33441,7 +33441,7 @@
     "Title": "SlidePitch - cúntóir chun cur i láthair tarraingteach díolacháin a chruthú",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27198,
@@ -33453,7 +33453,7 @@
     "Title": "Clara - Leathnaíonn cúntóir Athscríobh ábhar níos faide, leagan simplí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tac-gia\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27244,
@@ -33465,7 +33465,7 @@
     "Title": "[GPT4] Cúntóir comhbhailitheora nuachta: achoimre ar ábhar ó naisc alt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27260,
@@ -33477,7 +33477,7 @@
     "Title": "Artica - Do Chúntóir Scríbhneoireachta Blag Margaíochta Táirge",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27263,
@@ -33489,7 +33489,7 @@
     "Title": "Artica - Do Chúntóir Scríbhneoireachta Blag Margaíochta Táirge, Leagan Sinsearach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27274,
@@ -33501,7 +33501,7 @@
     "Title": "Vido - Mol 15 smaoineamh físe le haghaidh Youtube/Tiktok bunaithe ar ábhar tugtha agus script",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27279,
@@ -33513,7 +33513,7 @@
     "Title": "Val - Cúntóir fís-scripte do Tiktok/Youtube/Reels - Fadhb - Réiteach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27289,
@@ -33525,7 +33525,7 @@
     "Title": "AskGPT - Cúntóir ceistiúcháin cliste",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27291,
@@ -33537,7 +33537,7 @@
     "Title": "RoleGPT - Labhair le Billionaires agus Daoine Móra",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Bạn muốn được góp ý, nói chuyện với ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cé leis ar mhaith leat dul i gcomhairle, labhairt leis?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27326,
@@ -33549,7 +33549,7 @@
     "Title": "EstateGPT - Scríbhneoir tionscadail eastát réadach gairmiúil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27363,
@@ -33561,7 +33561,7 @@
     "Title": "Vivi - Cúntóir chun ábhar a roinnt ina 2 chuid le haghaidh físeáin Tiktok, Reels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27367,
@@ -33573,7 +33573,7 @@
     "Title": "AgriBot - Treoir shaineolach chun gach cineál plandaí a fhás",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27370,
@@ -33585,7 +33585,7 @@
     "Title": "AniBot - Saineolaí ar ardú beostoic agus éanlaith chlóis agus ag tabhairt aire dóibh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27401,
@@ -33597,7 +33597,7 @@
     "Title": "[GPT4] Cúntóir léaráide cliste (cairt, sreabhchairt...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27459,
@@ -33609,7 +33609,7 @@
     "Title": "Sally - saineolaí diúltaithe do cheist 1, staid díolacháin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Sản phẩm, dịch vụ của bạn là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"Product\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng, hoặc tình huống khách hàng bạn gặp\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad é do tháirge nó do sheirbhís?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"Product\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Spriocchustaiméirí, nó cásanna custaiméirí a mbuaileann tú leo\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 27488,
@@ -33621,7 +33621,7 @@
     "Title": "Winebot - Cúntóir chun tuairiscí a scríobh ar tháirgí fíona",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27660,
@@ -33633,7 +33633,7 @@
     "Title": "Sumy - achoimre cliste ar ábhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27662,
@@ -33645,7 +33645,7 @@
     "Title": "Sumy - Achoimre chliste, leagan emoji",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27674,
@@ -33657,7 +33657,7 @@
     "Title": "TUARASCÁIL",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27692,
@@ -33669,7 +33669,7 @@
     "Title": "Greannmhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27693,
@@ -33681,7 +33681,7 @@
     "Title": "Greannmhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27695,
@@ -33693,7 +33693,7 @@
     "Title": "Greannmhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28038,
@@ -33705,7 +33705,7 @@
     "Title": "ABC 123",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28040,
@@ -33717,7 +33717,7 @@
     "Title": "Ella 372- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver After Sales",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad iad do tháirgí agus seirbhísí?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Cad iad do tháirgí agus seirbhísí?\", \"FieldOptions\": [ { \"OptionValue\": \"Cad iad do tháirgí agus seirbhísí?\" } ] }]"
   },
   {
     "ID": 28042,
@@ -33729,7 +33729,7 @@
     "Title": "ABC, 1234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28044,
@@ -33741,7 +33741,7 @@
     "Title": "ABC, 12345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28046,
@@ -33753,7 +33753,7 @@
     "Title": "ABC 123456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28048,
@@ -33765,7 +33765,7 @@
     "Title": "ABC 234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28050,
@@ -33777,7 +33777,7 @@
     "Title": "ABC 345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28052,
@@ -33789,7 +33789,7 @@
     "Title": "ABC 3456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28054,
@@ -33801,7 +33801,7 @@
     "Title": "ABC Ella 37- Cúntóir Super chun idirghníomhú agus freagairt do chustaiméirí - Ver Tar éis-díolacháin",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad iad do tháirgí agus seirbhísí?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Cad iad do tháirgí agus seirbhísí?\", \"FieldOptions\": [ { \"OptionValue\": \"Cad iad do tháirgí agus seirbhísí?\" } ] }]"
   },
   {
     "ID": 28057,
@@ -33813,7 +33813,7 @@
     "Title": "Clara 214235 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28061,
@@ -33825,7 +33825,7 @@
     "Title": "Clara 214235 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28063,
@@ -33837,7 +33837,7 @@
     "Title": "Clara 21423 - Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28065,
@@ -33849,7 +33849,7 @@
     "Title": "Clara 12 - Cúntóir athscríobh ábhar gairmiúil agus den scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28067,
@@ -33861,7 +33861,7 @@
     "Title": "Clara 12345 6 - Cúntóir athscríobh ábhair ghairmiúil den scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Tiêu đề nội dung bạn viết\\\",\\\"OptionValue\\\":\\\"Tiêu đề nội dung bạn viết\\\"},{\\\"OptionLabel\\\":\\\" nhập vào\\\",\\\"OptionValue\\\":\\\" nhập vào\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldOptions\": [ { \"OptionLabel\": \"Teideal an ábhair a scríobhann tú\", \"OptionValue\": \"Teideal an ábhair a scríobhann tú\" }, { \"OptionLabel\": \"ionchur\", \"OptionValue\": \"ionchur\" } ] }]"
   },
   {
     "ID": 28069,
@@ -33873,7 +33873,7 @@
     "Title": "Clara ABC 123 - Cúntóir athscríobh ábhar gairmiúil agus den scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28071,
@@ -33885,7 +33885,7 @@
     "Title": "Clara ABC 234 5- Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28073,
@@ -33897,7 +33897,7 @@
     "Title": "ABC 567",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567 3\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567 fd\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567 fd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"ABC 567\", \"FieldValue\": null, \"FieldPlaceholder\": \"ABC 567\", \"FieldOptions\": [ { \"OptionValue\": \"ABC 567\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"ABC 567 3 saor in aisce,\", \"FieldValue\": null, \"FieldPlaceholder\": \"ABC 567 fd\", \"FieldOptions\": [ { \"OptionValue\": \"ABC 567 fd\" } ] }]"
   },
   {
     "ID": 28082,
@@ -33909,7 +33909,7 @@
     "Title": "An tUasal SIX, an saineolaí chun cabhrú leat cinntí cliste a dhéanamh le 6 hata",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Roghnaigh an hata is mian leat a anailísiú\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Hata Bán - Sonraí agus Réaltacht\", \"OptionValue\": \"Hata Bán - Sonraí agus Réaltacht\" }, { \"OptionLabel\": \"Red Hat - Mothúcháin agus Intuition\", \"OptionValue\": \"Red Hat - Mothúcháin agus Intuition\" }, { \"OptionLabel\": \"Hat Dubh - Deacracht agus Contúirt\", \"OptionValue\": \"Hat Dubh - Deacracht agus Contúirt\" }, { \"OptionLabel\": \"Hat Buí - Buntáistí agus Buntáistí\", \"OptionValue\": \"Hat Buí - Buntáistí agus Buntáistí\" }, { \"OptionLabel\": \"Hata Glas - Cruthaitheacht agus Smaointe\", \"OptionValue\": \"Hata Glas - Cruthaitheacht agus Smaointe\" }, { \"OptionLabel\": \"Hata Gorm - Tátail agus Achoimre\", \"OptionValue\": \"Hata Gorm - Tátail agus Achoimre\" } ] }]"
   },
   {
     "ID": 28088,
@@ -33921,7 +33921,7 @@
     "Title": "",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28096,
@@ -33933,7 +33933,7 @@
     "Title": "Artica - Scríobh ailt bhlag chun do tháirgí / seirbhísí a thabhairt isteach le caighdeáin Sinsearach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm, dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm đến\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa bạn muốn SEO\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad é do tháirge nó do sheirbhís?\", \"FieldValue\": null, \"FieldPlaceholder\": \"m.sh. SkinX táibléad collaigine athnuachana craicinn\", \"FieldOptions\": [ { \"OptionValue\": \"m.sh. SkinX táibléad collaigine athnuachana craicinn\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Do spriocghrúpa?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Cuir isteach do spriocghrúpa\", \"FieldOptions\": [ { \"OptionValue\": \"Cuir isteach do spriocghrúpa\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Eochairfhocal atá uait Sinsearach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28104,
@@ -33945,7 +33945,7 @@
     "Title": "Para - Athscríobh Ábhar Sárchéimneach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn viết lại như nào?\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\" Viết lại mới\",\"OptionValue\":\"Paraphrasing \"},{\"OptionLabel\":\" Ngắn hơn\",\"OptionValue\":\"Brevity \"},{\"OptionLabel\":\" Dài hơn\",\"OptionValue\":\"Expand \"},{\"OptionLabel\":\" Đơn giản hơn\",\"OptionValue\":\"Simplicity\"},{\"OptionLabel\":\" Chi tiết hơn\",\"OptionValue\":\"Detailing \"},{\"OptionLabel\":\"Tương tác hơn\",\"OptionValue\":\"Engagement \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasion \"},{\"OptionLabel\":\" Thêm dữ liệu\",\"OptionValue\":\"Data \"},{\"OptionLabel\":\" Tinh tế hơn\",\"OptionValue\":\"Sophistication \"},{\"OptionLabel\":\"Chính xác hơn\",\"OptionValue\":\"Accuracy \"},{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"select\",\"FieldLabel\":\"Chọn giọng điệu đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"     null\",\"FieldOptions\":[{\"OptionLabel\":\" Không đổi\",\"OptionValue\":\"Unchanged \"},{\"OptionLabel\":\" Formal\",\"OptionValue\":\"Formalize \"},{\"OptionLabel\":\" Casual\",\"OptionValue\":\"Casualize\"},{\"OptionLabel\":\" Giáo dục\",\"OptionValue\":\"Educational \"},{\"OptionLabel\":\" Hài hước\",\"OptionValue\":\"Humorous \"},{\"OptionLabel\":\" Truyền cảm hứng\",\"OptionValue\":\"Inspirational \"},{\"OptionLabel\":\" Chuyên môn\",\"OptionValue\":\"Authoritative \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Conas ba mhaith leat a athscríobh?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Athscríobh nua\", \"OptionValue\": \"Ag athinsint\" }, { \"OptionLabel\": \"Níos giorra\", \"OptionValue\": \"giorracht\" }, { \"OptionLabel\": \"Níos faide\", \"OptionValue\": \"Leathnaigh\" }, { \"OptionLabel\": \"Níos simplí\", \"OptionValue\": \"Simplíocht\" }, { \"OptionLabel\": \"Tuilleadh sonraí\", \"OptionValue\": \"Mionsonrú\" }, { \"OptionLabel\": \"Níos idirghníomhaí\", \"OptionValue\": \"Rannpháirtíocht\" }, { \"OptionLabel\": \"Cuir ina luí air\", \"OptionValue\": \"áiteamh\" }, { \"OptionLabel\": \"Tuilleadh sonraí\", \"OptionValue\": \"Sonraí\" }, { \"OptionLabel\": \"Níos scagtha\", \"OptionValue\": \"Sofaisticiúlacht\" }, { \"OptionLabel\": \"Níos cruinne\", \"OptionValue\": \"Cruinneas\" }, { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Roghnaigh ton an tsleachta\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Gan athrú\", \"OptionValue\": \"Gan athrú\" }, { \"OptionLabel\": \"foirmiúil\", \"OptionValue\": \"Déan foirmiúil\" }, { \"OptionLabel\": \"ócáideach\", \"OptionValue\": \"Casualize\" }, { \"OptionLabel\": \"Oideachas\", \"OptionValue\": \"Oideachais\" }, { \"OptionLabel\": \"greannmhar\", \"OptionValue\": \"greannmhar\" }, { \"OptionLabel\": \"Spreag\", \"OptionValue\": \"spreagthach\" }, { \"OptionLabel\": \"Speisialtóireacht\", \"OptionValue\": \"Údarásach\" } ] }]"
   },
   {
     "ID": 28116,
@@ -33957,7 +33957,7 @@
     "Title": "Tina - Scríobh na 10 gceannteideal is fearr",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn kiểu tiêu đề bạn muốn viết (khuyến nghị: auto)\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" auto\\\",\\\"OptionValue\\\":\\\"auto \\\"},{\\\"OptionLabel\\\":\\\" listicle\\\",\\\"OptionValue\\\":\\\"listicle \\\"},{\\\"OptionLabel\\\":\\\" how-to\\\",\\\"OptionValue\\\":\\\"how-to \\\"},{\\\"OptionLabel\\\":\\\" inspirational\\\",\\\"OptionValue\\\":\\\"inspirational \\\"},{\\\"OptionLabel\\\":\\\" clickbait\\\",\\\"OptionValue\\\":\\\"clickbait \\\"},{\\\"OptionLabel\\\":\\\" question\\\",\\\"OptionValue\\\":\\\"question \\\"},{\\\"OptionLabel\\\":\\\" guide\\\",\\\"OptionValue\\\":\\\"guide \\\"},{\\\"OptionLabel\\\":\\\" mistakes\\\",\\\"OptionValue\\\":\\\"mistakes \\\"},{\\\"OptionLabel\\\":\\\" secrets/tips\\\",\\\"OptionValue\\\":\\\"secrets/tips \\\"},{\\\"OptionLabel\\\":\\\" comparison\\\",\\\"OptionValue\\\":\\\"comparison \\\"},{\\\"OptionLabel\\\":\\\" review\\\",\\\"OptionValue\\\":\\\"review \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Roghnaigh an stíl teidil is mian leat a scríobh (molta: uathoibríoch)\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"gluaisteán\", \"OptionValue\": \"gluaisteán\" }, { \"OptionLabel\": \"liosta\", \"OptionValue\": \"liosta\" }, { \"OptionLabel\": \"Conas a\", \"OptionValue\": \"Conas a\" }, { \"OptionLabel\": \"spreagthach\", \"OptionValue\": \"spreagthach\" }, { \"OptionLabel\": \"clickbait\", \"OptionValue\": \"clickbait\" }, { \"OptionLabel\": \"ceist\", \"OptionValue\": \"ceist\" }, { \"OptionLabel\": \"treoir\", \"OptionValue\": \"treoir\" }, { \"OptionLabel\": \"botúin\", \"OptionValue\": \"botúin\" }, { \"OptionLabel\": \"rúin/leideanna\", \"OptionValue\": \"rúin/leideanna\" }, { \"OptionLabel\": \"comparáid\", \"OptionValue\": \"comparáid\" }, { \"OptionLabel\": \"léirmheas\", \"OptionValue\": \"léirmheas\" } ] }]"
   },
   {
     "ID": 28123,
@@ -33969,7 +33969,7 @@
     "Title": "BlogPro - Cruthaigh imlíne gairmiúla do Bhlaganna agus d'ailt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa, nội dung bạn muốn đưa vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Eochairfhocail, ábhar is mian leat a chur san áireamh\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28138,
@@ -33981,7 +33981,7 @@
     "Title": "Tuairisc anailíse Google",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28154,
@@ -33993,7 +33993,7 @@
     "Title": "EssayGPT - Cúntóir scríbhneoireachta aistí tuairisciúla",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"sinh-vien\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần nội dung chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Líon na n-alt a theastaíonn uait chun príomhchorp an ábhair a chruthú?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"gluaisteán\", \"OptionValue\": \"gluaisteán\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28158,
@@ -34005,7 +34005,7 @@
     "Title": "EssayGPT - Cúntóir scríobh aiste argóinte",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Líon na míreanna is mian leat a chruthú príomhchorp?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"gluaisteán\", \"OptionValue\": \"gluaisteán\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28161,
@@ -34017,7 +34017,7 @@
     "Title": "EssayGPT - Cúntóir scríbhneoireachta aistí insinte",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn phần chính bạn muốn tạo\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Líon na bpríomhchodanna ar mhaith leat a chruthú\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"gluaisteán\", \"OptionValue\": \"gluaisteán\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28171,
@@ -34029,7 +34029,7 @@
     "Title": "Alt - Cúntóir scríobh alt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Phong cách viết cho đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"auto\",\"OptionValue\":\"auto\"},{\"OptionLabel\":\"formal\",\"OptionValue\":\"formal\"},{\"OptionLabel\":\"informal\",\"OptionValue\":\"informal\"},{\"OptionLabel\":\" Đàm thoại\",\"OptionValue\":\"conversational\"},{\"OptionLabel\":\" Mô tả\",\"OptionValue\":\"Descriptive \"},{\"OptionLabel\":\" Kể chuyện\",\"OptionValue\":\"Narrative \"},{\"OptionLabel\":\" Sáng tạo\",\"OptionValue\":\"Creative \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasive \"},{\"OptionLabel\":\" Có dữ liệu\",\"OptionValue\":\"Statistic \"},{\"OptionLabel\":\" Hướng dẫn\",\"OptionValue\":\"Instruction \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Stíl scríbhneoireachta do mhíreanna\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"gluaisteán\", \"OptionValue\": \"gluaisteán\" }, { \"OptionLabel\": \"foirmiúil\", \"OptionValue\": \"foirmiúil\" }, { \"OptionLabel\": \"neamhfhoirmeálta\", \"OptionValue\": \"neamhfhoirmeálta\" }, { \"OptionLabel\": \"Comhrá\", \"OptionValue\": \"comhráiteach\" }, { \"OptionLabel\": \"Déan cur síos\", \"OptionValue\": \"Tuairisciúil\" }, { \"OptionLabel\": \"Ag insint scéalta\", \"OptionValue\": \"Insint\" }, { \"OptionLabel\": \"Cruthaitheach\", \"OptionValue\": \"Cruthaitheach\" }, { \"OptionLabel\": \"Cuir ina luí air\", \"OptionValue\": \"áititheach\" }, { \"OptionLabel\": \"Tá sonraí ann\", \"OptionValue\": \"Staitistic\" }, { \"OptionLabel\": \"Teagasc\", \"OptionValue\": \"Teagasc\" } ] }]"
   },
   {
     "ID": 28174,
@@ -34041,7 +34041,7 @@
     "Title": "Para - Cúntóir a scríobh an RÉAMHRÁ don alt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28178,
@@ -34053,7 +34053,7 @@
     "Title": "Para - Cúntóir a scríobh an CONCLÚID don alt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn kêu gọi hành động (CTA) gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Bình luận\\\",\\\"OptionValue\\\":\\\"Comment \\\"},{\\\"OptionLabel\\\":\\\" Đăng ký\\\",\\\"OptionValue\\\":\\\"Subscribe \\\"},{\\\"OptionLabel\\\":\\\" Chia sẻ\\\",\\\"OptionValue\\\":\\\"Share \\\"},{\\\"OptionLabel\\\":\\\" Đọc thêm bài khác\\\",\\\"OptionValue\\\":\\\"Read More \\\"},{\\\"OptionLabel\\\":\\\" Mua sản phẩm\\\",\\\"OptionValue\\\":\\\"Purchase \\\"},{\\\"OptionLabel\\\":\\\" Tải miễn phí\\\",\\\"OptionValue\\\":\\\"Download \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Cén glao-go-gníomh (CTA) atá uait?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Trácht\", \"OptionValue\": \"Trácht\" }, { \"OptionLabel\": \"Clár\", \"OptionValue\": \"Liostáil\" }, { \"OptionLabel\": \"Comhroinn\", \"OptionValue\": \"Comhroinn\" }, { \"OptionLabel\": \"Léigh níos mó altanna\", \"OptionValue\": \"Leigh Nios mo\" }, { \"OptionLabel\": \"Ceannaigh táirge\", \"OptionValue\": \"Ceannach\" }, { \"OptionLabel\": \"Íoslódáil saor in aisce\", \"OptionValue\": \"Íosluchtaigh\" } ] }]"
   },
   {
     "ID": 28189,
@@ -34065,7 +34065,7 @@
     "Title": "An tUasal SIX 123, an saineolaí chun cabhrú leat cinntí cliste a dhéanamh le 6 hata",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"Chọn chiếc mũ bạn muốn phân tích\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"fieldmap\":\"undefined\",\"FieldOptions\":[{\"OptionLabel\":\"Mũ Trắng Dữ liệu và Thực tế\",\"OptionValue\":\"Mũ Trắng Dữ liệu và Thực tế\"},{\"OptionLabel\":\"Đỏ Cảm xúc và Trực giác\",\"OptionValue\":\"Đỏ Cảm xúc và Trực giác\"},{\"OptionLabel\":\" Đen Khó khăn và Nguy hiểm\",\"OptionValue\":\" Đen Khó khăn và Nguy hiểm\"},{\"OptionLabel\":\"Vàng Tích cực và Lợi ích\",\"OptionValue\":\"Vàng Tích cực và Lợi ích\"},{\"OptionLabel\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\",\"OptionValue\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\"},{\"OptionLabel\":\"Mũ Xanh Dương Suy luận và Tổng kết\",\"OptionValue\":\"Mũ Xanh Dương Suy luận và Tổng kết\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Hi\",\"FieldValue\":null,\"FieldPlaceholder\":\"    Hi\",\"fieldmap\":\"company\",\"FieldOptions\":[{\"OptionLabel\":\"   Hi\",\"OptionValue\":\"   Hi\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"textarea\",\"FieldLabel\":\"Three\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Three\",\"fieldmap\":\"address\",\"FieldOptions\":[{\"OptionLabel\":\" Three\",\"OptionValue\":\" Three\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Roghnaigh an hata is mian leat a anailísiú\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"fieldmap\": \"undefined\", \"FieldOptions\": [ { \"OptionLabel\": \"Sonraí Hata Bán agus Réaltacht\", \"OptionValue\": \"Sonraí Hata Bán agus Réaltacht\" }, { \"OptionLabel\": \"Mothúchán Dearg agus Intuition\", \"OptionValue\": \"Mothúchán Dearg agus Intuition\" }, { \"OptionLabel\": \"Dubh Deacair agus Contúirteach\", \"OptionValue\": \"Dubh Deacair agus Contúirteach\" }, { \"OptionLabel\": \"Óir Dearfach agus Buntáistí\", \"OptionValue\": \"Óir Dearfach agus Buntáistí\" }, { \"OptionLabel\": \"Green Hats Cruthaitheacht agus Smaointe\", \"OptionValue\": \"Green Hats Cruthaitheacht agus Smaointe\" }, { \"OptionLabel\": \"Tátail agus Achoimre ar Blue Hat\", \"OptionValue\": \"Tátail agus Achoimre ar Blue Hat\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Haigh\", \"FieldValue\": null, \"FieldPlaceholder\": \"Haigh\", \"fieldmap\": \"company\", \"FieldOptions\": [ { \"OptionLabel\": \"Haigh\", \"OptionValue\": \"Haigh\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"textarea\", \"FieldLabel\": \"Trí\", \"FieldValue\": null, \"FieldPlaceholder\": \"Trí\", \"fieldmap\": \"address\", \"FieldOptions\": [ { \"OptionLabel\": \"Trí\", \"OptionValue\": \"Trí\" } ] }]"
   },
   {
     "ID": 28201,
@@ -34077,7 +34077,7 @@
     "Title": "Clara ABC 234 6- Cúntóir athscríofa ábhair thar a bheith gairmiúil agus den scoth - VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28203,
@@ -34089,7 +34089,7 @@
     "Title": "Clara ABC 234 65- Cúntóir athscríobh ábhar gairmiúil agus den chéad scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"sdfdsfd dfds \",\"FieldValue\":null,\"FieldPlaceholder\":\"dsf\",\"FieldOptions\":[{\"OptionLabel\":\"dsf\",\"OptionValue\":\"dsf\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"sdfdsfd dfds\", \"FieldValue\": null, \"FieldPlaceholder\": \"dsf\", \"FieldOptions\": [ { \"OptionLabel\": \"dsf\", \"OptionValue\": \"dsf\" } ] }]"
   },
   {
     "ID": 28217,
@@ -34101,7 +34101,7 @@
     "Title": "Tástáil [PROMPT]",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sadfsd\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"asd\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"asd\\\",\\\"OptionValue\\\":\\\"asd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"brón\", \"FieldValue\": null, \"FieldPlaceholder\": \"asd\", \"FieldOptions\": [ { \"OptionLabel\": \"asd\", \"OptionValue\": \"asd\" } ] }]"
   },
   {
     "ID": 28219,
@@ -34113,7 +34113,7 @@
     "Title": "Clara ABC 123 1666666 - Cúntóir athscríobh gairmiúil agus den scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"  rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28223,
@@ -34125,7 +34125,7 @@
     "Title": "Clara ABC 123 3666666 - Cúntóir athscríobh gairmiúil agus den scoth - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"    rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28228,
@@ -34137,7 +34137,7 @@
     "Title": "Clara ABC 123 21666666 - Cúntóir athscríofa ábhair thar a bheith gairmiúil agus den scoth - VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   rdrt\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"rdrt\\\",\\\"OptionValue\\\":\\\"rdrt\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"erte\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"erter\\\",\\\"OptionValue\\\":\\\"erter\\\"},{\\\"OptionLabel\\\":\\\"ttr\\\",\\\"OptionValue\\\":\\\"ttr\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Teideal an ábhair a scríobhann tú, cuir isteach\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28239,
@@ -34149,7 +34149,7 @@
     "Title": "A Uasal Wise, cuidigh leat tú féin a ardú le CEISTEANNA CUMHACHTA gach lá",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28284,
@@ -34161,7 +34161,7 @@
     "Title": "An tUasal Kool - máistir suirí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-tri\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn Mr Kool:\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"  null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" 1. Chia sẻ bí quyết\\\",\\\"OptionValue\\\":\\\"1. Chia sẻ bí quyết \\\"},{\\\"OptionLabel\\\":\\\" 2. Hỗ trợ 1 tình huống \\\",\\\"OptionValue\\\":\\\"2. Hỗ trợ 1 tình huống \\\"},{\\\"OptionLabel\\\":\\\" 3. Trả lời 1 câu nói\\\",\\\"OptionValue\\\":\\\"3. Trả lời 1 câu nói \\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tình huống bạn gặp là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Cô ấy nói điều gì với bạn?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Mr Kool sẽ giúp bạn trả lời \\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Mr Kool sẽ giúp bạn trả lời \\\"cool\\\" nhất\\\"}]}]\""
+    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn Mr Kool:\",\"FieldValue\":null,\"FieldPlaceholder\":\" null\",\"FieldOptions\":[{\"OptionLabel\":\" 1. Chia sẻ bí quyết\",\"OptionValue\":\"1. Chia sẻ bí quyết \"},{\"OptionLabel\":\" 2. Hỗ trợ 1 tình huống \",\"OptionValue\":\"2. Hỗ trợ 1 tình huống \"},{\"OptionLabel\":\" 3. Trả lời 1 câu nói\",\"OptionValue\":\"3. Trả lời 1 câu nói \"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình huống bạn gặp là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\",\"FieldOptions\":[{\"OptionValue\":\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Cô ấy nói điều gì với bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Mr Kool sẽ giúp bạn trả lời \",\"FieldOptions\":[{\"OptionValue\":\"Mr Kool sẽ giúp bạn trả lời \"cool\" nhất\"}]}]"
   },
   {
     "ID": 28316,
@@ -34209,7 +34209,7 @@
     "Title": "Tina - Scríobh 10 gceannteideal clickbait",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28329,
@@ -34221,7 +34221,7 @@
     "Title": "Sumy - achoimre ábhar Chliste customizable",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"number\\\",\\\"FieldLabel\\\":\\\"Số lượng\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại tóm tắt\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ý chính (takeaways), ý (points), đoạn văn, câu\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Tùy chọn Emoji\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Có emoji ở đầu, không có emoji\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"number\", \"FieldLabel\": \"Cainníocht\", \"FieldValue\": null, \"FieldPlaceholder\": \"gluaisteán, 1,2,3,4,5,6,7,8,9,10\", \"FieldOptions\": [ { \"OptionValue\": \"gluaisteán, 1,2,3,4,5,6,7,8,9,10\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Cineál achoimre\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionValue\": \"príomhsmaointe (beir leat), pointí (pointí), ailt, abairtí\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Rogha Emoji\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionValue\": \"Le emoji ag an mbarr, gan emoji\" } ] }]"
   },
   {
     "ID": 28341,
@@ -34245,7 +34245,7 @@
     "Title": "Sonia - 10 Snáitheanna agus Smaointe Post Twitter",
     "Usages": 0,
     "Categories": "[{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"twitter\",\"Community\":\"social-media\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28373,
@@ -34257,7 +34257,7 @@
     "Title": "Adela - An 10 gcúntóir scríbhneoireachta glao-go-gníomh (CTA) deiridh",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thương hiệu, tên sản phẩm của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Khách hàng bạn nhắm tới là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn họ có hành động gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"Mua sản phẩm/dịch vụ\",\"OptionValue\":\"Mua sản phẩm/dịch vụ\"},{\"OptionLabel\":\" Tải về\",\"OptionValue\":\" Tải về\"},{\"OptionLabel\":\" Nhận báo giá\",\"OptionValue\":\" Nhận báo giá\"},{\"OptionLabel\":\" Đăng ký kênh và chia sẻ\",\"OptionValue\":\" Đăng ký kênh và chia sẻ\"},{\"OptionLabel\":\" Bình luận\",\"OptionValue\":\" Bình luận\"},{\"OptionLabel\":\" Liên hệ\",\"OptionValue\":\" Liên hệ\"},{\"OptionLabel\":\" Nhận ưu đãi\",\"OptionValue\":\" Nhận ưu đãi\"}]},{\"FieldID\":\"FIELD4\",\"FieldType\":\"text\",\"FieldLabel\":\"Đường link website, fanpage, liên kết CTA\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Do bhranda, ainm an táirge?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Cé hiad do chustaiméirí sprice?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Cén gníomh ar mhaith leat iad a dhéanamh?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Ceannaigh táirgí/seirbhísí\", \"OptionValue\": \"Ceannaigh táirgí/seirbhísí\" }, { \"OptionLabel\": \"Íosluchtaigh\", \"OptionValue\": \"Íosluchtaigh\" }, { \"OptionLabel\": \"Faigh ceanglófar\", \"OptionValue\": \"Faigh ceanglófar\" }, { \"OptionLabel\": \"Liostáil leis an gcainéal agus roinn\", \"OptionValue\": \"Liostáil leis an gcainéal agus roinn\" }, { \"OptionLabel\": \"Trácht\", \"OptionValue\": \"Trácht\" }, { \"OptionLabel\": \"Teagmháil\", \"OptionValue\": \"Teagmháil\" }, { \"OptionLabel\": \"Faigh margaí\", \"OptionValue\": \"Faigh margaí\" } ] }, { \"FieldID\": \"FIELD4\", \"FieldType\": \"text\", \"FieldLabel\": \"Nasc láithreán gréasáin, leathanach fan, nasc CTA\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 31756,
@@ -34281,7 +34281,7 @@
     "Title": "[LEABHAR] 1.1 - Scríobh 10 teideal nua do do leabhar",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75691,
@@ -34305,7 +34305,7 @@
     "Title": "6 hata - réititheoir cliste fadhbanna le 6 hata",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Roghnaigh an hata is mian leat a anailísiú\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Hata Bán - Sonraí agus Réaltacht\", \"OptionValue\": \"Hata Bán - Sonraí agus Réaltacht\" }, { \"OptionLabel\": \"Red Hat - Mothúcháin agus Intuition\", \"OptionValue\": \"Red Hat - Mothúcháin agus Intuition\" }, { \"OptionLabel\": \"Hat Dubh - Deacracht agus Contúirt\", \"OptionValue\": \"Hat Dubh - Deacracht agus Contúirt\" }, { \"OptionLabel\": \"Hat Buí - Buntáistí agus Buntáistí\", \"OptionValue\": \"Hat Buí - Buntáistí agus Buntáistí\" }, { \"OptionLabel\": \"Hata Glas - Cruthaitheacht agus Smaointe\", \"OptionValue\": \"Hata Glas - Cruthaitheacht agus Smaointe\" }, { \"OptionLabel\": \"Hata Gorm - Tátail agus Achoimre\", \"OptionValue\": \"Hata Gorm - Tátail agus Achoimre\" } ] }]"
   },
   {
     "ID": 75700,
@@ -34317,7 +34317,7 @@
     "Title": "6 hata - réititheoir cliste fadhbanna le 6 hata",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Roghnaigh an hata is mian leat a anailísiú\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Hata Bán - Sonraí agus Réaltacht\", \"OptionValue\": \"Hata Bán - Sonraí agus Réaltacht\" }, { \"OptionLabel\": \"Red Hat - Mothúcháin agus Intuition\", \"OptionValue\": \"Red Hat - Mothúcháin agus Intuition\" }, { \"OptionLabel\": \"Hat Dubh - Deacracht agus Contúirt\", \"OptionValue\": \"Hat Dubh - Deacracht agus Contúirt\" }, { \"OptionLabel\": \"Hat Buí - Buntáistí agus Buntáistí\", \"OptionValue\": \"Hat Buí - Buntáistí agus Buntáistí\" }, { \"OptionLabel\": \"Hata Glas - Cruthaitheacht agus Smaointe\", \"OptionValue\": \"Hata Glas - Cruthaitheacht agus Smaointe\" }, { \"OptionLabel\": \"Hata Gorm - Tátail agus Achoimre\", \"OptionValue\": \"Hata Gorm - Tátail agus Achoimre\" } ] }]"
   },
   {
     "ID": 75702,
@@ -34329,7 +34329,7 @@
     "Title": "6 hata - réititheoir cliste fadhbanna le 6 hata",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Roghnaigh an hata is mian leat a anailísiú\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Hata Bán - Sonraí agus Réaltacht\", \"OptionValue\": \"Hata Bán - Sonraí agus Réaltacht\" }, { \"OptionLabel\": \"Red Hat - Mothúcháin agus Intuition\", \"OptionValue\": \"Red Hat - Mothúcháin agus Intuition\" }, { \"OptionLabel\": \"Hat Dubh - Deacracht agus Contúirt\", \"OptionValue\": \"Hat Dubh - Deacracht agus Contúirt\" }, { \"OptionLabel\": \"Hat Buí - Buntáistí agus Buntáistí\", \"OptionValue\": \"Hat Buí - Buntáistí agus Buntáistí\" }, { \"OptionLabel\": \"Hata Glas - Cruthaitheacht agus Smaointe\", \"OptionValue\": \"Hata Glas - Cruthaitheacht agus Smaointe\" }, { \"OptionLabel\": \"Hata Gorm - Tátail agus Achoimre\", \"OptionValue\": \"Hata Gorm - Tátail agus Achoimre\" } ] }]"
   },
   {
     "ID": 75739,
@@ -34341,7 +34341,7 @@
     "Title": "teach ag bogadh pacáiste",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75759,
@@ -34353,7 +34353,7 @@
     "Title": "Seirbhís iomlán bogadh tí",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":\\\"\\\"}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": \"\" }]"
   },
   {
     "ID": 75779,
@@ -34365,7 +34365,7 @@
     "Title": "Miba - Sainchomhairle le haghaidh plean gnó",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Kế hoạch bạn lên trong vòng bao lâu?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình hình và kết quả kinh doanh hiện tại của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào tình hình chi tiết\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào tình hình chi tiết\",\"OptionValue\":\"Nhập vào tình hình chi tiết\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Nguồn lực hiện tại bạn có?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Ngân sách, nhân sự triển khai v.v\",\"FieldOptions\":[{\"OptionLabel\":\"Ngân sách\",\"OptionValue\":\"Ngân sách\"},{\"OptionLabel\":\" nhân sự triển khai v.v\",\"OptionValue\":\" nhân sự triển khai v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Cá fhad atá ar intinn agat fanacht?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad é do chás agus na torthaí gnó faoi láthair?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Cuir isteach staid mhionsonraithe\", \"FieldOptions\": [ { \"OptionLabel\": \"Cuir isteach staid mhionsonraithe\", \"OptionValue\": \"Cuir isteach staid mhionsonraithe\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Cad iad na hacmhainní atá agat faoi láthair?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Buiséad, cur i bhfeidhm foirne, etc\", \"FieldOptions\": [ { \"OptionLabel\": \"Buiséad\", \"OptionValue\": \"Buiséad\" }, { \"OptionLabel\": \"pearsanra imscartha etc\", \"OptionValue\": \"pearsanra imscartha etc\" } ] }]"
   },
   {
     "ID": 75786,
@@ -34377,7 +34377,7 @@
     "Title": "Miba - Sainchomhairle le haghaidh smaointe gnó",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khoi-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Bạn có thể mô tả rõ hơn nữa không? \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Khách hàng, Giá bán, Chiến lược tăng trưởng v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Khách hàng\\\",\\\"OptionValue\\\":\\\"Khách hàng\\\"},{\\\"OptionLabel\\\":\\\" Giá bán\\\",\\\"OptionValue\\\":\\\" Giá bán\\\"},{\\\"OptionLabel\\\":\\\" Chiến lược tăng trưởng v.v\\\",\\\"OptionValue\\\":\\\" Chiến lược tăng trưởng v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"An féidir leat cur síos níos soiléire a thabhairt air?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Custaiméirí, Praghas, Straitéis Fáis etc\", \"FieldOptions\": [ { \"OptionLabel\": \"Cliant\", \"OptionValue\": \"Cliant\" }, { \"OptionLabel\": \"Praghas\", \"OptionValue\": \"Praghas\" }, { \"OptionLabel\": \"Straitéis fáis etc\", \"OptionValue\": \"Straitéis fáis etc\" } ] }]"
   },
   {
     "ID": 75790,
@@ -34389,7 +34389,7 @@
     "Title": "Clara - Déan trácht agus athscríobh ábhar gairmiúil",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại nội dung nào bạn muốn góp ý?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Bài viết\\\",\\\"OptionValue\\\":\\\"Bài viết\\\"},{\\\"OptionLabel\\\":\\\" Quảng cáo\\\",\\\"OptionValue\\\":\\\" Quảng cáo\\\"},{\\\"OptionLabel\\\":\\\" Social Media\\\",\\\"OptionValue\\\":\\\" Social Media\\\"},{\\\"OptionLabel\\\":\\\" Kịch bản video\\\",\\\"OptionValue\\\":\\\" Kịch bản video\\\"},{\\\"OptionLabel\\\":\\\" Email\\\",\\\"OptionValue\\\":\\\" Email\\\"},{\\\"OptionLabel\\\":\\\" Thể loại khác\\\",\\\"OptionValue\\\":\\\" Thể loại khác\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Cén cineál ábhair ar mhaith leat trácht a dhéanamh air?\", \"FieldValue\": null, \"FieldPlaceholder\": \"null\", \"FieldOptions\": [ { \"OptionLabel\": \"Poist\", \"OptionValue\": \"Poist\" }, { \"OptionLabel\": \"Fógra\", \"OptionValue\": \"Fógra\" }, { \"OptionLabel\": \"Na meáin shóisialta\", \"OptionValue\": \"Na meáin shóisialta\" }, { \"OptionLabel\": \"Script físeán\", \"OptionValue\": \"Script físeán\" }, { \"OptionLabel\": \"Ríomhphost\", \"OptionValue\": \"Ríomhphost\" }, { \"OptionLabel\": \"Cineál eile\", \"OptionValue\": \"Cineál eile\" } ] }]"
   },
   {
     "ID": 75813,
@@ -34401,7 +34401,7 @@
     "Title": "Clio - Léargas custaiméara a thuiscint, lionsa táirge/seirbhíse ó chustaiméirí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm tới\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Độ tuổi, giới tính, thu nhập v.v\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"  Độ tuổi\",\"OptionValue\":\"  Độ tuổi\"},{\"OptionLabel\":\" giới tính\",\"OptionValue\":\" giới tính\"},{\"OptionLabel\":\" thu nhập v.v\",\"OptionValue\":\" thu nhập v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Do spriocghrúpa?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Aois, inscne, ioncam etc\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"Aois\", \"OptionValue\": \"Aois\" }, { \"OptionLabel\": \"gnéas\", \"OptionValue\": \"gnéas\" }, { \"OptionLabel\": \"ioncam etc\", \"OptionValue\": \"ioncam etc\" } ] }]"
   },
   {
     "ID": 75822,
@@ -34413,7 +34413,7 @@
     "Title": "AD - Cúntóir earcaíochta gairmiúil: 10 gceist d’iarrthóirí",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75848,
@@ -34425,6 +34425,6 @@
     "Title": "Clio - Léargas custaiméara a thuiscint, lionsa táirge/seirbhíse ó chustaiméirí",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   Độ tuổi, giới tính, thu nhập v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Độ tuổi\\\",\\\"OptionValue\\\":\\\"  Độ tuổi\\\"},{\\\"OptionLabel\\\":\\\" giới tính\\\",\\\"OptionValue\\\":\\\" giới tính\\\"},{\\\"OptionLabel\\\":\\\" thu nhập v.v\\\",\\\"OptionValue\\\":\\\" thu nhập v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Do spriocghrúpa?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Aois, inscne, ioncam etc\", \"FieldOptions\": [ { \"OptionLabel\": \"Aois\", \"OptionValue\": \"Aois\" }, { \"OptionLabel\": \"gnéas\", \"OptionValue\": \"gnéas\" }, { \"OptionLabel\": \"ioncam etc\", \"OptionValue\": \"ioncam etc\" } ] }]"
   }
 ]

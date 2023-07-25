@@ -30525,7 +30525,7 @@
     "Title": "Assistent zum Erstellen von Tiktok-Skripten aus Youtube-Videos oder einem bestimmten Artikel – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thời gian video bạn muốn tạo\",\"FieldValue\":null,\"FieldPlaceholder\":\"45s, 60s, 2 phút v.v\",\"FieldOptions\":[{\"OptionLabel\":\"45s\",\"OptionValue\":\"45s\"},{\"OptionLabel\":\" 60s\",\"OptionValue\":\" 60s\"},{\"OptionLabel\":\" 2 phút v.v\",\"OptionValue\":\" 2 phút v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zeit für das Video, das Sie erstellen möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"45s, 60s, 2 Minuten usw\", \"FieldOptions\": [ { \"OptionLabel\": \"45s\", \"OptionValue\": \"45s\" }, { \"OptionLabel\": \"60er Jahre\", \"OptionValue\": \"60er Jahre\" }, { \"OptionLabel\": \"2 Minuten usw\", \"OptionValue\": \"2 Minuten usw\" } ] }]"
   },
   {
     "ID": 21967,
@@ -30537,7 +30537,7 @@
     "Title": "Das Super-Tool, das die ultimativen KI-Assistenten erstellt",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21973,
@@ -30549,7 +30549,7 @@
     "Title": "Sumy – Fassen Sie jeden Artikel und jedes Video schnell und einfach zusammen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21976,
@@ -30561,7 +30561,7 @@
     "Title": "Experten enthüllen Top-Geheimnisse [MÜSSEN VERSUCHEN]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21978,
@@ -30573,7 +30573,7 @@
     "Title": "Der Experte Nr. 1 für Problemlösung mit fünf Warums",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22013,
@@ -30585,7 +30585,7 @@
     "Title": "So verwenden Sie das Tool",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22014,
@@ -30597,7 +30597,7 @@
     "Title": "10 Software-Tipps zur Steigerung der Produktivität",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22025,
@@ -30609,7 +30609,7 @@
     "Title": "Lernen Sie IELTS mit Tutorin Lexa!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tieng-anh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22051,
@@ -30621,7 +30621,7 @@
     "Title": "Professioneller Coach für Karriereentwicklung – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22066,
@@ -30633,7 +30633,7 @@
     "Title": "Beziehungscoach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"moi-quan-he\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22281,
@@ -30657,7 +30657,7 @@
     "Title": "Clio – Grundlegende Kundenporträtanalyse 2 (mit Publikum)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Wer ist Ihre Zielgruppe?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 22316,
@@ -30669,7 +30669,7 @@
     "Title": "Assistent zur Analyse von Website-Inhalten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22317,
@@ -30681,7 +30681,7 @@
     "Title": "Assistent zur Analyse von Website-Inhalten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22318,
@@ -30693,7 +30693,7 @@
     "Title": "Assistent zur Analyse von Website-Inhalten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22319,
@@ -30705,7 +30705,7 @@
     "Title": "Assistent zur Analyse von Website-Inhalten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22324,
@@ -30717,7 +30717,7 @@
     "Title": "UTB – Online-Generator für Kursergebnisse und Vorteile",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22372,
@@ -30729,7 +30729,7 @@
     "Title": "Der Coach hilft Ihnen, Ihr Kind zu unterrichten und Fähigkeiten für Ihr Kind zu entwickeln",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Đặc điểm bạn muốn phát triển như \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tự giác\\\",\\\"OptionValue\\\":\\\"Tự giác\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết vấn đề\\\",\\\"OptionValue\\\":\\\"Giải quyết vấn đề\\\"},{\\\"OptionLabel\\\":\\\" Tư duy phản biện\\\",\\\"OptionValue\\\":\\\"Tư duy phản biện\\\"},{\\\"OptionLabel\\\":\\\" Ra quyết định\\\",\\\"OptionValue\\\":\\\"Ra quyết định\\\"},{\\\"OptionLabel\\\":\\\" Sáng tạo\\\",\\\"OptionValue\\\":\\\"Sáng tạo\\\"},{\\\"OptionLabel\\\":\\\" Tôn trọng người khác\\\",\\\"OptionValue\\\":\\\"Tôn trọng người khác\\\"},{\\\"OptionLabel\\\":\\\" Trách nhiệm\\\",\\\"OptionValue\\\":\\\"Trách nhiệm\\\"},{\\\"OptionLabel\\\":\\\" Trung thực\\\",\\\"OptionValue\\\":\\\"Trung thực\\\"},{\\\"OptionLabel\\\":\\\" Tốt bụng và thông cảm\\\",\\\"OptionValue\\\":\\\"Tốt bụng và thông cảm\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng giao tiếp\\\",\\\"OptionValue\\\":\\\"Kỹ năng giao tiếp\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết xung đột\\\",\\\"OptionValue\\\":\\\"Giải quyết xung đột\\\"},{\\\"OptionLabel\\\":\\\" Làm việc nhóm\\\",\\\"OptionValue\\\":\\\"Làm việc nhóm\\\"},{\\\"OptionLabel\\\":\\\" Lễ nghi và ứng xử\\\",\\\"OptionValue\\\":\\\"Lễ nghi và ứng xử\\\"},{\\\"OptionLabel\\\":\\\" Quản lý thời gian\\\",\\\"OptionValue\\\":\\\"Quản lý thời gian\\\"},{\\\"OptionLabel\\\":\\\" Tổ chức\\\",\\\"OptionValue\\\":\\\"Tổ chức\\\"},{\\\"OptionLabel\\\":\\\" Quản lý tiền bạc và ngân sách\\\",\\\"OptionValue\\\":\\\"Quản lý tiền bạc và ngân sách\\\"},{\\\"OptionLabel\\\":\\\" Việc nhà\\\",\\\"OptionValue\\\":\\\"Việc nhà\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng học tập\\\",\\\"OptionValue\\\":\\\"Kỹ năng học tập\\\"},{\\\"OptionLabel\\\":\\\" Đọc và viết\\\",\\\"OptionValue\\\":\\\"Đọc và viết\\\"},{\\\"OptionLabel\\\":\\\" Toán học\\\",\\\"OptionValue\\\":\\\"Toán học\\\"},{\\\"OptionLabel\\\":\\\" Tiếng Anh\\\",\\\"OptionValue\\\":\\\"Tiếng Anh\\\"},{\\\"OptionLabel\\\":\\\" Phát triển thể chất\\\",\\\"OptionValue\\\":\\\"Phát triển thể chất\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Eigenschaften, die Sie entwickeln möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Freiwillig\", \"OptionValue\": \"Freiwillig\" }, { \"OptionLabel\": \"Probleme lösen\", \"OptionValue\": \"Probleme lösen\" }, { \"OptionLabel\": \"Kritisches Denken\", \"OptionValue\": \"Kritisches Denken\" }, { \"OptionLabel\": \"Entscheidung treffen\", \"OptionValue\": \"Entscheidung treffen\" }, { \"OptionLabel\": \"Kreativ\", \"OptionValue\": \"Kreativ\" }, { \"OptionLabel\": \"Andere respektieren\", \"OptionValue\": \"Andere respektieren\" }, { \"OptionLabel\": \"Verantwortung\", \"OptionValue\": \"Verantwortung\" }, { \"OptionLabel\": \"Ehrlich\", \"OptionValue\": \"Ehrlich\" }, { \"OptionLabel\": \"Freundlich und sympathisch\", \"OptionValue\": \"Freundlich und sympathisch\" }, { \"OptionLabel\": \"Kommunikationsfähigkeit\", \"OptionValue\": \"Kommunikationsfähigkeit\" }, { \"OptionLabel\": \"Konfliktlösung\", \"OptionValue\": \"Konfliktlösung\" }, { \"OptionLabel\": \"Arbeitsgruppe\", \"OptionValue\": \"Arbeitsgruppe\" }, { \"OptionLabel\": \"Rituale und Verhalten\", \"OptionValue\": \"Rituale und Verhalten\" }, { \"OptionLabel\": \"Zeiteinteilung\", \"OptionValue\": \"Zeiteinteilung\" }, { \"OptionLabel\": \"Organisation\", \"OptionValue\": \"Organisation\" }, { \"OptionLabel\": \"Geld- und Budgetmanagement\", \"OptionValue\": \"Geld- und Budgetmanagement\" }, { \"OptionLabel\": \"Hausarbeit\", \"OptionValue\": \"Hausarbeit\" }, { \"OptionLabel\": \"Lernfähigkeit\", \"OptionValue\": \"Lernfähigkeit\" }, { \"OptionLabel\": \"Lesen und Schreiben\", \"OptionValue\": \"Lesen und Schreiben\" }, { \"OptionLabel\": \"Mathematik\", \"OptionValue\": \"Mathematik\" }, { \"OptionLabel\": \"Englisch\", \"OptionValue\": \"Englisch\" }, { \"OptionLabel\": \"Körperliche Verbesserung\", \"OptionValue\": \"Körperliche Verbesserung\" } ] }]"
   },
   {
     "ID": 22461,
@@ -30741,7 +30741,7 @@
     "Title": "Super CODER – Codieren Sie alles",
     "Usages": 0,
     "Categories": "[{\"Category\":\"web-development\",\"Community\":\"developper-lap-trinh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22473,
@@ -30753,7 +30753,7 @@
     "Title": "Analysieren Sie potenzielle Kundendateien",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22567,
@@ -30765,7 +30765,7 @@
     "Title": "Analysieren Sie die potenzielle Kundendatei eines Produkts",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22690,
@@ -30777,7 +30777,7 @@
     "Title": "Professioneller E-Mail-Schreibassistent",
     "Usages": 0,
     "Categories": "[{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22707,
@@ -30789,7 +30789,7 @@
     "Title": "Master Angelas Assistentin für den Abschluss des Direktverkaufs",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22717,
@@ -30801,7 +30801,7 @@
     "Title": "Sally – Vertriebsexpertin im Umgang mit den 10 häufigsten Ablehnungssituationen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22720,
@@ -30813,7 +30813,7 @@
     "Title": "Meisterassistent beim Abschluss des Nr. 1-Verkaufs per Telesale Emma",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22742,
@@ -30825,7 +30825,7 @@
     "Title": "Professioneller Business-Coach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22751,
@@ -30837,7 +30837,7 @@
     "Title": "Der ultimative Tiktok-Skriptassistent mit Szenen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22797,
@@ -30849,7 +30849,7 @@
     "Title": "Coach für die Entwicklung von Unternehmensteams",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22806,
@@ -30861,7 +30861,7 @@
     "Title": "Sprachschreibassistent mit 1 Klick",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"su-kien\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22813,
@@ -30873,7 +30873,7 @@
     "Title": "Der ultimative Eventplanungsassistent – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22833,
@@ -30885,7 +30885,7 @@
     "Title": "AAA-Sprachschreibassistent mit 1 Klick",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22905,
@@ -30897,7 +30897,7 @@
     "Title": "Macher-Assistent bei der Planung und Umsetzung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22914,
@@ -30945,7 +30945,7 @@
     "Title": "Assistent zur Erstellung von Unterrichtsentwürfen für Kurse/Trainingsprogramme – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22951,
@@ -30957,7 +30957,7 @@
     "Title": "UTB – Tool zur Erstellung von Skriptinhalten für 1 Videolektion [FORTSETZUNG]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22969,
@@ -30981,7 +30981,7 @@
     "Title": "[ULTRA] Prompt-Schreibassistent",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22983,
@@ -30993,7 +30993,7 @@
     "Title": "Strategen tragen dazu bei, die Return-to-Kauf-Rate der Kunden zu erhöhen (RETENTION)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22991,
@@ -31005,7 +31005,7 @@
     "Title": "Personalisierungsstratege: Durchbrechen Sie Ihren Produkt-/Dienstleistungsumsatz",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22996,
@@ -31017,7 +31017,7 @@
     "Title": "Das Geheimnis der Gewinnung neuer Kunden von einem Strategen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23056,
@@ -31029,7 +31029,7 @@
     "Title": "Vertriebsstrategie &amp; MKT TMS Quy Nhon zu vermieten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23059,
@@ -31041,7 +31041,7 @@
     "Title": "Miss Izy – Die Assistentin erklärt das Problem auf einfache Weise",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23165,
@@ -31053,7 +31053,7 @@
     "Title": "Puma – Ihr mehrsprachiger Redaktions- und Korrekturleseassistent!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23176,
@@ -31065,7 +31065,7 @@
     "Title": "Sophia – Planungsassistentin für soziale Medien für 30 Tage",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23190,
@@ -31077,7 +31077,7 @@
     "Title": "Assistent zum Erstellen interessanter Fragen für Facebook-Gruppen und Fanpages: Erhöhen Sie die Interaktion für Ihre Community",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23199,
@@ -31089,7 +31089,7 @@
     "Title": "Sophia – Social-Media-Assistentin: 30 Social-Media-Content-Ideen, um Ihre Kunden zu erreichen.",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23218,
@@ -31101,7 +31101,7 @@
     "Title": "Erstellen Sie einen Kurs",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23221,
@@ -31113,7 +31113,7 @@
     "Title": "Lily – Assistentin zum Erstellen von Beiträgen auf allen Social-Media-Plattformen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Nền tảng bạn muốn tạo nội dung\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"Facebook\",\"OptionValue\":\"Facebook\"},{\"OptionLabel\":\" Tiktok\",\"OptionValue\":\" Tiktok\"},{\"OptionLabel\":\" Youtube\",\"OptionValue\":\" Youtube\"},{\"OptionLabel\":\" Instagram\",\"OptionValue\":\" Instagram\"},{\"OptionLabel\":\" Twitter\",\"OptionValue\":\" Twitter\"},{\"OptionLabel\":\" Linkedin\",\"OptionValue\":\" Linkedin\"},{\"OptionLabel\":\" Snapchat\",\"OptionValue\":\" Snapchat\"},{\"OptionLabel\":\" Pinterest\",\"OptionValue\":\" Pinterest\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Die Plattform, auf der Sie Inhalte erstellen möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Facebook\", \"OptionValue\": \"Facebook\" }, { \"OptionLabel\": \"Tick ​​Tack\", \"OptionValue\": \"Tick ​​Tack\" }, { \"OptionLabel\": \"Youtube\", \"OptionValue\": \"Youtube\" }, { \"OptionLabel\": \"Instagram\", \"OptionValue\": \"Instagram\" }, { \"OptionLabel\": \"Twitter\", \"OptionValue\": \"Twitter\" }, { \"OptionLabel\": \"Linkedin\", \"OptionValue\": \"Linkedin\" }, { \"OptionLabel\": \"Snapchat\", \"OptionValue\": \"Snapchat\" }, { \"OptionLabel\": \"Pinterest\", \"OptionValue\": \"Pinterest\" } ] }]"
   },
   {
     "ID": 23232,
@@ -31125,7 +31125,7 @@
     "Title": "Stellen Sie eine Liste mit zehn Long-Tail-Keywords zusammen, die sich auf [Thema] beziehen.",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23233,
@@ -31137,7 +31137,7 @@
     "Title": "Stellen Sie eine Liste mit zehn Long-Tail-Keywords zusammen, die sich auf [Thema] beziehen.",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23234,
@@ -31149,7 +31149,7 @@
     "Title": "Schreiben Sie ein Skript für ein 5-minütiges Produkteinführungsvideo",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23318,
@@ -31161,7 +31161,7 @@
     "Title": "Assistent zur Titelerstellung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de\",\"Community\":\"seo-blog\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23319,
@@ -31173,7 +31173,7 @@
     "Title": "[Ultra] Tiktok-Skript- und Beschreibungsschreibassistent für AIB-Befehle",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23320,
@@ -31185,7 +31185,7 @@
     "Title": "[Ultra] – Super-Assistent, der beim Schreiben von Social-Media-Inhalten für Eingabeaufforderungen hilft",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23326,
@@ -31197,7 +31197,7 @@
     "Title": "[Ultra] Assistant schreibt Blog über einen AIB-Assistenten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23328,
@@ -31209,7 +31209,7 @@
     "Title": "Mike – Lean Startup Coach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23333,
@@ -31221,7 +31221,7 @@
     "Title": "Geschäftskarte für Unternehmer mit Business Coach Shark Mike",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23347,
@@ -31233,7 +31233,7 @@
     "Title": "API Revit",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23349,
@@ -31245,7 +31245,7 @@
     "Title": "Umsatzoptimierung",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23351,
@@ -31257,7 +31257,7 @@
     "Title": "Erstellen Sie Bilder",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23391,
@@ -31269,7 +31269,7 @@
     "Title": "[Ultra]-Assistent zur Verbesserung Ihrer Eingabeaufforderung auf eine professionelle Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23392,
@@ -31281,7 +31281,7 @@
     "Title": "[ULTRA] Assistent zum Erstellen von Megaprompt aus einer bestimmten Eingabeaufforderung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23393,
@@ -31293,7 +31293,7 @@
     "Title": "Tony – Erfolgscoach: Erobern Sie jedes Ihrer Ziele – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"coach\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23397,
@@ -31305,7 +31305,7 @@
     "Title": "HR – Experte für die Schulung und Entwicklung menschlicher Fähigkeiten und Fertigkeiten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23398,
@@ -31317,7 +31317,7 @@
     "Title": "HR – Experte für die Entwicklung von Kompetenzen/Fähigkeiten durch Arbeitsaktivitäten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23399,
@@ -31329,7 +31329,7 @@
     "Title": "HR – Experte für den Aufbau und die Bewertung von Personalrahmen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23410,
@@ -31341,7 +31341,7 @@
     "Title": "HR – Professioneller E-Mail-Assistent für die Ablehnung von Kandidaten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23411,
@@ -31353,7 +31353,7 @@
     "Title": "HR – Professioneller Rekrutierungsassistent: 10 Fragen an Kandidaten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23412,
@@ -31365,7 +31365,7 @@
     "Title": "HR – Assistent zum Schreiben von E-Mails, um professionellen Kandidaten zu gratulieren",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23415,
@@ -31377,7 +31377,7 @@
     "Title": "HR – Professioneller Assistent für die Erstellung von Stellenausschreibungen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23416,
@@ -31389,7 +31389,7 @@
     "Title": "HR – Onboarding-Leitfaden für Assistenten für neue Mitglieder",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23417,
@@ -31401,7 +31401,7 @@
     "Title": "HR – „Head-Hunt“-Assistent schreibt E-Mails zur Rekrutierung und Rekrutierung von Talenten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23421,
@@ -31413,7 +31413,7 @@
     "Title": "HR – Experte für die Bewertung und Analyse von Kandidaten mit 10 Vor- und Nachteilen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23424,
@@ -31425,7 +31425,7 @@
     "Title": "HR – Assistent zum Verfassen detaillierter und genauer Stellenbeschreibungen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23427,
@@ -31437,7 +31437,7 @@
     "Title": "HR – Experten beschreiben den Kompetenzrahmen auf einer Skala von 1-5",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23437,
@@ -31449,7 +31449,7 @@
     "Title": "Professionelles Tool zum Schreiben von Lebensläufen, um Arbeitgeber zu gewinnen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23439,
@@ -31461,7 +31461,7 @@
     "Title": "Professionelles Tool zum Verfassen von Anschreiben, um Arbeitgeber zu gewinnen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23440,
@@ -31473,7 +31473,7 @@
     "Title": "Vorstellungsgespräch: Machen Sie sich bereit für das Vorstellungsgespräch für den Job Ihrer Träume",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"phong-van\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23463,
@@ -31485,7 +31485,7 @@
     "Title": "Experte für das Schreiben und Optimieren von Prozessen für jedes Unternehmen – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23464,
@@ -31497,7 +31497,7 @@
     "Title": "Tools zum Zeichnen von Diagrammen, Prozessen und Diagrammen mit Mermaid",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23478,
@@ -31509,7 +31509,7 @@
     "Title": "[BUCH] 1 – Der Assistent schlägt Themen für Ihr Buch vor",
     "Usages": 0,
     "Categories": "[{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Chọn chủ đề bạn muốn viết\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Độc giả bạn hướng đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào đối tượng độc giả hoặc bỏ qua\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\",\"OptionValue\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Wählen Sie das Thema aus, über das Sie schreiben möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Wer ist Ihre Zielgruppe?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Geben Sie Ihr Publikum ein oder überspringen Sie es\", \"FieldOptions\": [ { \"OptionLabel\": \"Geben Sie Ihr Publikum ein oder überspringen Sie es\", \"OptionValue\": \"Geben Sie Ihr Publikum ein oder überspringen Sie es\" } ] }]"
   },
   {
     "ID": 23479,
@@ -31521,7 +31521,7 @@
     "Title": "[BUCH] 2 – Der Assistent schlägt detaillierte Ideen für Ihr Buch vor",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23480,
@@ -31545,7 +31545,7 @@
     "Title": "[BUCH] 4 – Assistent, der Inhalte und Ideen für Buchkapitel vorschlägt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23482,
@@ -31557,7 +31557,7 @@
     "Title": "[BUCH] 5 – Der Assistent schreibt den Inhalt des Buchkapitels für Sie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23483,
@@ -31569,7 +31569,7 @@
     "Title": "[BUCH] 6 – Verleihen Sie Ihren Buchkapiteln Magie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23484,
@@ -31581,7 +31581,7 @@
     "Title": "[BUCH] 7 – Assistent beim Verfassen des endgültigen Inhaltsverzeichnisses für das Buch",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23485,
@@ -31593,7 +31593,7 @@
     "Title": "[BUCH] 8 – Der Assistent schreibt die Einleitung zum Buch",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23501,
@@ -31605,7 +31605,7 @@
     "Title": "[BUCH] 9 – Assistent beim Schreiben der Schlussfolgerung für das Buch",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23502,
@@ -31617,7 +31617,7 @@
     "Title": "[BUCH] 10 – Schreibassistent für E-Book-Werbung für Einladungen. Kostenloser Download",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23503,
@@ -31629,7 +31629,7 @@
     "Title": "Intelligenter Arbeitsplanungsassistent mit Eisenhower-Matrix",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23505,
@@ -31641,7 +31641,7 @@
     "Title": "[BUCH] 6.1 – Verleihen Sie Ihren Buchkapiteln Magie: Konversation und Geschichtenerzählen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23506,
@@ -31653,7 +31653,7 @@
     "Title": "[BUCH] 5.1 – Neuer Ideenforschungsassistent zur Ergänzung Ihres Buchkapitels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23535,
@@ -31665,7 +31665,7 @@
     "Title": "[BUCH] – 5.2: Der Assistent schreibt ansprechende und detaillierte Inhalte für jeden Teil des Buchs neu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23540,
@@ -31677,7 +31677,7 @@
     "Title": "Clara – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23608,
@@ -31689,7 +31689,7 @@
     "Title": "Lehrassistent für Lehrer",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"nha-giao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23609,
@@ -31701,7 +31701,7 @@
     "Title": "Lehrassistent für Lehrer",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23618,
@@ -31713,7 +31713,7 @@
     "Title": "Adela – Ultimatives Schreiben von Facebook-Anzeigen: Fördern Sie die Aktion",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23621,
@@ -31725,7 +31725,7 @@
     "Title": "[ULTRA] Der Assistent schreibt Megaprompt aus einer bestimmten Prompt-Serie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23690,
@@ -31737,7 +31737,7 @@
     "Title": "Edita – Ultimativer Textverarbeitungsassistent: Texttransformation",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23703,
@@ -31749,7 +31749,7 @@
     "Title": "Facebook-Beitrag mit Emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23704,
@@ -31761,7 +31761,7 @@
     "Title": "Facebook-Beitrag mit Emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23705,
@@ -31773,7 +31773,7 @@
     "Title": "Facebook-Beitrag mit Emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23731,
@@ -31785,7 +31785,7 @@
     "Title": "Lernen Sie jeden Tag Chinesisch mit Rabbit Tu Zi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23740,
@@ -31797,7 +31797,7 @@
     "Title": "Lernen Sie englische Vokabeln",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23771,
@@ -31809,7 +31809,7 @@
     "Title": "CareerGPT: Student Career Specialist – Bringen Sie Licht in Ihre Zukunft",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23805,
@@ -31821,7 +31821,7 @@
     "Title": "CareerGPT: Berufsorientierung für Berufstätige",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23823,
@@ -31833,7 +31833,7 @@
     "Title": "Edita – Ultimativer Textverarbeitungsassistent: Automatische Datenextraktion",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23887,
@@ -31845,7 +31845,7 @@
     "Title": "Satima – Der ultimative Assistent zur Analyse der Kundenstimmung – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23889,
@@ -31857,7 +31857,7 @@
     "Title": "[ULTRA] Assistent zum Verfassen einer Leistungsbeschreibung für virtuelle AIVA-Assistenten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23890,
@@ -31869,7 +31869,7 @@
     "Title": "[ULTRA] Analysieren Sie die Vorteile, Kosten und Zeitersparnis für 1 AIVA Best-Assistent",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23940,
@@ -31881,7 +31881,7 @@
     "Title": "Ella – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Kundenbetreuung vor und nach dem Verkauf",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23943,
@@ -31893,7 +31893,7 @@
     "Title": "Ella – Super-Assistentin zur Interaktion und Reaktion auf Kunden – After-Sales-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23944,
@@ -31905,7 +31905,7 @@
     "Title": "Ella – Super-Assistentin zur Interaktion und Reaktion auf Kunden – Vorverkaufsversion",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23987,
@@ -31917,7 +31917,7 @@
     "Title": "Petalia Angel – Damit jeder Tag positiv, friedlich und inspirierend ist",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23998,
@@ -31929,7 +31929,7 @@
     "Title": "[Ultra] Assistant stellt AIVA-Assistenten Demoszenarien zur Verfügung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24003,
@@ -31941,7 +31941,7 @@
     "Title": "Leiter des E-Commerce-Bereichs",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24004,
@@ -31953,7 +31953,7 @@
     "Title": "Verantwortlicher Direktor von MKT",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24005,
@@ -31965,7 +31965,7 @@
     "Title": "Unternehmensmarketingmanager",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24066,
@@ -31977,7 +31977,7 @@
     "Title": "Raporta – Ein leistungsstarker Assistent zum Erstellen professioneller Berichte aus beliebigen Daten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24072,
@@ -31989,7 +31989,7 @@
     "Title": "Raporta – Ein leistungsstarker Assistent zum Erstellen professioneller Berichte – Version einfügen und ausführen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24091,
@@ -32001,7 +32001,7 @@
     "Title": "SEO-Guru – Der ultimative SEO-Planungs-, Content- und Keyword-Recherche-Experte – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24105,
@@ -32013,7 +32013,7 @@
     "Title": "SEO Guru – Der ultimative Experte für Keyword-Recherche (50 Ergebnisse)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24106,
@@ -32025,7 +32025,7 @@
     "Title": "SEO-Guru – 1. Experte für Longtail-Keyword-Recherche – Longtail-Keywords",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24107,
@@ -32037,7 +32037,7 @@
     "Title": "SEO Guru – 2. Expertenbezogene Keyword-Recherche (Synonym...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24108,
@@ -32049,7 +32049,7 @@
     "Title": "SEO-Guru – 3. Der ultimative Experte für Keyword-Recherche mit LSI und NLP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24109,
@@ -32061,7 +32061,7 @@
     "Title": "SEO-Guru – 4. Erstklassiger Experte für Keyword-Recherche. Vorgeschlagener Titel",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24112,
@@ -32073,7 +32073,7 @@
     "Title": "SEO-Guru – 5. Experten-Keyword-Recherche: FAQs und SEO-Silo",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24131,
@@ -32121,7 +32121,7 @@
     "Title": "Raporta, ein leistungsstarker Assistent, der Daten in professionelle Berichte umwandelt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24152,
@@ -32133,7 +32133,7 @@
     "Title": "Tina – Schreiben Sie Titel, Version und Produktnamen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tên thương hiệu của sản phẩm/ dịch vụ của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Markenname Ihres Produkts/Ihrer Dienstleistung\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 24167,
@@ -32145,7 +32145,7 @@
     "Title": "Val – Der ultimative Kurzvideo-Skript-Assistent für Tiktok/Youtube/Reels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24173,
@@ -32157,7 +32157,7 @@
     "Title": "Val – Viraler Kurzvideo-Scripting-Assistent für Tiktok/Youtube/Reels von Available Content",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24181,
@@ -32169,7 +32169,7 @@
     "Title": "Tony – Inspirational Expert: 30 inspirierende Zitate für Sie und Ihr Team",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24182,
@@ -32181,7 +32181,7 @@
     "Title": "Clara – Superprofessionelle Assistentin zum Umschreiben von Inhalten – SEO-optimierte Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24195,
@@ -32193,7 +32193,7 @@
     "Title": "Ella – Super-Assistentin für die Interaktion und Beantwortung von Kunden – Beantworten Sie viele Fragen auf einmal",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24200,
@@ -32205,7 +32205,7 @@
     "Title": "Ein Meister-Verkaufscoach mit 15 Strategien für Sie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24298,
@@ -32217,7 +32217,7 @@
     "Title": "Satima – Der ultimative Assistent zur Analyse der Kundenstimmung – Version einfügen und ausführen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24308,
@@ -32229,7 +32229,7 @@
     "Title": "Val – Der ultimative Video-Scripting-Assistent für Tiktok/Youtube/Reels mit Publikum",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24315,
@@ -32241,7 +32241,7 @@
     "Title": "Suzy – Die Expertin Nr. 1, die Ihnen hilft, 1 Million Follower auf allen Social-Media-Plattformen zu erreichen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24325,
@@ -32253,7 +32253,7 @@
     "Title": "Sophia – Assistentin bei der Erstellung von 30 Content-Ideen für Tiktok, Youtube, Instagram, Facebook...",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24348,
@@ -32265,7 +32265,7 @@
     "Title": "Promo – Experte schlägt 15 Top-Promotion-Strategien vor – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24400,
@@ -32277,7 +32277,7 @@
     "Title": "PMH",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24428,
@@ -32301,7 +32301,7 @@
     "Title": "Artica – Ein effektiver Assistent zum Umschreiben von Zeitungs- und Artikelinhalten für Redakteure/Blogger",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24434,
@@ -32313,7 +32313,7 @@
     "Title": "Artica – Ein leistungsstarker Assistent zum Umschreiben von Zeitungs- und Artikelinhalten im NEUEN STIL für Redakteure/Blogger",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24435,
@@ -32325,7 +32325,7 @@
     "Title": "Artica – Assistent zum Umschreiben von Zeitungs- und Artikelinhalten, Version mit Link und Plugin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24438,
@@ -32337,7 +32337,7 @@
     "Title": "Artica – Assistent zum Schreiben von Zeitungen und Artikeln, basierend auf vorgegebenen Schlüsselwörtern und Informationen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24439,
@@ -32349,7 +32349,7 @@
     "Title": "Artica – Assistent zum Schreiben von Zeitungen und Artikeln, basierend auf vorgegebenen Schlüsselwörtern und Informationen, SEO-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24442,
@@ -32361,7 +32361,7 @@
     "Title": "Artica – Assistent zum Umschreiben von Zeitungen und Artikeln für Redakteure/Blogger, SEO-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24480,
@@ -32373,7 +32373,7 @@
     "Title": "Assistent zum Finden von Sponsoren/Werbetreibenden für die Website, benötigt GPT 4",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24585,
@@ -32385,7 +32385,7 @@
     "Title": "Exela – Excel-Assistent, konvertiert und verarbeitet CSV- und TXT-Dateidaten in Tabellenform",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24591,
@@ -32397,7 +32397,7 @@
     "Title": "LegaX – Spezialist für multinationale professionelle Vertrags-/Vereinbarungsgestaltung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24592,
@@ -32409,7 +32409,7 @@
     "Title": "LegaX – Professioneller Experte für Vertrags-/Vereinbarungsgestaltung, Vietnam",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24593,
@@ -32421,7 +32421,7 @@
     "Title": "[ULTRA] Exela – Excel-Assistent, Datenübernahme und -verarbeitung für AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24612,
@@ -32433,7 +32433,7 @@
     "Title": "Exela – Automatischer Datenklassifizierungsassistent",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24620,
@@ -32445,7 +32445,7 @@
     "Title": "SlideGPT – ein Assistent zum Erstellen professioneller und attraktiver Powerpoint-Präsentationen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24625,
@@ -32457,7 +32457,7 @@
     "Title": "SlideGPT – Assistent zur Erstellung von Powerpoint-Präsentationen, Version zum Einfügen von Inhalten oder Link",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24737,
@@ -32469,7 +32469,7 @@
     "Title": "Maki – Ratschläge zum Make-up-Stil, mit denen Sie jeden Winkel erobern können",
     "Usages": 0,
     "Categories": "[{\"Category\":\"lam-dep\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24738,
@@ -32481,7 +32481,7 @@
     "Title": "Milch – Experte für das Schreiben von Mahnungen für die Felder",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24741,
@@ -32493,7 +32493,7 @@
     "Title": "Optima – X2-Produktivität mit 80/20-Regeln (Pareto)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24743,
@@ -32505,7 +32505,7 @@
     "Title": "Numero – Ihr Numerologie-Experte (Lebenspfadanzeige, Schicksal, Seele...) (GPT4 empfohlen)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"date\\\",\\\"FieldLabel\\\":\\\"Nhập vào ngày tháng năm sinh của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"date\", \"FieldLabel\": \"Gib dein Geburtsdatum ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 25403,
@@ -32517,7 +32517,7 @@
     "Title": "Assistent zum Schreiben von Produktbeschreibungen: Schreiben Sie die alte Beschreibung attraktiver um",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tên sản phẩm của bạn\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ihr Produktname\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 26054,
@@ -32529,7 +32529,7 @@
     "Title": "LeadMax – Potenzielle Kunden mit Köder-Ideen und Lead-Magneten anlocken",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26111,
@@ -32541,7 +32541,7 @@
     "Title": "EINE AUFFORDERUNG]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"data\",\"Community\":\"developper-lap-trinh\"},{\"Category\":\"developper-lap-trinh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26241,
@@ -32553,7 +32553,7 @@
     "Title": "Quota – Professioneller und schneller Assistent zur Angebotserstellung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26280,
@@ -32565,7 +32565,7 @@
     "Title": "Puma – Ein effektiver Korrekturleseassistent",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26298,
@@ -32577,7 +32577,7 @@
     "Title": "EmailPro – Erhöhen Sie die E-Mail-Öffnungsraten für E-Mail-Marketingkampagnen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26302,
@@ -32589,7 +32589,7 @@
     "Title": "EmailPro – Professionelle Listenerstellungsstrategie (Erstellen Sie eine Liste potenzieller Kunden)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26315,
@@ -32601,7 +32601,7 @@
     "Title": "Facebook-Anzeigen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26317,
@@ -32613,7 +32613,7 @@
     "Title": "Facebook-Anzeigen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26319,
@@ -32625,7 +32625,7 @@
     "Title": "Machen Sie Werbung für die Familie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26321,
@@ -32637,7 +32637,7 @@
     "Title": "Machen Sie Werbung für die Familie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26356,
@@ -32649,7 +32649,7 @@
     "Title": "[ULTRA] Erstellen Sie das ultimative Videoskript für AIVA Assistant",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26365,
@@ -32661,7 +32661,7 @@
     "Title": "Edita – Textverarbeitungsassistent: Automatische Datenextraktion, Einfügeversion wird verwendet",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26391,
@@ -32673,7 +32673,7 @@
     "Title": "Landa – Der ultimative Assistent zur Landingpage-Erstellung, PRO-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26471,
@@ -32685,7 +32685,7 @@
     "Title": "TiktokPRO – Experte für das Schreiben von Drama-Drehbüchern für Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26473,
@@ -32697,7 +32697,7 @@
     "Title": "TiktokPRO – Assistent für 20 DRAMA-Drehbuchideen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26490,
@@ -32709,7 +32709,7 @@
     "Title": "DirectorPRO – Professioneller Filmregisseur für Tiktok, Youtube, TVC",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26493,
@@ -32721,7 +32721,7 @@
     "Title": "[ULTRA] AIVA-Schreibassistent anhand vorgegebener Anweisungen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26500,
@@ -32733,7 +32733,7 @@
     "Title": "ActingPRO – Schauspielregisseur für professionelle Schauspieler für Tiktok, Youtube, TVC",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26503,
@@ -32745,7 +32745,7 @@
     "Title": "MusicPRO – Musikschreibassistent – ​​Verwandeln Sie Ihre Inhalte in Melodien",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26508,
@@ -32757,7 +32757,7 @@
     "Title": "MusicPRO: Komponistenassistent, der Ihr Drehbuch zum Leben erweckt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26511,
@@ -32769,7 +32769,7 @@
     "Title": "SongPRO – Professioneller Songwriting-Assistent mit nur einem Klick",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Sắc thái của bài hát?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Auto\\\",\\\"OptionValue\\\":\\\"Auto\\\"},{\\\"OptionLabel\\\":\\\" Happy\\\",\\\"OptionValue\\\":\\\"Happy\\\"},{\\\"OptionLabel\\\":\\\" Sad\\\",\\\"OptionValue\\\":\\\"Sad\\\"},{\\\"OptionLabel\\\":\\\" Angry\\\",\\\"OptionValue\\\":\\\"Angry\\\"},{\\\"OptionLabel\\\":\\\" Calm\\\",\\\"OptionValue\\\":\\\"Calm\\\"},{\\\"OptionLabel\\\":\\\" Excited\\\",\\\"OptionValue\\\":\\\"Excited\\\"},{\\\"OptionLabel\\\":\\\" Romantic\\\",\\\"OptionValue\\\":\\\"Romantic\\\"},{\\\"OptionLabel\\\":\\\" Positive\\\",\\\"OptionValue\\\":\\\"Positive\\\"},{\\\"OptionLabel\\\":\\\" Nostalgic\\\",\\\"OptionValue\\\":\\\"Nostalgic\\\"},{\\\"OptionLabel\\\":\\\" Inspirational\\\",\\\"OptionValue\\\":\\\"Inspirational\\\"},{\\\"OptionLabel\\\":\\\" Empowering\\\",\\\"OptionValue\\\":\\\"Empowering\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bài hát này viết cho đối tượng nào?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tất cả\\\",\\\"OptionValue\\\":\\\"Tất cả\\\"},{\\\"OptionLabel\\\":\\\" Người lớn\\\",\\\"OptionValue\\\":\\\"Người lớn\\\"},{\\\"OptionLabel\\\":\\\" Trẻ con\\\",\\\"OptionValue\\\":\\\"Trẻ con\\\"},{\\\"OptionLabel\\\":\\\" Teen\\\",\\\"OptionValue\\\":\\\"Teen\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Die Nuance des Liedes?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Auto\", \"OptionValue\": \"Auto\" }, { \"OptionLabel\": \"Glücklich\", \"OptionValue\": \"Glücklich\" }, { \"OptionLabel\": \"Traurig\", \"OptionValue\": \"Traurig\" }, { \"OptionLabel\": \"Wütend\", \"OptionValue\": \"Wütend\" }, { \"OptionLabel\": \"Ruhig\", \"OptionValue\": \"Ruhig\" }, { \"OptionLabel\": \"Aufgeregt\", \"OptionValue\": \"Aufgeregt\" }, { \"OptionLabel\": \"Romantisch\", \"OptionValue\": \"Romantisch\" }, { \"OptionLabel\": \"Positiv\", \"OptionValue\": \"Positiv\" }, { \"OptionLabel\": \"Nostalgisch\", \"OptionValue\": \"Nostalgisch\" }, { \"OptionLabel\": \"Inspirierend\", \"OptionValue\": \"Inspirierend\" }, { \"OptionLabel\": \"Stärken\", \"OptionValue\": \"Stärken\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Für wen ist dieses Lied geschrieben?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Alle\", \"OptionValue\": \"Alle\" }, { \"OptionLabel\": \"Erwachsene\", \"OptionValue\": \"Erwachsene\" }, { \"OptionLabel\": \"Kinder\", \"OptionValue\": \"Kinder\" }, { \"OptionLabel\": \"Teenager\", \"OptionValue\": \"Teenager\" } ] }]"
   },
   {
     "ID": 26522,
@@ -32781,7 +32781,7 @@
     "Title": "MusicPRO – Musikassistent aus Texten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26534,
@@ -32793,7 +32793,7 @@
     "Title": "MonthlyPlanner – Erstellen Sie den perfekten Marketingplan für den Monat",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26543,
@@ -32805,7 +32805,7 @@
     "Title": "MonthlyPlanner – Erstellen Sie den perfekten Verkaufsplan für den Monat, TEAM.-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26547,
@@ -32817,7 +32817,7 @@
     "Title": "PressX – Professioneller Assistent für Pressemitteilungen (Pressemitteilung)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26558,
@@ -32829,7 +32829,7 @@
     "Title": "SalesPlanner – Erstellen eines B2C-Verkaufsplans für Quartal, Jahr, Teil 1",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26562,
@@ -32841,7 +32841,7 @@
     "Title": "SalesPlanner – Erstellen eines B2C-Verkaufsplans für Quartal, Jahr, Teil 2 – Behalten und wachsen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26564,
@@ -32853,7 +32853,7 @@
     "Title": "SalesPlanner – Erstellen eines B2C-Verkaufsplans für Quartal, Jahr, Teil 3: Bewertung und Messung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26574,
@@ -32865,7 +32865,7 @@
     "Title": "B2B SalesPlanner – Erstellen eines B2B-Verkaufsplans für Quartal, Jahr, Teil 1",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"saas-kinh-doanh\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26576,
@@ -32877,7 +32877,7 @@
     "Title": "B2B SalesPlanner – Erstellen eines B2B-Verkaufsplans, Teil 2: Kunden finden",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26578,
@@ -32889,7 +32889,7 @@
     "Title": "B2B SalesPlanner – Erstellen eines B2B-Verkaufsplans, Teil 3: Entwicklung des Teams",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26583,
@@ -32901,7 +32901,7 @@
     "Title": "B2B SalesPlanner – Erstellen eines B2B-Verkaufsplans, Teil 4: Bewertung, Prognose",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26603,
@@ -32913,7 +32913,7 @@
     "Title": "TiktokPRO – Der ultimative Tiktok-Skriptassistent (Wissen teilen)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26607,
@@ -32925,7 +32925,7 @@
     "Title": "TiktokPRO – Erstellen Sie ein erstklassiges Videoskript für Produktbewertungen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26609,
@@ -32937,7 +32937,7 @@
     "Title": "TiktokPRO – Tiktok-Skriptassistent CHALLENGE-Genre",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26611,
@@ -32949,7 +32949,7 @@
     "Title": "TiktokPRO – Assistent für 20 Ideen für CHALLENGE-Videos",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26618,
@@ -32961,7 +32961,7 @@
     "Title": "TiktokPRO – Tiktok-Skriptassistent, Youtube-VLOG-Genre",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26671,
@@ -32973,7 +32973,7 @@
     "Title": "ENTWURF – Der Eingabeaufforderungstext einschließlich des Platzhalters [TARGETLANGUAGE] oder [PROMPT] wird automatisch durch AIBestPrompts ersetzt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26676,
@@ -32985,7 +32985,7 @@
     "Title": "Ella 37 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Was sind Ihre Produkte und Dienstleistungen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Was sind Ihre Produkte und Dienstleistungen?\", \"FieldOptions\": [ { \"OptionValue\": \"Was sind Ihre Produkte und Dienstleistungen?\" } ] }]"
   },
   {
     "ID": 26679,
@@ -32997,7 +32997,7 @@
     "Title": "Ella 37 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26682,
@@ -33009,7 +33009,7 @@
     "Title": "Ella 37 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26685,
@@ -33021,7 +33021,7 @@
     "Title": "Ella 37 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26688,
@@ -33033,7 +33033,7 @@
     "Title": "Ella 37 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26698,
@@ -33045,7 +33045,7 @@
     "Title": "11- Super Assistant zur Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26702,
@@ -33057,7 +33057,7 @@
     "Title": "112 – Super-Assistent zur Interaktion und Reaktion auf Kunden – Ver After-Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26807,
@@ -33069,7 +33069,7 @@
     "Title": "Macher – Planumsetzungsassistent mit zugewiesenem KPI – Strategie in die Tat umsetzen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26828,
@@ -33081,7 +33081,7 @@
     "Title": "Assistent beim Schreiben von Artikeln zur Werbung für Produkte, einschließlich attraktiver FAB-, FAS-, 4C- und BAB-Stile",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26886,
@@ -33093,7 +33093,7 @@
     "Title": "TiktokPRO – Tiktok-Experten verraten grundlegende Geheimnisse zum Aufbau eines Tiktok-Kanals",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26893,
@@ -33105,7 +33105,7 @@
     "Title": "TiktokPRO – Tiktok Shop-Experten weisen Sie auf Richtlinienverstöße im Tiktok Shop hin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26895,
@@ -33117,7 +33117,7 @@
     "Title": "TiktokPRO – Assistent für 20 Ideen für Do it Yourself (DIY)-Videos",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26899,
@@ -33129,7 +33129,7 @@
     "Title": "TiktokPRO – Tiktok-Skriptassistent Do it Yourself (DIY)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26905,
@@ -33141,7 +33141,7 @@
     "Title": "TiktokPRO – Der ultimative Experte für Livestream-Fähigkeitstraining",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26955,
@@ -33153,7 +33153,7 @@
     "Title": "[GPT4] Schlagen Sie 10 Videoideen basierend auf dem angegebenen YouTube-Link vor, benötigen Sie ein Plugin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26964,
@@ -33165,7 +33165,7 @@
     "Title": "[GPT4] Fassen Sie jedes YouTube-Video mit nur einem Klick zusammen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26968,
@@ -33177,7 +33177,7 @@
     "Title": "[GPT4] Tool zum Online-Zusammenfassen von PDF- und Word-Dateien",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26971,
@@ -33189,7 +33189,7 @@
     "Title": "[GPT4] Tool zum Extrahieren von Textdaten aus Bildern und zum Umwandeln von Bildern in Text",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26973,
@@ -33201,7 +33201,7 @@
     "Title": "Lotus-Facebook-Anzeigen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26989,
@@ -33213,7 +33213,7 @@
     "Title": "TiktokPRO – Experten weisen auf zu vermeidende Verstöße in den Tiktok-Livestream-Richtlinien hin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27004,
@@ -33225,7 +33225,7 @@
     "Title": "TiktokPRO – Tiktok-Skriptassistent für das Podcast-Genre",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27037,
@@ -33237,7 +33237,7 @@
     "Title": "TiktokPRO – Tiktok-Skriptschreibassistent, Talkshow-Genre Youtube",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27043,
@@ -33249,7 +33249,7 @@
     "Title": "AITutor, der KI-Tutor, der Ihnen hilft, jedes Thema zu meistern und zu lernen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27047,
@@ -33261,7 +33261,7 @@
     "Title": "Mella – Eine effektive Schreibassistentin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27060,
@@ -33273,7 +33273,7 @@
     "Title": "[ULTRA] Beispiel-Demodaten für schnelle und erwartete Ergebnisse",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27069,
@@ -33285,7 +33285,7 @@
     "Title": "TiktokPRO – Experte für den Aufbau eines Tiktok-Kanals für die nächsten 12 Monate",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27078,
@@ -33297,7 +33297,7 @@
     "Title": "TiktokPRO – 30-Tage-Planungsassistent für Ihren Tiktok-Kanal",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27087,
@@ -33309,7 +33309,7 @@
     "Title": "Rosa – Setzen Sie eine effektive Strategie mit einem Ressourcenzuteiler um",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27093,
@@ -33321,7 +33321,7 @@
     "Title": "KPIPro – Experte für KPI-Leistungsmessung für Ihre Strategie und Ihren Plan",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27096,
@@ -33333,7 +33333,7 @@
     "Title": "Clara 212 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27097,
@@ -33345,7 +33345,7 @@
     "Title": "Clara 212eq43 – Superprofessionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sdfsdf\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"sdfdsf\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"sdfdsf\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"sdfsdf\", \"FieldValue\": null, \"FieldPlaceholder\": \"sdfdsf\", \"FieldOptions\": [ { \"OptionValue\": \"sdfdsf\" } ] }]"
   },
   {
     "ID": 27099,
@@ -33357,7 +33357,7 @@
     "Title": "Clara 212 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào \",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27119,
@@ -33369,7 +33369,7 @@
     "Title": "Clara 213 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27121,
@@ -33381,7 +33381,7 @@
     "Title": "Clara 21423 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27138,
@@ -33393,7 +33393,7 @@
     "Title": "Artica – Assistent zum Zusammenfassen von Nachrichten aus vielen verschiedenen Linkquellen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27141,
@@ -33405,7 +33405,7 @@
     "Title": "Artica – KI-Newsroom, der die Bereitstellung von Inhalten aus Themen unterstützt",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27143,
@@ -33417,7 +33417,7 @@
     "Title": "Artica – Sapo-Schreibassistent (Chapeau) und vorgeschlagene Tags für Artikel",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27150,
@@ -33429,7 +33429,7 @@
     "Title": "Adela – Schreiben Sie Facebook-Anzeigen nach KONZEPT",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Khách hàng tiềm năng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Thương hiệu của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn công thức bạn muốn viết\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" PAS (Vấn đề, Kích thích, Giải pháp)\\\",\\\"OptionValue\\\":\\\"PAS (Problem, Agitate, Solution)\\\"},{\\\"OptionLabel\\\":\\\" AIDA (Sự chú ý, Sự quan tâm, Sự khao khát, Hành động)\\\",\\\"OptionValue\\\":\\\"AIDA (Attention, Interest, Desire, Action)\\\"},{\\\"OptionLabel\\\":\\\" BAB (Trước, Sau, Cầu nối)\\\",\\\"OptionValue\\\":\\\"BAB (Before, After, Bridge)\\\"},{\\\"OptionLabel\\\":\\\" FAB (Tính năng, Lợi ích, Đặc điểm)\\\",\\\"OptionValue\\\":\\\"FAB (Features, Advantages, Benefits)\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Potenzielle Kunden, die Sie ansprechen\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Was ist Ihre Marke?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Wählen Sie die Formel aus, die Sie schreiben möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"PAS (Problem, Reiz, Lösung)\", \"OptionValue\": \"PAS (Problem, Aufregung, Lösung)\" }, { \"OptionLabel\": \"AIDA (Aufmerksamkeit, Interesse, Verlangen, Aktion)\", \"OptionValue\": \"AIDA (Aufmerksamkeit, Interesse, Verlangen, Aktion)\" }, { \"OptionLabel\": \"BAB (Vorher, Nachher, Brücke)\", \"OptionValue\": \"BAB (Vorher, Nachher, Brücke)\" }, { \"OptionLabel\": \"FAB (Merkmale, Vorteile, Eigenschaften)\", \"OptionValue\": \"FAB (Funktionen, Vorteile, Nutzen)\" } ] }]"
   },
   {
     "ID": 27195,
@@ -33441,7 +33441,7 @@
     "Title": "SlidePitch – Assistent zur Erstellung attraktiver Verkaufspräsentationen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27198,
@@ -33453,7 +33453,7 @@
     "Title": "Clara – Rewrite-Assistent erweitert längere Inhalte, einfache Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tac-gia\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27244,
@@ -33465,7 +33465,7 @@
     "Title": "[GPT4] Nachrichtenaggregator-Assistent: Fasst Inhalte aus Artikellinks zusammen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27260,
@@ -33477,7 +33477,7 @@
     "Title": "Artica – Ihr Assistent zum Schreiben von Produktmarketing-Blogs",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27263,
@@ -33489,7 +33489,7 @@
     "Title": "Artica – Ihr Assistent zum Schreiben von Produktmarketing-Blogs, SEO-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27274,
@@ -33501,7 +33501,7 @@
     "Title": "Vido – Schlagen Sie 15 Videoideen für Youtube/Tiktok vor, basierend auf dem gegebenen Inhalt und Skript",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27279,
@@ -33513,7 +33513,7 @@
     "Title": "Val – Video-Scripting-Assistent für Tiktok/Youtube/Reels – Problem – Lösung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27289,
@@ -33525,7 +33525,7 @@
     "Title": "AskGPT – Intelligenter Frageassistent",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27291,
@@ -33537,7 +33537,7 @@
     "Title": "RoleGPT – Sprechen Sie mit Milliardären und großartigen Menschen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Bạn muốn được góp ý, nói chuyện với ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Wen möchten Sie konsultieren, mit wem sprechen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27326,
@@ -33549,7 +33549,7 @@
     "Title": "EstateGPT – Professioneller Autor von Immobilienprojekten",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27363,
@@ -33561,7 +33561,7 @@
     "Title": "Vivi – Assistentin zum Aufteilen von Inhalten in zwei Teile für Videos Tiktok, Reels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27367,
@@ -33573,7 +33573,7 @@
     "Title": "AgriBot – Expertenratgeber zum Anbau aller Arten von Pflanzen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27370,
@@ -33585,7 +33585,7 @@
     "Title": "AniBot – Ein Experte für die Aufzucht und Pflege von Vieh und Geflügel",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27401,
@@ -33597,7 +33597,7 @@
     "Title": "[GPT4] Intelligenter Diagrammassistent (Diagramm, Flussdiagramm ...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27459,
@@ -33609,7 +33609,7 @@
     "Title": "Sally – Ablehnungsexpertin für 1 Frage, Verkaufssituation",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Sản phẩm, dịch vụ của bạn là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"Product\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng, hoặc tình huống khách hàng bạn gặp\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Was ist Ihr Produkt oder Ihre Dienstleistung?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"Product\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Sprechen Sie gezielt auf Kunden oder Kundensituationen, denen Sie begegnen\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 27488,
@@ -33621,7 +33621,7 @@
     "Title": "Winebot – Assistent zum Verfassen von Beschreibungen für Weinprodukte",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27660,
@@ -33633,7 +33633,7 @@
     "Title": "Sumy – Intelligente Inhaltszusammenfassung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27662,
@@ -33645,7 +33645,7 @@
     "Title": "Sumy – Intelligente Zusammenfassung, Emoji-Version",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27674,
@@ -33657,7 +33657,7 @@
     "Title": "BERICHT",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27692,
@@ -33669,7 +33669,7 @@
     "Title": "Lustig",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27693,
@@ -33681,7 +33681,7 @@
     "Title": "Lustig",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27695,
@@ -33693,7 +33693,7 @@
     "Title": "Lustig",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28038,
@@ -33705,7 +33705,7 @@
     "Title": "ABC 123",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28040,
@@ -33717,7 +33717,7 @@
     "Title": "Ella 372 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After Sales",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Was sind Ihre Produkte und Dienstleistungen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Was sind Ihre Produkte und Dienstleistungen?\", \"FieldOptions\": [ { \"OptionValue\": \"Was sind Ihre Produkte und Dienstleistungen?\" } ] }]"
   },
   {
     "ID": 28042,
@@ -33729,7 +33729,7 @@
     "Title": "ABC 1234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28044,
@@ -33741,7 +33741,7 @@
     "Title": "ABC 12345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28046,
@@ -33753,7 +33753,7 @@
     "Title": "ABC 123456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28048,
@@ -33765,7 +33765,7 @@
     "Title": "ABC 234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28050,
@@ -33777,7 +33777,7 @@
     "Title": "ABC 345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28052,
@@ -33789,7 +33789,7 @@
     "Title": "ABC 3456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28054,
@@ -33801,7 +33801,7 @@
     "Title": "ABC Ella 37 – Super-Assistentin für die Interaktion und Reaktion auf Kunden – Ver After-Sales",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Was sind Ihre Produkte und Dienstleistungen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Was sind Ihre Produkte und Dienstleistungen?\", \"FieldOptions\": [ { \"OptionValue\": \"Was sind Ihre Produkte und Dienstleistungen?\" } ] }]"
   },
   {
     "ID": 28057,
@@ -33813,7 +33813,7 @@
     "Title": "Clara 214235 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28061,
@@ -33825,7 +33825,7 @@
     "Title": "Clara 214235 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28063,
@@ -33837,7 +33837,7 @@
     "Title": "Clara 21423 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28065,
@@ -33849,7 +33849,7 @@
     "Title": "Clara 12 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28067,
@@ -33861,7 +33861,7 @@
     "Title": "Clara 12345 6 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Tiêu đề nội dung bạn viết\\\",\\\"OptionValue\\\":\\\"Tiêu đề nội dung bạn viết\\\"},{\\\"OptionLabel\\\":\\\" nhập vào\\\",\\\"OptionValue\\\":\\\" nhập vào\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldOptions\": [ { \"OptionLabel\": \"Der Titel des Inhalts, den Sie schreiben\", \"OptionValue\": \"Der Titel des Inhalts, den Sie schreiben\" }, { \"OptionLabel\": \"Eingang\", \"OptionValue\": \"Eingang\" } ] }]"
   },
   {
     "ID": 28069,
@@ -33873,7 +33873,7 @@
     "Title": "Clara ABC 123 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28071,
@@ -33885,7 +33885,7 @@
     "Title": "Clara ABC 234 5 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28073,
@@ -33897,7 +33897,7 @@
     "Title": "ABC 567",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567 3\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567 fd\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567 fd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"ABC 567\", \"FieldValue\": null, \"FieldPlaceholder\": \"ABC 567\", \"FieldOptions\": [ { \"OptionValue\": \"ABC 567\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"ABC 567 3\", \"FieldValue\": null, \"FieldPlaceholder\": \"ABC 567 fd\", \"FieldOptions\": [ { \"OptionValue\": \"ABC 567 fd\" } ] }]"
   },
   {
     "ID": 28082,
@@ -33909,7 +33909,7 @@
     "Title": "Herr SIX, der Experte, der Ihnen hilft, mit 6 Hüten kluge Entscheidungen zu treffen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Wählen Sie den Hut aus, den Sie analysieren möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"White Hat – Daten und Realität\", \"OptionValue\": \"White Hat – Daten und Realität\" }, { \"OptionLabel\": \"Red Hat – Emotionen und Intuition\", \"OptionValue\": \"Red Hat – Emotionen und Intuition\" }, { \"OptionLabel\": \"Black Hat – Schwierigkeit und Gefahr\", \"OptionValue\": \"Black Hat – Schwierigkeit und Gefahr\" }, { \"OptionLabel\": \"Yellow Hat – Vorteile und Vorteile\", \"OptionValue\": \"Yellow Hat – Vorteile und Vorteile\" }, { \"OptionLabel\": \"Green Hat – Kreativität und Ideen\", \"OptionValue\": \"Green Hat – Kreativität und Ideen\" }, { \"OptionLabel\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\", \"OptionValue\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\" } ] }]"
   },
   {
     "ID": 28088,
@@ -33921,7 +33921,7 @@
     "Title": "",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28096,
@@ -33933,7 +33933,7 @@
     "Title": "Artica – Schreiben Sie Blogartikel, um Ihre Produkte/Dienstleistungen mit SEO-Standards vorzustellen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm, dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm đến\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa bạn muốn SEO\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Was ist Ihr Produkt oder Ihre Dienstleistung?\", \"FieldValue\": null, \"FieldPlaceholder\": \"zB SkinX Hautverjüngende Kollagentabletten\", \"FieldOptions\": [ { \"OptionValue\": \"zB SkinX Hautverjüngende Kollagentabletten\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Ihre Zielgruppe?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Geben Sie Ihre Zielgruppe ein\", \"FieldOptions\": [ { \"OptionValue\": \"Geben Sie Ihre Zielgruppe ein\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Keyword, das Sie SEO wünschen\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28104,
@@ -33945,7 +33945,7 @@
     "Title": "Para – Content-Rewriting der Superlative",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn viết lại như nào?\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\" Viết lại mới\",\"OptionValue\":\"Paraphrasing \"},{\"OptionLabel\":\" Ngắn hơn\",\"OptionValue\":\"Brevity \"},{\"OptionLabel\":\" Dài hơn\",\"OptionValue\":\"Expand \"},{\"OptionLabel\":\" Đơn giản hơn\",\"OptionValue\":\"Simplicity\"},{\"OptionLabel\":\" Chi tiết hơn\",\"OptionValue\":\"Detailing \"},{\"OptionLabel\":\"Tương tác hơn\",\"OptionValue\":\"Engagement \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasion \"},{\"OptionLabel\":\" Thêm dữ liệu\",\"OptionValue\":\"Data \"},{\"OptionLabel\":\" Tinh tế hơn\",\"OptionValue\":\"Sophistication \"},{\"OptionLabel\":\"Chính xác hơn\",\"OptionValue\":\"Accuracy \"},{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"select\",\"FieldLabel\":\"Chọn giọng điệu đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"     null\",\"FieldOptions\":[{\"OptionLabel\":\" Không đổi\",\"OptionValue\":\"Unchanged \"},{\"OptionLabel\":\" Formal\",\"OptionValue\":\"Formalize \"},{\"OptionLabel\":\" Casual\",\"OptionValue\":\"Casualize\"},{\"OptionLabel\":\" Giáo dục\",\"OptionValue\":\"Educational \"},{\"OptionLabel\":\" Hài hước\",\"OptionValue\":\"Humorous \"},{\"OptionLabel\":\" Truyền cảm hứng\",\"OptionValue\":\"Inspirational \"},{\"OptionLabel\":\" Chuyên môn\",\"OptionValue\":\"Authoritative \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Wie möchten Sie umschreiben?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Neue Umschreibung\", \"OptionValue\": \"Umschreibung\" }, { \"OptionLabel\": \"Kürzer\", \"OptionValue\": \"Kürze\" }, { \"OptionLabel\": \"Länger\", \"OptionValue\": \"Expandieren\" }, { \"OptionLabel\": \"Einfacher\", \"OptionValue\": \"Einfachheit\" }, { \"OptionLabel\": \"Mehr Details\", \"OptionValue\": \"Detaillierung\" }, { \"OptionLabel\": \"Interaktiver\", \"OptionValue\": \"Engagement\" }, { \"OptionLabel\": \"Überzeugen\", \"OptionValue\": \"Überzeugung\" }, { \"OptionLabel\": \"Weitere Daten\", \"OptionValue\": \"Daten\" }, { \"OptionLabel\": \"Raffinierter\", \"OptionValue\": \"Raffinesse\" }, { \"OptionLabel\": \"Exakter\", \"OptionValue\": \"Genauigkeit\" }, { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Wählen Sie den Ton der Passage\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Unverändert\", \"OptionValue\": \"Unverändert\" }, { \"OptionLabel\": \"Formell\", \"OptionValue\": \"Formalisieren\" }, { \"OptionLabel\": \"Lässig\", \"OptionValue\": \"Casualisieren\" }, { \"OptionLabel\": \"Ausbildung\", \"OptionValue\": \"Lehrreich\" }, { \"OptionLabel\": \"Humorvoll\", \"OptionValue\": \"Humorvoll\" }, { \"OptionLabel\": \"Inspirieren\", \"OptionValue\": \"Inspirierend\" }, { \"OptionLabel\": \"Spezialisieren\", \"OptionValue\": \"Maßgeblich\" } ] }]"
   },
   {
     "ID": 28116,
@@ -33957,7 +33957,7 @@
     "Title": "Tina – Schreiben Sie die 10 besten Schlagzeilen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn kiểu tiêu đề bạn muốn viết (khuyến nghị: auto)\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" auto\\\",\\\"OptionValue\\\":\\\"auto \\\"},{\\\"OptionLabel\\\":\\\" listicle\\\",\\\"OptionValue\\\":\\\"listicle \\\"},{\\\"OptionLabel\\\":\\\" how-to\\\",\\\"OptionValue\\\":\\\"how-to \\\"},{\\\"OptionLabel\\\":\\\" inspirational\\\",\\\"OptionValue\\\":\\\"inspirational \\\"},{\\\"OptionLabel\\\":\\\" clickbait\\\",\\\"OptionValue\\\":\\\"clickbait \\\"},{\\\"OptionLabel\\\":\\\" question\\\",\\\"OptionValue\\\":\\\"question \\\"},{\\\"OptionLabel\\\":\\\" guide\\\",\\\"OptionValue\\\":\\\"guide \\\"},{\\\"OptionLabel\\\":\\\" mistakes\\\",\\\"OptionValue\\\":\\\"mistakes \\\"},{\\\"OptionLabel\\\":\\\" secrets/tips\\\",\\\"OptionValue\\\":\\\"secrets/tips \\\"},{\\\"OptionLabel\\\":\\\" comparison\\\",\\\"OptionValue\\\":\\\"comparison \\\"},{\\\"OptionLabel\\\":\\\" review\\\",\\\"OptionValue\\\":\\\"review \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Wählen Sie den Titelstil aus, den Sie schreiben möchten (empfohlen: automatisch).\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Auto\", \"OptionValue\": \"Auto\" }, { \"OptionLabel\": \"Listicle\", \"OptionValue\": \"Listicle\" }, { \"OptionLabel\": \"wie man\", \"OptionValue\": \"wie man\" }, { \"OptionLabel\": \"inspirierend\", \"OptionValue\": \"inspirierend\" }, { \"OptionLabel\": \"Clickbait\", \"OptionValue\": \"Clickbait\" }, { \"OptionLabel\": \"Frage\", \"OptionValue\": \"Frage\" }, { \"OptionLabel\": \"Führung\", \"OptionValue\": \"Führung\" }, { \"OptionLabel\": \"Fehler\", \"OptionValue\": \"Fehler\" }, { \"OptionLabel\": \"Geheimnisse/Tipps\", \"OptionValue\": \"Geheimnisse/Tipps\" }, { \"OptionLabel\": \"Vergleich\", \"OptionValue\": \"Vergleich\" }, { \"OptionLabel\": \"Rezension\", \"OptionValue\": \"Rezension\" } ] }]"
   },
   {
     "ID": 28123,
@@ -33969,7 +33969,7 @@
     "Title": "BlogPro – Erstellen Sie professionelle Gliederungen für Blogs und Artikel",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa, nội dung bạn muốn đưa vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Schlüsselwörter und Inhalte, die Sie einbinden möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28138,
@@ -33981,7 +33981,7 @@
     "Title": "Google Analytics-Bericht",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28154,
@@ -33993,7 +33993,7 @@
     "Title": "EssayGPT – Assistent zum Verfassen beschreibender Aufsätze",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"sinh-vien\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần nội dung chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Wie viele Absätze möchten Sie als Hauptinhalt erstellen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Auto\", \"OptionValue\": \"Auto\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28158,
@@ -34005,7 +34005,7 @@
     "Title": "EssayGPT – Assistent zum Verfassen von Argumentaufsätzen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Wie viele Absätze möchten Sie als Hauptteil erstellen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Auto\", \"OptionValue\": \"Auto\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28161,
@@ -34017,7 +34017,7 @@
     "Title": "EssayGPT – Assistent für das Schreiben von narrativen Essays",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn phần chính bạn muốn tạo\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Anzahl der Hauptabsätze, die Sie erstellen möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Auto\", \"OptionValue\": \"Auto\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28171,
@@ -34029,7 +34029,7 @@
     "Title": "Para – Assistent für das Verfassen von Absätzen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Phong cách viết cho đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"auto\",\"OptionValue\":\"auto\"},{\"OptionLabel\":\"formal\",\"OptionValue\":\"formal\"},{\"OptionLabel\":\"informal\",\"OptionValue\":\"informal\"},{\"OptionLabel\":\" Đàm thoại\",\"OptionValue\":\"conversational\"},{\"OptionLabel\":\" Mô tả\",\"OptionValue\":\"Descriptive \"},{\"OptionLabel\":\" Kể chuyện\",\"OptionValue\":\"Narrative \"},{\"OptionLabel\":\" Sáng tạo\",\"OptionValue\":\"Creative \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasive \"},{\"OptionLabel\":\" Có dữ liệu\",\"OptionValue\":\"Statistic \"},{\"OptionLabel\":\" Hướng dẫn\",\"OptionValue\":\"Instruction \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Schreibstil für Absätze\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Auto\", \"OptionValue\": \"Auto\" }, { \"OptionLabel\": \"formell\", \"OptionValue\": \"formell\" }, { \"OptionLabel\": \"informell\", \"OptionValue\": \"informell\" }, { \"OptionLabel\": \"Gespräch\", \"OptionValue\": \"Konversation\" }, { \"OptionLabel\": \"Beschreiben\", \"OptionValue\": \"Beschreibend\" }, { \"OptionLabel\": \"Geschichten erzählen\", \"OptionValue\": \"Narrativ\" }, { \"OptionLabel\": \"Kreativ\", \"OptionValue\": \"Kreativ\" }, { \"OptionLabel\": \"Überzeugen\", \"OptionValue\": \"Überzeugend\" }, { \"OptionLabel\": \"Es gibt Daten\", \"OptionValue\": \"Statistik\" }, { \"OptionLabel\": \"Anweisen\", \"OptionValue\": \"Anweisung\" } ] }]"
   },
   {
     "ID": 28174,
@@ -34041,7 +34041,7 @@
     "Title": "Para – Assistent beim Schreiben der EINFÜHRUNG für den Artikel",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28178,
@@ -34053,7 +34053,7 @@
     "Title": "Para – Assistent beim Verfassen der SCHLUSSFOLGERUNG für den Artikel",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn kêu gọi hành động (CTA) gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Bình luận\\\",\\\"OptionValue\\\":\\\"Comment \\\"},{\\\"OptionLabel\\\":\\\" Đăng ký\\\",\\\"OptionValue\\\":\\\"Subscribe \\\"},{\\\"OptionLabel\\\":\\\" Chia sẻ\\\",\\\"OptionValue\\\":\\\"Share \\\"},{\\\"OptionLabel\\\":\\\" Đọc thêm bài khác\\\",\\\"OptionValue\\\":\\\"Read More \\\"},{\\\"OptionLabel\\\":\\\" Mua sản phẩm\\\",\\\"OptionValue\\\":\\\"Purchase \\\"},{\\\"OptionLabel\\\":\\\" Tải miễn phí\\\",\\\"OptionValue\\\":\\\"Download \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Welchen Call-to-Action (CTA) wünschen Sie?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Kommentar\", \"OptionValue\": \"Kommentar\" }, { \"OptionLabel\": \"Registrieren\", \"OptionValue\": \"Abonnieren\" }, { \"OptionLabel\": \"Aktie\", \"OptionValue\": \"Aktie\" }, { \"OptionLabel\": \"Lesen Sie weitere Artikel\", \"OptionValue\": \"Weiterlesen\" }, { \"OptionLabel\": \"Produkt kaufen\", \"OptionValue\": \"Kaufen\" }, { \"OptionLabel\": \"Kostenfreier Download\", \"OptionValue\": \"Herunterladen\" } ] }]"
   },
   {
     "ID": 28189,
@@ -34065,7 +34065,7 @@
     "Title": "Mr SIX 123, der Experte, der Ihnen hilft, mit 6 Hüten kluge Entscheidungen zu treffen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"Chọn chiếc mũ bạn muốn phân tích\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"fieldmap\":\"undefined\",\"FieldOptions\":[{\"OptionLabel\":\"Mũ Trắng Dữ liệu và Thực tế\",\"OptionValue\":\"Mũ Trắng Dữ liệu và Thực tế\"},{\"OptionLabel\":\"Đỏ Cảm xúc và Trực giác\",\"OptionValue\":\"Đỏ Cảm xúc và Trực giác\"},{\"OptionLabel\":\" Đen Khó khăn và Nguy hiểm\",\"OptionValue\":\" Đen Khó khăn và Nguy hiểm\"},{\"OptionLabel\":\"Vàng Tích cực và Lợi ích\",\"OptionValue\":\"Vàng Tích cực và Lợi ích\"},{\"OptionLabel\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\",\"OptionValue\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\"},{\"OptionLabel\":\"Mũ Xanh Dương Suy luận và Tổng kết\",\"OptionValue\":\"Mũ Xanh Dương Suy luận và Tổng kết\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Hi\",\"FieldValue\":null,\"FieldPlaceholder\":\"    Hi\",\"fieldmap\":\"company\",\"FieldOptions\":[{\"OptionLabel\":\"   Hi\",\"OptionValue\":\"   Hi\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"textarea\",\"FieldLabel\":\"Three\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Three\",\"fieldmap\":\"address\",\"FieldOptions\":[{\"OptionLabel\":\" Three\",\"OptionValue\":\" Three\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Wählen Sie den Hut aus, den Sie analysieren möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"fieldmap\": \"undefined\", \"FieldOptions\": [ { \"OptionLabel\": \"White-Hat-Daten und Realität\", \"OptionValue\": \"White-Hat-Daten und Realität\" }, { \"OptionLabel\": \"Rote Emotion und Intuition\", \"OptionValue\": \"Rote Emotion und Intuition\" }, { \"OptionLabel\": \"Schwarz schwierig und gefährlich\", \"OptionValue\": \"Schwarz schwierig und gefährlich\" }, { \"OptionLabel\": \"Positives Gold und Vorteile\", \"OptionValue\": \"Positives Gold und Vorteile\" }, { \"OptionLabel\": \"Green Hats Kreativität und Ideen\", \"OptionValue\": \"Green Hats Kreativität und Ideen\" }, { \"OptionLabel\": \"Blue-Hat-Schlussfolgerung und Zusammenfassung\", \"OptionValue\": \"Blue-Hat-Schlussfolgerung und Zusammenfassung\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Hallo\", \"FieldValue\": null, \"FieldPlaceholder\": \"Hallo\", \"fieldmap\": \"company\", \"FieldOptions\": [ { \"OptionLabel\": \"Hallo\", \"OptionValue\": \"Hallo\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"textarea\", \"FieldLabel\": \"Drei\", \"FieldValue\": null, \"FieldPlaceholder\": \"Drei\", \"fieldmap\": \"address\", \"FieldOptions\": [ { \"OptionLabel\": \"Drei\", \"OptionValue\": \"Drei\" } ] }]"
   },
   {
     "ID": 28201,
@@ -34077,7 +34077,7 @@
     "Title": "Clara ABC 234 6 – Superprofessioneller und erstklassiger Assistent beim Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28203,
@@ -34089,7 +34089,7 @@
     "Title": "Clara ABC 234 65 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"sdfdsfd dfds \",\"FieldValue\":null,\"FieldPlaceholder\":\"dsf\",\"FieldOptions\":[{\"OptionLabel\":\"dsf\",\"OptionValue\":\"dsf\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"sdfdsfd dfds\", \"FieldValue\": null, \"FieldPlaceholder\": \"dsf\", \"FieldOptions\": [ { \"OptionLabel\": \"dsf\", \"OptionValue\": \"dsf\" } ] }]"
   },
   {
     "ID": 28217,
@@ -34101,7 +34101,7 @@
     "Title": "Ein Test [PROMPT]",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sadfsd\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"asd\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"asd\\\",\\\"OptionValue\\\":\\\"asd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"sadfsd\", \"FieldValue\": null, \"FieldPlaceholder\": \"asd\", \"FieldOptions\": [ { \"OptionLabel\": \"asd\", \"OptionValue\": \"asd\" } ] }]"
   },
   {
     "ID": 28219,
@@ -34113,7 +34113,7 @@
     "Title": "Clara ABC 123 1666666 – Professionelle und erstklassige Assistentin für das Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"  rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28223,
@@ -34125,7 +34125,7 @@
     "Title": "Clara ABC 123 3666666 – Professionelle und erstklassige Assistentin zum Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"    rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28228,
@@ -34137,7 +34137,7 @@
     "Title": "Clara ABC 123 21666666 – Superprofessionelle und erstklassige Assistentin zum Umschreiben von Inhalten – VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   rdrt\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"rdrt\\\",\\\"OptionValue\\\":\\\"rdrt\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"erte\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"erter\\\",\\\"OptionValue\\\":\\\"erter\\\"},{\\\"OptionLabel\\\":\\\"ttr\\\",\\\"OptionValue\\\":\\\"ttr\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Geben Sie den Titel des von Ihnen verfassten Inhalts ein\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28239,
@@ -34149,7 +34149,7 @@
     "Title": "Herr Wise, helfen Sie sich jeden Tag mit LEISTUNGSFÄHIGEN FRAGEN weiterzuentwickeln",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28284,
@@ -34161,7 +34161,7 @@
     "Title": "Mr Kool – Flirtmeister",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-tri\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn Mr Kool:\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"  null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" 1. Chia sẻ bí quyết\\\",\\\"OptionValue\\\":\\\"1. Chia sẻ bí quyết \\\"},{\\\"OptionLabel\\\":\\\" 2. Hỗ trợ 1 tình huống \\\",\\\"OptionValue\\\":\\\"2. Hỗ trợ 1 tình huống \\\"},{\\\"OptionLabel\\\":\\\" 3. Trả lời 1 câu nói\\\",\\\"OptionValue\\\":\\\"3. Trả lời 1 câu nói \\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tình huống bạn gặp là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Cô ấy nói điều gì với bạn?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Mr Kool sẽ giúp bạn trả lời \\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Mr Kool sẽ giúp bạn trả lời \\\"cool\\\" nhất\\\"}]}]\""
+    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn Mr Kool:\",\"FieldValue\":null,\"FieldPlaceholder\":\" null\",\"FieldOptions\":[{\"OptionLabel\":\" 1. Chia sẻ bí quyết\",\"OptionValue\":\"1. Chia sẻ bí quyết \"},{\"OptionLabel\":\" 2. Hỗ trợ 1 tình huống \",\"OptionValue\":\"2. Hỗ trợ 1 tình huống \"},{\"OptionLabel\":\" 3. Trả lời 1 câu nói\",\"OptionValue\":\"3. Trả lời 1 câu nói \"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình huống bạn gặp là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\",\"FieldOptions\":[{\"OptionValue\":\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Cô ấy nói điều gì với bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Mr Kool sẽ giúp bạn trả lời \",\"FieldOptions\":[{\"OptionValue\":\"Mr Kool sẽ giúp bạn trả lời \"cool\" nhất\"}]}]"
   },
   {
     "ID": 28316,
@@ -34209,7 +34209,7 @@
     "Title": "Tina – Schreiben Sie 10 Clickbait-Schlagzeilen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28329,
@@ -34221,7 +34221,7 @@
     "Title": "Sumy – Intelligent anpassbare Inhaltszusammenfassung",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"number\\\",\\\"FieldLabel\\\":\\\"Số lượng\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại tóm tắt\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ý chính (takeaways), ý (points), đoạn văn, câu\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Tùy chọn Emoji\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Có emoji ở đầu, không có emoji\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"number\", \"FieldLabel\": \"Menge\", \"FieldValue\": null, \"FieldPlaceholder\": \"Auto, 1,2,3,4,5,6,7,8,9,10\", \"FieldOptions\": [ { \"OptionValue\": \"Auto, 1,2,3,4,5,6,7,8,9,10\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Zusammenfassungstyp\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionValue\": \"Hauptgedanken (Imbissbuden), Punkte (Punkte), Absätze, Sätze\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Emoji-Option\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionValue\": \"Mit Emoji oben, kein Emoji\" } ] }]"
   },
   {
     "ID": 28341,
@@ -34245,7 +34245,7 @@
     "Title": "Sonia – 10 Threads und Twitter-Post-Ideen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"twitter\",\"Community\":\"social-media\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28373,
@@ -34257,7 +34257,7 @@
     "Title": "Adela – Die ultimative 10 Call-to-Action (CTA)-Schreibassistentin",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thương hiệu, tên sản phẩm của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Khách hàng bạn nhắm tới là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn họ có hành động gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"Mua sản phẩm/dịch vụ\",\"OptionValue\":\"Mua sản phẩm/dịch vụ\"},{\"OptionLabel\":\" Tải về\",\"OptionValue\":\" Tải về\"},{\"OptionLabel\":\" Nhận báo giá\",\"OptionValue\":\" Nhận báo giá\"},{\"OptionLabel\":\" Đăng ký kênh và chia sẻ\",\"OptionValue\":\" Đăng ký kênh và chia sẻ\"},{\"OptionLabel\":\" Bình luận\",\"OptionValue\":\" Bình luận\"},{\"OptionLabel\":\" Liên hệ\",\"OptionValue\":\" Liên hệ\"},{\"OptionLabel\":\" Nhận ưu đãi\",\"OptionValue\":\" Nhận ưu đãi\"}]},{\"FieldID\":\"FIELD4\",\"FieldType\":\"text\",\"FieldLabel\":\"Đường link website, fanpage, liên kết CTA\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ihre Marke, Ihr Produktname?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Wer sind Ihre Zielkunden?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Welche Maßnahmen sollen sie ergreifen?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Kaufen Sie Produkte/Dienstleistungen\", \"OptionValue\": \"Kaufen Sie Produkte/Dienstleistungen\" }, { \"OptionLabel\": \"Herunterladen\", \"OptionValue\": \"Herunterladen\" }, { \"OptionLabel\": \"Ein Angebot bekommen\", \"OptionValue\": \"Ein Angebot bekommen\" }, { \"OptionLabel\": \"Abonnieren Sie den Kanal und teilen Sie ihn\", \"OptionValue\": \"Abonnieren Sie den Kanal und teilen Sie ihn\" }, { \"OptionLabel\": \"Kommentar\", \"OptionValue\": \"Kommentar\" }, { \"OptionLabel\": \"Kontakt\", \"OptionValue\": \"Kontakt\" }, { \"OptionLabel\": \"Holen Sie sich Angebote\", \"OptionValue\": \"Holen Sie sich Angebote\" } ] }, { \"FieldID\": \"FIELD4\", \"FieldType\": \"text\", \"FieldLabel\": \"Website-Link, Fanpage, CTA-Link\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 31756,
@@ -34281,7 +34281,7 @@
     "Title": "[BUCH] 1.1 – Schreiben Sie 10 neue Titel für Ihr Buch",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75691,
@@ -34305,7 +34305,7 @@
     "Title": "6 Hüte – cleverer Problemlöser mit 6 Hüten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Wählen Sie den Hut aus, den Sie analysieren möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"White Hat – Daten und Realität\", \"OptionValue\": \"White Hat – Daten und Realität\" }, { \"OptionLabel\": \"Red Hat – Emotionen und Intuition\", \"OptionValue\": \"Red Hat – Emotionen und Intuition\" }, { \"OptionLabel\": \"Black Hat – Schwierigkeit und Gefahr\", \"OptionValue\": \"Black Hat – Schwierigkeit und Gefahr\" }, { \"OptionLabel\": \"Yellow Hat – Vorteile und Vorteile\", \"OptionValue\": \"Yellow Hat – Vorteile und Vorteile\" }, { \"OptionLabel\": \"Green Hat – Kreativität und Ideen\", \"OptionValue\": \"Green Hat – Kreativität und Ideen\" }, { \"OptionLabel\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\", \"OptionValue\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\" } ] }]"
   },
   {
     "ID": 75700,
@@ -34317,7 +34317,7 @@
     "Title": "6 Hüte – cleverer Problemlöser mit 6 Hüten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Wählen Sie den Hut aus, den Sie analysieren möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"White Hat – Daten und Realität\", \"OptionValue\": \"White Hat – Daten und Realität\" }, { \"OptionLabel\": \"Red Hat – Emotionen und Intuition\", \"OptionValue\": \"Red Hat – Emotionen und Intuition\" }, { \"OptionLabel\": \"Black Hat – Schwierigkeit und Gefahr\", \"OptionValue\": \"Black Hat – Schwierigkeit und Gefahr\" }, { \"OptionLabel\": \"Yellow Hat – Vorteile und Vorteile\", \"OptionValue\": \"Yellow Hat – Vorteile und Vorteile\" }, { \"OptionLabel\": \"Green Hat – Kreativität und Ideen\", \"OptionValue\": \"Green Hat – Kreativität und Ideen\" }, { \"OptionLabel\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\", \"OptionValue\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\" } ] }]"
   },
   {
     "ID": 75702,
@@ -34329,7 +34329,7 @@
     "Title": "6 Hüte – cleverer Problemlöser mit 6 Hüten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Wählen Sie den Hut aus, den Sie analysieren möchten\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"White Hat – Daten und Realität\", \"OptionValue\": \"White Hat – Daten und Realität\" }, { \"OptionLabel\": \"Red Hat – Emotionen und Intuition\", \"OptionValue\": \"Red Hat – Emotionen und Intuition\" }, { \"OptionLabel\": \"Black Hat – Schwierigkeit und Gefahr\", \"OptionValue\": \"Black Hat – Schwierigkeit und Gefahr\" }, { \"OptionLabel\": \"Yellow Hat – Vorteile und Vorteile\", \"OptionValue\": \"Yellow Hat – Vorteile und Vorteile\" }, { \"OptionLabel\": \"Green Hat – Kreativität und Ideen\", \"OptionValue\": \"Green Hat – Kreativität und Ideen\" }, { \"OptionLabel\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\", \"OptionValue\": \"Blue Hat – Schlussfolgerung und Zusammenfassung\" } ] }]"
   },
   {
     "ID": 75739,
@@ -34341,7 +34341,7 @@
     "Title": "Paketumzug",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75759,
@@ -34353,7 +34353,7 @@
     "Title": "Kompletter Umzugsservice",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":\\\"\\\"}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": \"\" }]"
   },
   {
     "ID": 75779,
@@ -34365,7 +34365,7 @@
     "Title": "Miba – Kompetente Beratung zum Businessplan",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Kế hoạch bạn lên trong vòng bao lâu?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình hình và kết quả kinh doanh hiện tại của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào tình hình chi tiết\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào tình hình chi tiết\",\"OptionValue\":\"Nhập vào tình hình chi tiết\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Nguồn lực hiện tại bạn có?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Ngân sách, nhân sự triển khai v.v\",\"FieldOptions\":[{\"OptionLabel\":\"Ngân sách\",\"OptionValue\":\"Ngân sách\"},{\"OptionLabel\":\" nhân sự triển khai v.v\",\"OptionValue\":\" nhân sự triển khai v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Wie lange planen Sie zu bleiben?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Wie sind Ihre aktuelle Geschäftslage und Ihre Geschäftsergebnisse?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Geben Sie die detaillierte Situation ein\", \"FieldOptions\": [ { \"OptionLabel\": \"Geben Sie die detaillierte Situation ein\", \"OptionValue\": \"Geben Sie die detaillierte Situation ein\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Über welche Ressourcen verfügen Sie aktuell?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Budget, Personalausführung etc\", \"FieldOptions\": [ { \"OptionLabel\": \"Budget\", \"OptionValue\": \"Budget\" }, { \"OptionLabel\": \"Einsatzpersonal etc\", \"OptionValue\": \"Einsatzpersonal etc\" } ] }]"
   },
   {
     "ID": 75786,
@@ -34377,7 +34377,7 @@
     "Title": "Miba – Kompetente Beratung für Geschäftsideen",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khoi-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Bạn có thể mô tả rõ hơn nữa không? \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Khách hàng, Giá bán, Chiến lược tăng trưởng v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Khách hàng\\\",\\\"OptionValue\\\":\\\"Khách hàng\\\"},{\\\"OptionLabel\\\":\\\" Giá bán\\\",\\\"OptionValue\\\":\\\" Giá bán\\\"},{\\\"OptionLabel\\\":\\\" Chiến lược tăng trưởng v.v\\\",\\\"OptionValue\\\":\\\" Chiến lược tăng trưởng v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Können Sie es genauer beschreiben?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Kunden, Preis, Wachstumsstrategie usw\", \"FieldOptions\": [ { \"OptionLabel\": \"Klient\", \"OptionValue\": \"Klient\" }, { \"OptionLabel\": \"Preis\", \"OptionValue\": \"Preis\" }, { \"OptionLabel\": \"Wachstumsstrategie usw\", \"OptionValue\": \"Wachstumsstrategie usw\" } ] }]"
   },
   {
     "ID": 75790,
@@ -34389,7 +34389,7 @@
     "Title": "Clara – Kommentieren und schreiben Sie professionelle Inhalte neu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại nội dung nào bạn muốn góp ý?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Bài viết\\\",\\\"OptionValue\\\":\\\"Bài viết\\\"},{\\\"OptionLabel\\\":\\\" Quảng cáo\\\",\\\"OptionValue\\\":\\\" Quảng cáo\\\"},{\\\"OptionLabel\\\":\\\" Social Media\\\",\\\"OptionValue\\\":\\\" Social Media\\\"},{\\\"OptionLabel\\\":\\\" Kịch bản video\\\",\\\"OptionValue\\\":\\\" Kịch bản video\\\"},{\\\"OptionLabel\\\":\\\" Email\\\",\\\"OptionValue\\\":\\\" Email\\\"},{\\\"OptionLabel\\\":\\\" Thể loại khác\\\",\\\"OptionValue\\\":\\\" Thể loại khác\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Zu welcher Art von Inhalten möchten Sie einen Kommentar abgeben?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Null\", \"FieldOptions\": [ { \"OptionLabel\": \"Beiträge\", \"OptionValue\": \"Beiträge\" }, { \"OptionLabel\": \"Werbung\", \"OptionValue\": \"Werbung\" }, { \"OptionLabel\": \"Sozialen Medien\", \"OptionValue\": \"Sozialen Medien\" }, { \"OptionLabel\": \"Videoskript\", \"OptionValue\": \"Videoskript\" }, { \"OptionLabel\": \"Email\", \"OptionValue\": \"Email\" }, { \"OptionLabel\": \"Ein anderer Typ\", \"OptionValue\": \"Ein anderer Typ\" } ] }]"
   },
   {
     "ID": 75813,
@@ -34401,7 +34401,7 @@
     "Title": "Clio – Kundeneinblicke verstehen, Produkt-/Dienstleistungsperspektive von Kunden",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm tới\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Độ tuổi, giới tính, thu nhập v.v\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"  Độ tuổi\",\"OptionValue\":\"  Độ tuổi\"},{\"OptionLabel\":\" giới tính\",\"OptionValue\":\" giới tính\"},{\"OptionLabel\":\" thu nhập v.v\",\"OptionValue\":\" thu nhập v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ihre Zielgruppe?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Alter, Geschlecht, Einkommen usw\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"Alter\", \"OptionValue\": \"Alter\" }, { \"OptionLabel\": \"Sex\", \"OptionValue\": \"Sex\" }, { \"OptionLabel\": \"Einkommen usw\", \"OptionValue\": \"Einkommen usw\" } ] }]"
   },
   {
     "ID": 75822,
@@ -34413,7 +34413,7 @@
     "Title": "HR – Professioneller Rekrutierungsassistent: 10 Fragen an Kandidaten",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75848,
@@ -34425,6 +34425,6 @@
     "Title": "Clio – Kundeneinblicke verstehen, Produkt-/Dienstleistungsperspektive von Kunden",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   Độ tuổi, giới tính, thu nhập v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Độ tuổi\\\",\\\"OptionValue\\\":\\\"  Độ tuổi\\\"},{\\\"OptionLabel\\\":\\\" giới tính\\\",\\\"OptionValue\\\":\\\" giới tính\\\"},{\\\"OptionLabel\\\":\\\" thu nhập v.v\\\",\\\"OptionValue\\\":\\\" thu nhập v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ihre Zielgruppe?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Alter, Geschlecht, Einkommen usw\", \"FieldOptions\": [ { \"OptionLabel\": \"Alter\", \"OptionValue\": \"Alter\" }, { \"OptionLabel\": \"Sex\", \"OptionValue\": \"Sex\" }, { \"OptionLabel\": \"Einkommen usw\", \"OptionValue\": \"Einkommen usw\" } ] }]"
   }
 ]

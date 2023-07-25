@@ -30525,7 +30525,7 @@
     "Title": "Asistent na vytváranie Tiktok skriptov z Youtube videí alebo z daného článku - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thời gian video bạn muốn tạo\",\"FieldValue\":null,\"FieldPlaceholder\":\"45s, 60s, 2 phút v.v\",\"FieldOptions\":[{\"OptionLabel\":\"45s\",\"OptionValue\":\"45s\"},{\"OptionLabel\":\" 60s\",\"OptionValue\":\" 60s\"},{\"OptionLabel\":\" 2 phút v.v\",\"OptionValue\":\" 2 phút v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Načasujte video, ktoré chcete vytvoriť\", \"FieldValue\": null, \"FieldPlaceholder\": \"45, 60, 2 minúty atď\", \"FieldOptions\": [ { \"OptionLabel\": \"45s\", \"OptionValue\": \"45s\" }, { \"OptionLabel\": \"60. roky\", \"OptionValue\": \"60. roky\" }, { \"OptionLabel\": \"2 minúty atď\", \"OptionValue\": \"2 minúty atď\" } ] }]"
   },
   {
     "ID": 21967,
@@ -30537,7 +30537,7 @@
     "Title": "Super nástroj, ktorý vytvára dokonalých pomocníkov AI",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21973,
@@ -30549,7 +30549,7 @@
     "Title": "Sumy – rýchlo a jednoducho zhrňte akýkoľvek článok, akékoľvek video",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21976,
@@ -30561,7 +30561,7 @@
     "Title": "Odborníci odhaľujú najvyššie tajomstvá [MUST TRY]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 21978,
@@ -30573,7 +30573,7 @@
     "Title": "Najlepší odborník na riešenie problémov s piatimi dôvodmi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22013,
@@ -30585,7 +30585,7 @@
     "Title": "Ako používať nástroj",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22014,
@@ -30597,7 +30597,7 @@
     "Title": "10 softvérových tipov na zvýšenie produktivity",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22025,
@@ -30609,7 +30609,7 @@
     "Title": "Naučte sa IELTS s tútorom Lexom!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tieng-anh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22051,
@@ -30621,7 +30621,7 @@
     "Title": "Profesionálny kouč pre rozvoj kariéry - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22066,
@@ -30633,7 +30633,7 @@
     "Title": "Vzťahový kouč",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"moi-quan-he\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22281,
@@ -30657,7 +30657,7 @@
     "Title": "Clio – Základná analýza portrétu zákazníka 2 (s publikom)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Kto je vaša cieľová skupina?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 22316,
@@ -30669,7 +30669,7 @@
     "Title": "Asistent analýzy obsahu webových stránok",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22317,
@@ -30681,7 +30681,7 @@
     "Title": "Asistent analýzy obsahu webových stránok",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22318,
@@ -30693,7 +30693,7 @@
     "Title": "Asistent analýzy obsahu webových stránok",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22319,
@@ -30705,7 +30705,7 @@
     "Title": "Asistent analýzy obsahu webových stránok",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22324,
@@ -30717,7 +30717,7 @@
     "Title": "UTB – Generátor výsledkov online kurzov a výhod",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22372,
@@ -30729,7 +30729,7 @@
     "Title": "Kouč vám pomáha učiť vaše dieťa, rozvíjať zručnosti pre vaše dieťa",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Đặc điểm bạn muốn phát triển như \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tự giác\\\",\\\"OptionValue\\\":\\\"Tự giác\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết vấn đề\\\",\\\"OptionValue\\\":\\\"Giải quyết vấn đề\\\"},{\\\"OptionLabel\\\":\\\" Tư duy phản biện\\\",\\\"OptionValue\\\":\\\"Tư duy phản biện\\\"},{\\\"OptionLabel\\\":\\\" Ra quyết định\\\",\\\"OptionValue\\\":\\\"Ra quyết định\\\"},{\\\"OptionLabel\\\":\\\" Sáng tạo\\\",\\\"OptionValue\\\":\\\"Sáng tạo\\\"},{\\\"OptionLabel\\\":\\\" Tôn trọng người khác\\\",\\\"OptionValue\\\":\\\"Tôn trọng người khác\\\"},{\\\"OptionLabel\\\":\\\" Trách nhiệm\\\",\\\"OptionValue\\\":\\\"Trách nhiệm\\\"},{\\\"OptionLabel\\\":\\\" Trung thực\\\",\\\"OptionValue\\\":\\\"Trung thực\\\"},{\\\"OptionLabel\\\":\\\" Tốt bụng và thông cảm\\\",\\\"OptionValue\\\":\\\"Tốt bụng và thông cảm\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng giao tiếp\\\",\\\"OptionValue\\\":\\\"Kỹ năng giao tiếp\\\"},{\\\"OptionLabel\\\":\\\" Giải quyết xung đột\\\",\\\"OptionValue\\\":\\\"Giải quyết xung đột\\\"},{\\\"OptionLabel\\\":\\\" Làm việc nhóm\\\",\\\"OptionValue\\\":\\\"Làm việc nhóm\\\"},{\\\"OptionLabel\\\":\\\" Lễ nghi và ứng xử\\\",\\\"OptionValue\\\":\\\"Lễ nghi và ứng xử\\\"},{\\\"OptionLabel\\\":\\\" Quản lý thời gian\\\",\\\"OptionValue\\\":\\\"Quản lý thời gian\\\"},{\\\"OptionLabel\\\":\\\" Tổ chức\\\",\\\"OptionValue\\\":\\\"Tổ chức\\\"},{\\\"OptionLabel\\\":\\\" Quản lý tiền bạc và ngân sách\\\",\\\"OptionValue\\\":\\\"Quản lý tiền bạc và ngân sách\\\"},{\\\"OptionLabel\\\":\\\" Việc nhà\\\",\\\"OptionValue\\\":\\\"Việc nhà\\\"},{\\\"OptionLabel\\\":\\\" Kỹ năng học tập\\\",\\\"OptionValue\\\":\\\"Kỹ năng học tập\\\"},{\\\"OptionLabel\\\":\\\" Đọc và viết\\\",\\\"OptionValue\\\":\\\"Đọc và viết\\\"},{\\\"OptionLabel\\\":\\\" Toán học\\\",\\\"OptionValue\\\":\\\"Toán học\\\"},{\\\"OptionLabel\\\":\\\" Tiếng Anh\\\",\\\"OptionValue\\\":\\\"Tiếng Anh\\\"},{\\\"OptionLabel\\\":\\\" Phát triển thể chất\\\",\\\"OptionValue\\\":\\\"Phát triển thể chất\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Páčia sa vám vlastnosti, ktoré chcete rozvíjať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Dobrovoľne\", \"OptionValue\": \"Dobrovoľne\" }, { \"OptionLabel\": \"Riešenie problémov\", \"OptionValue\": \"Riešenie problémov\" }, { \"OptionLabel\": \"Kritické myslenie\", \"OptionValue\": \"Kritické myslenie\" }, { \"OptionLabel\": \"Urobiť rozhodnutie\", \"OptionValue\": \"Urobiť rozhodnutie\" }, { \"OptionLabel\": \"Kreatívne\", \"OptionValue\": \"Kreatívne\" }, { \"OptionLabel\": \"Rešpektujte ostatných\", \"OptionValue\": \"Rešpektujte ostatných\" }, { \"OptionLabel\": \"Zodpovednosť\", \"OptionValue\": \"Zodpovednosť\" }, { \"OptionLabel\": \"Čestný\", \"OptionValue\": \"Čestný\" }, { \"OptionLabel\": \"Milý a sympatický\", \"OptionValue\": \"Milý a sympatický\" }, { \"OptionLabel\": \"Komunikačné schopnosti\", \"OptionValue\": \"Komunikačné schopnosti\" }, { \"OptionLabel\": \"Riešenie konfliktov\", \"OptionValue\": \"Riešenie konfliktov\" }, { \"OptionLabel\": \"Pracovná skupina\", \"OptionValue\": \"Pracovná skupina\" }, { \"OptionLabel\": \"Rituály a správanie\", \"OptionValue\": \"Rituály a správanie\" }, { \"OptionLabel\": \"Time management\", \"OptionValue\": \"Time management\" }, { \"OptionLabel\": \"Organizácia\", \"OptionValue\": \"Organizácia\" }, { \"OptionLabel\": \"Správa peňazí a rozpočtu\", \"OptionValue\": \"Správa peňazí a rozpočtu\" }, { \"OptionLabel\": \"Domáce práce\", \"OptionValue\": \"Domáce práce\" }, { \"OptionLabel\": \"Študijná zručnosť\", \"OptionValue\": \"Študijná zručnosť\" }, { \"OptionLabel\": \"Čítaj a píš\", \"OptionValue\": \"Čítaj a píš\" }, { \"OptionLabel\": \"Matematika\", \"OptionValue\": \"Matematika\" }, { \"OptionLabel\": \"Angličtina\", \"OptionValue\": \"Angličtina\" }, { \"OptionLabel\": \"Fyzické zlepšenie\", \"OptionValue\": \"Fyzické zlepšenie\" } ] }]"
   },
   {
     "ID": 22461,
@@ -30741,7 +30741,7 @@
     "Title": "Super CODER - Kódujte čokoľvek",
     "Usages": 0,
     "Categories": "[{\"Category\":\"web-development\",\"Community\":\"developper-lap-trinh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22473,
@@ -30753,7 +30753,7 @@
     "Title": "Analyzujte súbory potenciálnych zákazníkov",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22567,
@@ -30765,7 +30765,7 @@
     "Title": "Analyzujte súbor potenciálneho zákazníka produktu",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22690,
@@ -30777,7 +30777,7 @@
     "Title": "Profesionálny pomocník pri písaní e-mailov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22707,
@@ -30789,7 +30789,7 @@
     "Title": "Asistentka priameho predaja majstra Angela",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22717,
@@ -30801,7 +30801,7 @@
     "Title": "Sally - odborník na predaj, ktorý rieši 10 najčastejších situácií odmietnutia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22720,
@@ -30813,7 +30813,7 @@
     "Title": "Hlavná asistentka uzavrieť predaj číslo 1 cez telesale Emma",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22742,
@@ -30825,7 +30825,7 @@
     "Title": "Profesionálny obchodný kouč",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22751,
@@ -30837,7 +30837,7 @@
     "Title": "Špičkový asistent scenára Tiktok so scénami",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22797,
@@ -30849,7 +30849,7 @@
     "Title": "Tréner rozvoja podnikového tímu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22806,
@@ -30861,7 +30861,7 @@
     "Title": "Asistent písania reči jedným kliknutím",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"su-kien\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22813,
@@ -30873,7 +30873,7 @@
     "Title": "Najlepší asistent plánovania udalostí - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22833,
@@ -30885,7 +30885,7 @@
     "Title": "AAA Asistent na písanie reči s 1 kliknutím",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22905,
@@ -30897,7 +30897,7 @@
     "Title": "Doer- Asistent na realizáciu plánu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22914,
@@ -30945,7 +30945,7 @@
     "Title": "Asistent na vytváranie osnov lekcií pre kurzy/školiace programy - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22951,
@@ -30957,7 +30957,7 @@
     "Title": "UTB – Nástroj na tvorbu obsahu skriptov pre 1 video lekciu [POKRAČOVANIE]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"theo-nganh-nghe\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22969,
@@ -30981,7 +30981,7 @@
     "Title": "[ULTRA] Asistent rýchleho písania",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22983,
@@ -30993,7 +30993,7 @@
     "Title": "Stratégovia pomáhajú zvýšiť mieru návratnosti zákazníkov k nákupu (RETENTION)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22991,
@@ -31005,7 +31005,7 @@
     "Title": "Stratég personalizácie: Prelomte svoje výnosy z produktov/služieb",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 22996,
@@ -31017,7 +31017,7 @@
     "Title": "Tajomstvo prilákania nových zákazníkov od stratéga",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23056,
@@ -31029,7 +31029,7 @@
     "Title": "Stratégia predaja &amp; MKT TMS Quy Nhon na prenájom",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23059,
@@ -31041,7 +31041,7 @@
     "Title": "Slečna Izy - Asistentka vysvetľuje problém jednoduchým spôsobom",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23165,
@@ -31053,7 +31053,7 @@
     "Title": "Puma - Váš viacjazyčný pomocník pri úpravách a korektúrach!",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23176,
@@ -31065,7 +31065,7 @@
     "Title": "Sophia – asistent plánovania sociálnych médií na 30 dní",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23190,
@@ -31077,7 +31077,7 @@
     "Title": "Asistent na vytváranie zaujímavých otázok pre Facebook skupiny a fanpage: Zvýšte interakciu pre vašu komunitu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23199,
@@ -31089,7 +31089,7 @@
     "Title": "Sophia – asistentka sociálnych médií: 30 nápadov na obsah sociálnych médií, ako osloviť vašich zákazníkov.",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23218,
@@ -31101,7 +31101,7 @@
     "Title": "Vytvorte kurz",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23221,
@@ -31113,7 +31113,7 @@
     "Title": "Lily - asistent na vytváranie príspevkov na všetkých platformách sociálnych médií",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Nền tảng bạn muốn tạo nội dung\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"Facebook\",\"OptionValue\":\"Facebook\"},{\"OptionLabel\":\" Tiktok\",\"OptionValue\":\" Tiktok\"},{\"OptionLabel\":\" Youtube\",\"OptionValue\":\" Youtube\"},{\"OptionLabel\":\" Instagram\",\"OptionValue\":\" Instagram\"},{\"OptionLabel\":\" Twitter\",\"OptionValue\":\" Twitter\"},{\"OptionLabel\":\" Linkedin\",\"OptionValue\":\" Linkedin\"},{\"OptionLabel\":\" Snapchat\",\"OptionValue\":\" Snapchat\"},{\"OptionLabel\":\" Pinterest\",\"OptionValue\":\" Pinterest\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Platforma, na ktorej chcete vytvárať obsah\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Facebook\", \"OptionValue\": \"Facebook\" }, { \"OptionLabel\": \"TIK tak\", \"OptionValue\": \"TIK tak\" }, { \"OptionLabel\": \"YouTube\", \"OptionValue\": \"YouTube\" }, { \"OptionLabel\": \"Instagram\", \"OptionValue\": \"Instagram\" }, { \"OptionLabel\": \"Twitter\", \"OptionValue\": \"Twitter\" }, { \"OptionLabel\": \"Linkedin\", \"OptionValue\": \"Linkedin\" }, { \"OptionLabel\": \"Snapchat\", \"OptionValue\": \"Snapchat\" }, { \"OptionLabel\": \"Pinterest\", \"OptionValue\": \"Pinterest\" } ] }]"
   },
   {
     "ID": 23232,
@@ -31125,7 +31125,7 @@
     "Title": "Zostavte zoznam desiatich dlhých kľúčových slov súvisiacich s [téma].",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23233,
@@ -31137,7 +31137,7 @@
     "Title": "Zostavte zoznam desiatich dlhých kľúčových slov súvisiacich s [téma].",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23234,
@@ -31149,7 +31149,7 @@
     "Title": "Napíšte scenár pre 5-minútové video s predstavením produktu",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23318,
@@ -31161,7 +31161,7 @@
     "Title": "Asistent tvorby titulkov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de\",\"Community\":\"seo-blog\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23319,
@@ -31173,7 +31173,7 @@
     "Title": "[Ultra] Pomocník na písanie skriptov a popisov Tiktok pre príkazy AIB",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23320,
@@ -31185,7 +31185,7 @@
     "Title": "[Ultra] - Super asistent, ktorý pomáha písať obsah sociálnych médií pre výzvy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23326,
@@ -31197,7 +31197,7 @@
     "Title": "[Ultra] Assistant píše blog o asistentovi AIB",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23328,
@@ -31209,7 +31209,7 @@
     "Title": "Mike - Lean Startup Coach",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23333,
@@ -31221,7 +31221,7 @@
     "Title": "Podnikateľská mapa pre podnikateľov s obchodným koučom Sharkom Mikeom",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23347,
@@ -31233,7 +31233,7 @@
     "Title": "API Revit",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23349,
@@ -31245,7 +31245,7 @@
     "Title": "Optimalizácia výnosov",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23351,
@@ -31257,7 +31257,7 @@
     "Title": "Vytvárajte obrázky",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23391,
@@ -31269,7 +31269,7 @@
     "Title": "[Ultra] Asistent, ktorý vám pomôže vylepšiť výzvu na profesionálnu verziu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23392,
@@ -31281,7 +31281,7 @@
     "Title": "[ULTRA] Asistent na vytvorenie megapromptu z danej výzvy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"meo-hay-cuoc-song\",\"Community\":\"hieu-suat\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23393,
@@ -31293,7 +31293,7 @@
     "Title": "Tony - Úspešný tréner: Dobyť akýkoľvek zo svojich cieľov - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"coach\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23397,
@@ -31305,7 +31305,7 @@
     "Title": "HR - Expert na vzdelávanie a rozvoj ľudských zručností a schopností",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23398,
@@ -31317,7 +31317,7 @@
     "Title": "HR - Expert na rozvoj kompetencií/zručností prostredníctvom pracovných činností",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23399,
@@ -31329,7 +31329,7 @@
     "Title": "HR - Expert na budovanie a hodnotenie rámca ľudských zdrojov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23410,
@@ -31341,7 +31341,7 @@
     "Title": "HR - Profesionálny asistent písania emailov na odmietnutie kandidátov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23411,
@@ -31353,7 +31353,7 @@
     "Title": "HR - Profesionálny náborový asistent: 10 otázok pre kandidátov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23412,
@@ -31365,7 +31365,7 @@
     "Title": "HR - asistent na písanie e-mailov s gratuláciou profesionálnym kandidátom",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23415,
@@ -31377,7 +31377,7 @@
     "Title": "HR - Profesionálny asistent tvorby náborových oznámení",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23416,
@@ -31389,7 +31389,7 @@
     "Title": "HR – sprievodca nástupom asistenta pre nových členov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23417,
@@ -31401,7 +31401,7 @@
     "Title": "HR – „head-hunt“ asistent píše emaily na nábor a nábor talentov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23421,
@@ -31413,7 +31413,7 @@
     "Title": "HR - Expert na hodnotenie a analýzu kandidátov s 10 kladmi a zápormi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23424,
@@ -31425,7 +31425,7 @@
     "Title": "HR - asistent na písanie podrobných a presných popisov práce",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"hr-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23427,
@@ -31437,7 +31437,7 @@
     "Title": "HR - Experti popisujú kompetenčný rámec na škále 1-5",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hr\",\"Community\":\"phong-ban\"},{\"Category\":\"phong-ban\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23437,
@@ -31449,7 +31449,7 @@
     "Title": "Profesionálny nástroj na písanie životopisov na dobytie zamestnávateľov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23439,
@@ -31461,7 +31461,7 @@
     "Title": "Profesionálny nástroj na písanie sprievodných listov, ktorý si podmaní zamestnávateľov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"khac\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"thu-xin-viec\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23440,
@@ -31473,7 +31473,7 @@
     "Title": "Pracovný pohovor: Pripravte sa na pohovor pre prácu svojich snov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"phong-van\",\"Community\":\"phat-trien-nghe-nghiep\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23463,
@@ -31485,7 +31485,7 @@
     "Title": "Expert na písanie a optimalizáciu procesov pre akýkoľvek biznis – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23464,
@@ -31497,7 +31497,7 @@
     "Title": "Nástroje na kreslenie diagramov, procesov, diagramov pomocou morskej panny",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23478,
@@ -31509,7 +31509,7 @@
     "Title": "[KNIHA] 1 – Asistent navrhne témy pre vašu knihu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Chọn chủ đề bạn muốn viết\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Độc giả bạn hướng đến là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào đối tượng độc giả hoặc bỏ qua\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\",\"OptionValue\":\"Nhập vào đối tượng độc giả hoặc bỏ qua\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Vyberte si tému, o ktorej chcete písať\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Kto je vaša cieľová skupina?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Zadajte svoje publikum alebo ho preskočte\", \"FieldOptions\": [ { \"OptionLabel\": \"Zadajte svoje publikum alebo ho preskočte\", \"OptionValue\": \"Zadajte svoje publikum alebo ho preskočte\" } ] }]"
   },
   {
     "ID": 23479,
@@ -31521,7 +31521,7 @@
     "Title": "[KNIHA] 2 – Asistent navrhne podrobné nápady pre vašu knihu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23480,
@@ -31545,7 +31545,7 @@
     "Title": "[KNIHA] 4 – Asistent navrhovať obsah a nápady pre kapitoly knihy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23482,
@@ -31557,7 +31557,7 @@
     "Title": "[KNIHA] 5 – Asistent za vás napíše obsah kapitoly knihy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23483,
@@ -31569,7 +31569,7 @@
     "Title": "[KNIHA] 6 - Pridajte kúzlo do kapitol svojej knihy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23484,
@@ -31581,7 +31581,7 @@
     "Title": "[KNIHA] 7 – Asistent na písanie konečného obsahu knihy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23485,
@@ -31593,7 +31593,7 @@
     "Title": "[KNIHA] 8 - Asistent napíše úvod ku knihe",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23501,
@@ -31605,7 +31605,7 @@
     "Title": "[KNIHA] 9 - Asistent na písanie Záveru pre knihu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23502,
@@ -31617,7 +31617,7 @@
     "Title": "[KNIHA] 10 - Pozvánka na propagáciu e-knihy pomocník na písanie Stiahnutie zadarmo",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23503,
@@ -31629,7 +31629,7 @@
     "Title": "Inteligentný asistent plánovania práce s Eisenhower Matrix",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23505,
@@ -31641,7 +31641,7 @@
     "Title": "[KNIHA] 6.1 – Pridajte kúzlo do kapitol svojej knihy: Rozhovor a Rozprávanie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23506,
@@ -31653,7 +31653,7 @@
     "Title": "[KNIHA] 5.1 – Nový pomocník na výskum nápadov, ktorý doplní kapitolu vašej knihy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23535,
@@ -31665,7 +31665,7 @@
     "Title": "[KNIHA] - 5.2: Asistent prepíše pútavý a podrobný obsah pre ktorúkoľvek časť knihy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23540,
@@ -31677,7 +31677,7 @@
     "Title": "Clara - Profesionálna a špičková asistentka prepisovania obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23608,
@@ -31689,7 +31689,7 @@
     "Title": "Pedagogický asistent pre učiteľov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"nha-giao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23609,
@@ -31701,7 +31701,7 @@
     "Title": "Pedagogický asistent pre učiteľov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23618,
@@ -31713,7 +31713,7 @@
     "Title": "Adela – Špičkové písanie reklám na Facebooku: Podnecujte akciu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23621,
@@ -31725,7 +31725,7 @@
     "Title": "[ULTRA] Asistent zapíše megaprompt z danej série riadkov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23690,
@@ -31737,7 +31737,7 @@
     "Title": "Edita - Ultimate Word Processing Assistant: Transformácia textu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23703,
@@ -31749,7 +31749,7 @@
     "Title": "Facebook príspevok s emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23704,
@@ -31761,7 +31761,7 @@
     "Title": "Facebook príspevok s emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23705,
@@ -31773,7 +31773,7 @@
     "Title": "Facebook príspevok s emoji",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23731,
@@ -31785,7 +31785,7 @@
     "Title": "Učte sa čínsky každý deň s Rabbit Tu Zi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23740,
@@ -31797,7 +31797,7 @@
     "Title": "Naučte sa anglickú slovnú zásobu",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23771,
@@ -31809,7 +31809,7 @@
     "Title": "CareerGPT: Špecialista na študentskú kariéru - Rozžiarte svoju budúcnosť",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23805,
@@ -31821,7 +31821,7 @@
     "Title": "CareerGPT: Profesionálna orientácia pre pracujúcich ľudí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"huong-nghiep\",\"Community\":\"phat-trien-nghe-nghiep\"},{\"Category\":\"phat-trien-nghe-nghiep\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23823,
@@ -31833,7 +31833,7 @@
     "Title": "Edita - Špičkový pomocník na spracovanie textu: Automatická extrakcia údajov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"huong-dan\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23887,
@@ -31845,7 +31845,7 @@
     "Title": "Satima - Najlepší asistent analýzy sentimentu zákazníkov - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23889,
@@ -31857,7 +31857,7 @@
     "Title": "[ULTRA] Asistent na napísanie popisu výhod pre virtuálnych asistentov AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23890,
@@ -31869,7 +31869,7 @@
     "Title": "[ULTRA] Analyzujte výhody, náklady a ušetrený čas pre 1 asistenta AIVA Best",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23940,
@@ -31881,7 +31881,7 @@
     "Title": "Ella – Super asistentka na interakciu a odpovedanie zákazníkom – Starostlivosť o zákazníkov pred a po predaji",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23943,
@@ -31893,7 +31893,7 @@
     "Title": "Ella – Super asistent na interakciu a odpovedanie zákazníkom – popredajná verzia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23944,
@@ -31905,7 +31905,7 @@
     "Title": "Ella – Super asistentka na interakciu a odpovedanie zákazníkom – Predpredajná verzia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23987,
@@ -31917,7 +31917,7 @@
     "Title": "Petalia Angel - Aby bol každý deň pozitívny, pokojný a inšpiratívny",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 23998,
@@ -31929,7 +31929,7 @@
     "Title": "[Ultra] Assistant poskytuje demo scenáre asistentom AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24003,
@@ -31941,7 +31941,7 @@
     "Title": "Riaditeľ e-shopu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24004,
@@ -31953,7 +31953,7 @@
     "Title": "Riaditeľ zodpovedný za MKT",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24005,
@@ -31965,7 +31965,7 @@
     "Title": "Podnikový marketingový manažér",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24066,
@@ -31977,7 +31977,7 @@
     "Title": "Raporta - výkonný pomocník na vytváranie profesionálnych správ z akýchkoľvek údajov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24072,
@@ -31989,7 +31989,7 @@
     "Title": "Raporta - výkonný pomocník na vytváranie profesionálnych správ - vložte verziu a spustite",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24091,
@@ -32001,7 +32001,7 @@
     "Title": "SEO Guru - Špičkový odborník na SEO plánovanie, obsah a výskum kľúčových slov - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24105,
@@ -32013,7 +32013,7 @@
     "Title": "SEO Guru - Najlepší odborník na výskum kľúčových slov (50 výsledkov)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24106,
@@ -32025,7 +32025,7 @@
     "Title": "SEO Guru – 1. Expert na výskum kľúčových slov v oblasti Longtail – Longtail keywords",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24107,
@@ -32037,7 +32037,7 @@
     "Title": "SEO Guru - 2. Expertný výskum kľúčových slov (synonymum...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24108,
@@ -32049,7 +32049,7 @@
     "Title": "SEO Guru - 3. Špičkový odborník na výskum kľúčových slov pomocou LSI a NLP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24109,
@@ -32061,7 +32061,7 @@
     "Title": "SEO Guru - 4. Špičkový odborník na výskum kľúčových slov Navrhovaný názov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24112,
@@ -32073,7 +32073,7 @@
     "Title": "SEO Guru - 5. Expertný výskum kľúčových slov: FAQ a SEO Silo",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-seo\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24131,
@@ -32121,7 +32121,7 @@
     "Title": "Raporta, výkonný asistent, ktorý premieňa dáta na profesionálne reporty",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24152,
@@ -32133,7 +32133,7 @@
     "Title": "Tina - Napíšte názov, verziu s názvom produktu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tên thương hiệu của sản phẩm/ dịch vụ của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Názov značky vášho produktu/služby\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 24167,
@@ -32145,7 +32145,7 @@
     "Title": "Val – Najlepší pomocník pri skriptovaní krátkeho videa pre Tiktok/Youtube/Reels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24173,
@@ -32157,7 +32157,7 @@
     "Title": "Val - Vírusový asistent skriptovania krátkeho videa pre Tiktok/Youtube/Reels z dostupného obsahu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24181,
@@ -32169,7 +32169,7 @@
     "Title": "Tony – inšpiratívny expert: 30 inšpiratívnych citátov pre vás a váš tím",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"truyen-dong-luc\",\"Community\":\"phat-trien-ban-than\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24182,
@@ -32181,7 +32181,7 @@
     "Title": "Clara - Super profesionálny asistent prepisovania obsahu - verzia optimalizovaná pre SEO",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24195,
@@ -32193,7 +32193,7 @@
     "Title": "Ella - Super asistentka na interakciu a odpovedanie zákazníkov - Odpovedzte na veľa otázok naraz",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24200,
@@ -32205,7 +32205,7 @@
     "Title": "Majster predaja kouč s 15 stratégiami pre vás",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24298,
@@ -32217,7 +32217,7 @@
     "Title": "Satima – dokonalý asistent analýzy sentimentu zákazníka – vložte verziu a spustite",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cham-soc-khach-hang\",\"Community\":null},{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24308,
@@ -32229,7 +32229,7 @@
     "Title": "Val - Najlepší asistent skriptovania videa pre Tiktok/Youtube/Reels s publikom",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24315,
@@ -32241,7 +32241,7 @@
     "Title": "Suzy – odborník číslo 1, ktorý vám pomôže dosiahnuť 1 milión sledovateľov na všetkých platformách sociálnych médií",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24325,
@@ -32253,7 +32253,7 @@
     "Title": "Sophia - asistentka na vytvorenie 30 nápadov na obsah pre Tiktok, Youtube, Instagram, Facebook...",
     "Usages": 0,
     "Categories": "[{\"Category\":\"facebook\",\"Community\":\"social-media\"},{\"Category\":\"instagram\",\"Community\":\"social-media\"},{\"Category\":\"linkedin\",\"Community\":\"social-media\"},{\"Category\":\"pinterest\",\"Community\":\"social-media\"},{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"twitter\",\"Community\":\"social-media\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24348,
@@ -32265,7 +32265,7 @@
     "Title": "Promo - Expert navrhuje 15 najlepších propagačných stratégií - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24400,
@@ -32277,7 +32277,7 @@
     "Title": "PMH",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24428,
@@ -32301,7 +32301,7 @@
     "Title": "Artica – efektívny pomocník na prepisovanie obsahu novín a článkov pre redaktorov/blogerov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24434,
@@ -32313,7 +32313,7 @@
     "Title": "Artica – výkonný pomocník na prepisovanie obsahu novín a článkov v NOVOM ŠTÝLE pre redaktorov/blogerov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24435,
@@ -32325,7 +32325,7 @@
     "Title": "Artica - Asistent na prepisovanie obsahu novín a článkov, verzie pomocou odkazu a pluginu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24438,
@@ -32337,7 +32337,7 @@
     "Title": "Artica – pomocník pri písaní novín a článkov na základe daných kľúčových slov a informácií",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24439,
@@ -32349,7 +32349,7 @@
     "Title": "Artica - Pomocník pri písaní novín a článkov, na základe daných kľúčových slov a informácií, SEO verzia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24442,
@@ -32361,7 +32361,7 @@
     "Title": "Artica – pomocník pri prepisovaní novín a článkov pre redaktorov/blogerov, SEO verzia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24480,
@@ -32373,7 +32373,7 @@
     "Title": "Asistent na nájdenie sponzorov/inzerentov pre web, potrebujete GPT 4",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24585,
@@ -32385,7 +32385,7 @@
     "Title": "Exela - Excel asistent, konvertuje a spracováva dáta csv, txt súborov do tabuľkovej formy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24591,
@@ -32397,7 +32397,7 @@
     "Title": "LegaX - Nadnárodný profesionálny špecialista na vypracovanie zmlúv/dohôd",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24592,
@@ -32409,7 +32409,7 @@
     "Title": "LegaX - Profesionálny odborník na vypracovanie zmlúv/dohôd, Vietnam",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24593,
@@ -32421,7 +32421,7 @@
     "Title": "[ULTRA] Exela - Excel asistent, prenos a spracovanie dát pre AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24612,
@@ -32433,7 +32433,7 @@
     "Title": "Exela - Asistent automatickej klasifikácie údajov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24620,
@@ -32445,7 +32445,7 @@
     "Title": "SlideGPT - pomocník na vytváranie profesionálnych a atraktívnych powerpointových prezentácií",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24625,
@@ -32457,7 +32457,7 @@
     "Title": "SlideGPT – pomocník na vytváranie prezentácií v Powerpointe, verzia na prilepenie obsahu alebo odkaz",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24737,
@@ -32469,7 +32469,7 @@
     "Title": "Maki - Rada v štýle líčenia, vďaka ktorej si podmaníte každý uhol",
     "Usages": 0,
     "Categories": "[{\"Category\":\"lam-dep\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24738,
@@ -32481,7 +32481,7 @@
     "Title": "Mlieko - odborník na písanie upomienok na polia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24741,
@@ -32493,7 +32493,7 @@
     "Title": "Optima – produktivita X2 s pravidlami 80/20 (Pareto)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 24743,
@@ -32505,7 +32505,7 @@
     "Title": "Numero - Váš numerológ (ukazovateľ životnej cesty, osud, duša...) (odporúča sa GPT4)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"tinh-than-tam-linh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"date\\\",\\\"FieldLabel\\\":\\\"Nhập vào ngày tháng năm sinh của bạn\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"date\", \"FieldLabel\": \"Zadajte dátum narodenia\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 25403,
@@ -32517,7 +32517,7 @@
     "Title": "Asistent písania popisu produktu: prepíšte starý popis atraktívnejším",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tên sản phẩm của bạn\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Názov vášho produktu\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 26054,
@@ -32529,7 +32529,7 @@
     "Title": "LeadMax – Prilákajte potenciálnych zákazníkov nápadmi na návnady, magnet olova",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26111,
@@ -32541,7 +32541,7 @@
     "Title": "A [PROMPT]",
     "Usages": 0,
     "Categories": "[{\"Category\":\"data\",\"Community\":\"developper-lap-trinh\"},{\"Category\":\"developper-lap-trinh\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26241,
@@ -32553,7 +32553,7 @@
     "Title": "Kvóta - Profesionálny a rýchly asistent tvorby cenových ponúk",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26280,
@@ -32565,7 +32565,7 @@
     "Title": "Puma - Efektívny pomocník pri korektúre",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26298,
@@ -32577,7 +32577,7 @@
     "Title": "EmailPro – Zvýšte mieru otvorených e-mailov pre e-mailové marketingové kampane",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26302,
@@ -32589,7 +32589,7 @@
     "Title": "EmailPro – Profesionálna stratégia tvorby zoznamu (zostavte si zoznam potenciálnych zákazníkov)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26315,
@@ -32601,7 +32601,7 @@
     "Title": "Facebook reklamy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26317,
@@ -32613,7 +32613,7 @@
     "Title": "Facebook reklamy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26319,
@@ -32625,7 +32625,7 @@
     "Title": "Inzerujte rodine",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26321,
@@ -32637,7 +32637,7 @@
     "Title": "Inzerujte rodine",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26356,
@@ -32649,7 +32649,7 @@
     "Title": "[ULTRA] Vytvorte dokonalý video scenár pre asistenta AIVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26365,
@@ -32661,7 +32661,7 @@
     "Title": "Edita - Pomocník na spracovanie textu: Automatická extrakcia údajov, používa sa verzia prilepenia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26391,
@@ -32673,7 +32673,7 @@
     "Title": "Landa – dokonalý pomocník pri vytváraní vstupnej stránky, verzia PRO",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26471,
@@ -32685,7 +32685,7 @@
     "Title": "TiktokPRO - Expert na písanie dramatických scenárov pre Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26473,
@@ -32697,7 +32697,7 @@
     "Title": "TiktokPRO - Pomocník pre 20 nápadov na scenár DRAMA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26490,
@@ -32709,7 +32709,7 @@
     "Title": "DirectorPRO - profesionálny filmový režisér pre Tiktok, Youtube, TVC",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26493,
@@ -32721,7 +32721,7 @@
     "Title": "[ULTRA] AIVA asistent písania z uvedených pokynov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26500,
@@ -32733,7 +32733,7 @@
     "Title": "ActingPRO - výkonný riaditeľ pre profesionálnych hercov pre Tiktok, Youtube, TVC",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26503,
@@ -32745,7 +32745,7 @@
     "Title": "MusicPRO - Music Writing Assistant - Premeňte svoj obsah na melódie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26508,
@@ -32757,7 +32757,7 @@
     "Title": "MusicPRO: Asistent skladateľa, ktorý oživí váš scenár",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26511,
@@ -32769,7 +32769,7 @@
     "Title": "SongPRO - Profesionálny pomocník pri písaní skladieb jediným kliknutím",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Sắc thái của bài hát?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Auto\\\",\\\"OptionValue\\\":\\\"Auto\\\"},{\\\"OptionLabel\\\":\\\" Happy\\\",\\\"OptionValue\\\":\\\"Happy\\\"},{\\\"OptionLabel\\\":\\\" Sad\\\",\\\"OptionValue\\\":\\\"Sad\\\"},{\\\"OptionLabel\\\":\\\" Angry\\\",\\\"OptionValue\\\":\\\"Angry\\\"},{\\\"OptionLabel\\\":\\\" Calm\\\",\\\"OptionValue\\\":\\\"Calm\\\"},{\\\"OptionLabel\\\":\\\" Excited\\\",\\\"OptionValue\\\":\\\"Excited\\\"},{\\\"OptionLabel\\\":\\\" Romantic\\\",\\\"OptionValue\\\":\\\"Romantic\\\"},{\\\"OptionLabel\\\":\\\" Positive\\\",\\\"OptionValue\\\":\\\"Positive\\\"},{\\\"OptionLabel\\\":\\\" Nostalgic\\\",\\\"OptionValue\\\":\\\"Nostalgic\\\"},{\\\"OptionLabel\\\":\\\" Inspirational\\\",\\\"OptionValue\\\":\\\"Inspirational\\\"},{\\\"OptionLabel\\\":\\\" Empowering\\\",\\\"OptionValue\\\":\\\"Empowering\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bài hát này viết cho đối tượng nào?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Tất cả\\\",\\\"OptionValue\\\":\\\"Tất cả\\\"},{\\\"OptionLabel\\\":\\\" Người lớn\\\",\\\"OptionValue\\\":\\\"Người lớn\\\"},{\\\"OptionLabel\\\":\\\" Trẻ con\\\",\\\"OptionValue\\\":\\\"Trẻ con\\\"},{\\\"OptionLabel\\\":\\\" Teen\\\",\\\"OptionValue\\\":\\\"Teen\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Nuance piesne?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"auto\", \"OptionValue\": \"auto\" }, { \"OptionLabel\": \"Šťasný\", \"OptionValue\": \"Šťasný\" }, { \"OptionLabel\": \"Smutný\", \"OptionValue\": \"Smutný\" }, { \"OptionLabel\": \"Nahnevaný\", \"OptionValue\": \"Nahnevaný\" }, { \"OptionLabel\": \"Pokojne\", \"OptionValue\": \"Pokojne\" }, { \"OptionLabel\": \"Nadšený\", \"OptionValue\": \"Nadšený\" }, { \"OptionLabel\": \"Romantické\", \"OptionValue\": \"Romantické\" }, { \"OptionLabel\": \"Pozitívny\", \"OptionValue\": \"Pozitívny\" }, { \"OptionLabel\": \"Nostalgický\", \"OptionValue\": \"Nostalgický\" }, { \"OptionLabel\": \"Inšpiratívny\", \"OptionValue\": \"Inšpiratívny\" }, { \"OptionLabel\": \"Posilnenie\", \"OptionValue\": \"Posilnenie\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Pre koho je táto pieseň napísaná?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Všetky\", \"OptionValue\": \"Všetky\" }, { \"OptionLabel\": \"Dospelý\", \"OptionValue\": \"Dospelý\" }, { \"OptionLabel\": \"deti\", \"OptionValue\": \"deti\" }, { \"OptionLabel\": \"Násťročný\", \"OptionValue\": \"Násťročný\" } ] }]"
   },
   {
     "ID": 26522,
@@ -32781,7 +32781,7 @@
     "Title": "MusicPRO - Hudobný asistent z textov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"am-nhac\",\"Community\":\"phong-cach-song\"},{\"Category\":\"phong-cach-song\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26534,
@@ -32793,7 +32793,7 @@
     "Title": "Mesačný plánovač – zostavte si dokonalý marketingový plán na daný mesiac",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26543,
@@ -32805,7 +32805,7 @@
     "Title": "Mesačný plánovač – zostavte si dokonalý plán predaja na mesiac, verzia TEAM",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26547,
@@ -32817,7 +32817,7 @@
     "Title": "PressX - Profesionálny asistent tlačovej správy (Press Releash)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26558,
@@ -32829,7 +32829,7 @@
     "Title": "Sales Planner – zostavenie plánu predaja B2C na štvrťrok, rok, časť 1",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26562,
@@ -32841,7 +32841,7 @@
     "Title": "SalesPlanner - Vytvorenie plánu predaja B2C na štvrťrok, rok, časť 2 - Udržiavanie a rast",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26564,
@@ -32853,7 +32853,7 @@
     "Title": "Sales Planner - Vytvorenie plánu predaja B2C na štvrťrok, rok, časť 3: Hodnotenie a meranie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26574,
@@ -32865,7 +32865,7 @@
     "Title": "Plánovač predaja B2B – zostavenie plánu predaja B2B na štvrťrok, rok, časť 1",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"saas-kinh-doanh\",\"Community\":\"kinh-doanh\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26576,
@@ -32877,7 +32877,7 @@
     "Title": "B2B Sales Planner - Vytvorenie B2B plánu predaja, časť 2: Hľadanie zákazníkov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26578,
@@ -32889,7 +32889,7 @@
     "Title": "B2B Sales Planner - Vytvorenie B2B plánu predaja, časť 3: Rozvoj tímu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26583,
@@ -32901,7 +32901,7 @@
     "Title": "Plánovač predaja B2B – Vytvorenie plánu predaja B2B, časť 4: Hodnotenie, prognóza",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26603,
@@ -32913,7 +32913,7 @@
     "Title": "TiktokPRO – dokonalý asistent skriptovania Tiktok (podeľte sa o znalosti)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26607,
@@ -32925,7 +32925,7 @@
     "Title": "TiktokPRO – Vytvorte špičkový video scenár na recenziu produktu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26609,
@@ -32937,7 +32937,7 @@
     "Title": "TiktokPRO - Tiktok skriptovací asistent žánru CHALLENGE",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26611,
@@ -32949,7 +32949,7 @@
     "Title": "TiktokPRO - Asistent 20 nápadov pre videá CHALLENGE",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26618,
@@ -32961,7 +32961,7 @@
     "Title": "TiktokPRO - Tiktok skriptovací asistent, žáner Youtube VLOG",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26671,
@@ -32973,7 +32973,7 @@
     "Title": "KONCEPCIA – Text výzvy vrátane zástupného symbolu [TARGETLANGUAGE] alebo [PROMPT] sa automaticky nahradí AIBestPrompts",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26676,
@@ -32985,7 +32985,7 @@
     "Title": "Ella 37- Super asistent pre interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Aké sú vaše produkty a služby?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Aké sú vaše produkty a služby?\", \"FieldOptions\": [ { \"OptionValue\": \"Aké sú vaše produkty a služby?\" } ] }]"
   },
   {
     "ID": 26679,
@@ -32997,7 +32997,7 @@
     "Title": "Ella 37- Super asistent pre interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26682,
@@ -33009,7 +33009,7 @@
     "Title": "Ella 37- Super asistent pre interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26685,
@@ -33021,7 +33021,7 @@
     "Title": "Ella 37- Super asistent pre interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26688,
@@ -33033,7 +33033,7 @@
     "Title": "Ella 37- Super asistent pre interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26698,
@@ -33045,7 +33045,7 @@
     "Title": "11- Super asistent na interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26702,
@@ -33057,7 +33057,7 @@
     "Title": "112- Super asistent na interakciu a odpovedanie na zákazníkov - Ver popredajný servis",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26807,
@@ -33069,7 +33069,7 @@
     "Title": "Doer - Asistent implementácie plánu s priradeným KPI - Premeňte stratégiu na činy",
     "Usages": 0,
     "Categories": "[{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26828,
@@ -33081,7 +33081,7 @@
     "Title": "Asistent pri písaní článkov na propagáciu produktov vrátane atraktívnych štýlov FAB, FAS, 4C, BAB",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26886,
@@ -33093,7 +33093,7 @@
     "Title": "TiktokPRO - Odborníci na Tiktok zdieľajú základné tajomstvá pri budovaní kanála Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26893,
@@ -33105,7 +33105,7 @@
     "Title": "TiktokPRO - Odborníci z Tiktok Shopu vás prevedú porušením pravidiel v obchode Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26895,
@@ -33117,7 +33117,7 @@
     "Title": "TiktokPRO - Asistent 20 nápadov pre videá Urob si sám (DIY).",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26899,
@@ -33129,7 +33129,7 @@
     "Title": "TiktokPRO - Tiktok skriptovací asistent Urob si sám (DIY)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26905,
@@ -33141,7 +33141,7 @@
     "Title": "TiktokPRO – ultimátny odborník na tréning zručností naživo",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26955,
@@ -33153,7 +33153,7 @@
     "Title": "[GPT4] Navrhnite 10 nápadov na video na základe daného odkazu na YouTube, potrebujete doplnok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26964,
@@ -33165,7 +33165,7 @@
     "Title": "[GPT4] Zhrňte akékoľvek video YouTube jediným kliknutím",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26968,
@@ -33177,7 +33177,7 @@
     "Title": "[GPT4] Nástroj na online zhrnutie súborov PDF a word",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26971,
@@ -33189,7 +33189,7 @@
     "Title": "[GPT4] Nástroj na extrahovanie textových údajov z obrázkov, premena obrázkov na text",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26973,
@@ -33201,7 +33201,7 @@
     "Title": "Reklamy Lotus na Facebooku",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 26989,
@@ -33213,7 +33213,7 @@
     "Title": "TiktokPRO – Odborníci usmerňujú porušenia, ktorým sa treba vyhnúť v politike Tiktok Livestream",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27004,
@@ -33225,7 +33225,7 @@
     "Title": "TiktokPRO - asistent skriptovania Tiktok žánru podcast",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27037,
@@ -33237,7 +33237,7 @@
     "Title": "TiktokPRO - asistent písania scenárov Tiktok, žáner Talkshow Youtube",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27043,
@@ -33249,7 +33249,7 @@
     "Title": "AITutor, učiteľ AI, ktorý vám pomôže zvládnuť a naučiť sa akúkoľvek tému",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"kien-thuc\",\"Community\":\"hoc-tap\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27047,
@@ -33261,7 +33261,7 @@
     "Title": "Mella - Efektívny pomocník pri písaní",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27060,
@@ -33273,7 +33273,7 @@
     "Title": "[ULTRA] Vzorové demo dáta pre rýchly a očakávaný výsledok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27069,
@@ -33285,7 +33285,7 @@
     "Title": "TiktokPRO - Expert na budovanie kanála Tiktok na nasledujúcich 12 mesiacov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27078,
@@ -33297,7 +33297,7 @@
     "Title": "TiktokPRO - 30-dňový plánovací asistent pre váš kanál Tiktok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27087,
@@ -33309,7 +33309,7 @@
     "Title": "Rosa - Nasaďte efektívnu stratégiu s alokátorom zdrojov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27093,
@@ -33321,7 +33321,7 @@
     "Title": "KPIPro - expert na meranie výkonnosti KPI pre vašu stratégiu, plán",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"cong-viec\",\"Community\":null},{\"Category\":\"hieu-suat\",\"Community\":null},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null},{\"Category\":\"ke-hoach\",\"Community\":\"tien-ich\"},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27096,
@@ -33333,7 +33333,7 @@
     "Title": "Clara 212 - Profesionálna a špičková asistentka prepisovania obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27097,
@@ -33345,7 +33345,7 @@
     "Title": "Clara 212eq43 - Super profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sdfsdf\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"sdfdsf\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"sdfdsf\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"sdfsdf\", \"FieldValue\": null, \"FieldPlaceholder\": \"sdfdsf\", \"FieldOptions\": [ { \"OptionValue\": \"sdfdsf\" } ] }]"
   },
   {
     "ID": 27099,
@@ -33357,7 +33357,7 @@
     "Title": "Clara 212 - Profesionálna a špičková asistentka prepisovania obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào \",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27119,
@@ -33369,7 +33369,7 @@
     "Title": "Clara 213 - Profesionálna a špičková asistentka prepisovania obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27121,
@@ -33381,7 +33381,7 @@
     "Title": "Clara 21423 - Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27138,
@@ -33393,7 +33393,7 @@
     "Title": "Artica - Asistent na súhrnné správy z mnohých rôznych zdrojov odkazov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27141,
@@ -33405,7 +33405,7 @@
     "Title": "Artica – redakcia AI, ktorá pomáha usmerňovať nasadenie obsahu z tém",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27143,
@@ -33417,7 +33417,7 @@
     "Title": "Artica - asistent písania Sapo (chapeau) a navrhované značky pre články",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27150,
@@ -33429,7 +33429,7 @@
     "Title": "Adela -Píšte Facebook reklamy podľa KONCEPTU",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"quang-cao-marketing-tiep-thi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Khách hàng tiềm năng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Thương hiệu của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn công thức bạn muốn viết\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" PAS (Vấn đề, Kích thích, Giải pháp)\\\",\\\"OptionValue\\\":\\\"PAS (Problem, Agitate, Solution)\\\"},{\\\"OptionLabel\\\":\\\" AIDA (Sự chú ý, Sự quan tâm, Sự khao khát, Hành động)\\\",\\\"OptionValue\\\":\\\"AIDA (Attention, Interest, Desire, Action)\\\"},{\\\"OptionLabel\\\":\\\" BAB (Trước, Sau, Cầu nối)\\\",\\\"OptionValue\\\":\\\"BAB (Before, After, Bridge)\\\"},{\\\"OptionLabel\\\":\\\" FAB (Tính năng, Lợi ích, Đặc điểm)\\\",\\\"OptionValue\\\":\\\"FAB (Features, Advantages, Benefits)\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Potenciálni zákazníci, na ktorých sa zameriavate\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Aká je vaša značka?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Vyberte vzorec, ktorý chcete napísať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"PAS (problém, stimul, riešenie)\", \"OptionValue\": \"PAS (problém, agitácia, riešenie)\" }, { \"OptionLabel\": \"AIDA (pozornosť, záujem, túžba, akcia)\", \"OptionValue\": \"AIDA (pozornosť, záujem, túžba, akcia)\" }, { \"OptionLabel\": \"BAB (Pred, Po, Most)\", \"OptionValue\": \"BAB (Pred, Po, Most)\" }, { \"OptionLabel\": \"FAB (vlastnosti, výhody, vlastnosti)\", \"OptionValue\": \"FAB (vlastnosti, výhody, výhody)\" } ] }]"
   },
   {
     "ID": 27195,
@@ -33441,7 +33441,7 @@
     "Title": "SlidePitch - pomocník na vytváranie atraktívnych predajných prezentácií",
     "Usages": 0,
     "Categories": "[{\"Category\":\"ban-hang\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27198,
@@ -33453,7 +33453,7 @@
     "Title": "Clara - Asistent prepisu rozširuje dlhší obsah, jednoduchá verzia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"nha-dao-tao\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"tac-gia\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27244,
@@ -33465,7 +33465,7 @@
     "Title": "[GPT4] Asistent agregátora správ: sumarizuje obsah z odkazov na články",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"nghien-cuu\",\"Community\":\"tien-ich\"},{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27260,
@@ -33477,7 +33477,7 @@
     "Title": "Artica – pomocník pri písaní blogov o marketingu produktov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27263,
@@ -33489,7 +33489,7 @@
     "Title": "Artica - Váš produktový marketingový asistent na písanie blogu, SEO verzia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27274,
@@ -33501,7 +33501,7 @@
     "Title": "Vido – Navrhnite 15 nápadov na videá pre Youtube/Tiktok na základe daného obsahu a scenára",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27279,
@@ -33513,7 +33513,7 @@
     "Title": "Val – asistent skriptovania videa pre Tiktok/Youtube/Reels – Problém – Riešenie",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"youtube\",\"Community\":\"video\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27289,
@@ -33525,7 +33525,7 @@
     "Title": "AskGPT - Inteligentný asistent otázok",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27291,
@@ -33537,7 +33537,7 @@
     "Title": "RoleGPT – Porozprávajte sa s miliardármi a skvelými ľuďmi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chien-luoc-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Bạn muốn được góp ý, nói chuyện với ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"S kým sa chceš poradiť, porozprávať?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 27326,
@@ -33549,7 +33549,7 @@
     "Title": "EstateGPT - Profesionálny autor realitných projektov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"kinh-doanh-mau-bieu\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"mau-tai-lieu-template\",\"Community\":\"kinh-doanh\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27363,
@@ -33561,7 +33561,7 @@
     "Title": "Vivi - Asistent na rozdelenie obsahu na 2 časti pre videá Tiktok, Reels",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tiktok\",\"Community\":\"video\"},{\"Category\":\"video\",\"Community\":null},{\"Category\":\"xu-ly-van-ban\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27367,
@@ -33573,7 +33573,7 @@
     "Title": "AgriBot - Odborný sprievodca pestovaním všetkých druhov rastlín",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27370,
@@ -33585,7 +33585,7 @@
     "Title": "AniBot - Odborník na chov a starostlivosť o hospodárske zvieratá a hydinu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chuyen-gia\",\"Community\":\"vai-tro\"},{\"Category\":\"nong-nghiep\",\"Community\":\"theo-nganh-nghe\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27401,
@@ -33597,7 +33597,7 @@
     "Title": "[GPT4] Inteligentný asistent tvorby diagramov (graf, vývojový diagram...)",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27459,
@@ -33609,7 +33609,7 @@
     "Title": "Sally - expert na odmietnutie na 1 otázku, predajná situácia",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"ban-hang\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Sản phẩm, dịch vụ của bạn là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"Product\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng, hoặc tình huống khách hàng bạn gặp\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Aký je váš produkt alebo služba?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"Product\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Zacieľte na zákazníkov alebo situácie zákazníkov, s ktorými sa stretnete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 27488,
@@ -33621,7 +33621,7 @@
     "Title": "Winebot - Asistent na písanie popisov vinárskych produktov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"san-pham-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27660,
@@ -33633,7 +33633,7 @@
     "Title": "Sumy - Inteligentné zhrnutie obsahu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27662,
@@ -33645,7 +33645,7 @@
     "Title": "Sumy – Inteligentné zhrnutie, verzia emodži",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27674,
@@ -33657,7 +33657,7 @@
     "Title": "SPRÁVA",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"email\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27692,
@@ -33669,7 +33669,7 @@
     "Title": "Smiešne",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27693,
@@ -33681,7 +33681,7 @@
     "Title": "Smiešne",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 27695,
@@ -33693,7 +33693,7 @@
     "Title": "Smiešne",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28038,
@@ -33705,7 +33705,7 @@
     "Title": "ABC 123",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28040,
@@ -33717,7 +33717,7 @@
     "Title": "Ella 372- Super asistent pre interakciu a odpovedanie zákazníkom - Ver After Sales",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Aké sú vaše produkty a služby?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Aké sú vaše produkty a služby?\", \"FieldOptions\": [ { \"OptionValue\": \"Aké sú vaše produkty a služby?\" } ] }]"
   },
   {
     "ID": 28042,
@@ -33729,7 +33729,7 @@
     "Title": "ABC 1234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28044,
@@ -33741,7 +33741,7 @@
     "Title": "ABC 12345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28046,
@@ -33753,7 +33753,7 @@
     "Title": "ABC 123456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28048,
@@ -33765,7 +33765,7 @@
     "Title": "ABC 234",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28050,
@@ -33777,7 +33777,7 @@
     "Title": "ABC 345",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28052,
@@ -33789,7 +33789,7 @@
     "Title": "ABC 3456",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28054,
@@ -33801,7 +33801,7 @@
     "Title": "ABC Ella 37- Super asistent na interakciu a odpovedanie zákazníkom - Ver popredajný servis",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"    Sản phẩm và dịch vụ của bạn là gì?\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Sản phẩm và dịch vụ của bạn là gì?\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Aké sú vaše produkty a služby?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Aké sú vaše produkty a služby?\", \"FieldOptions\": [ { \"OptionValue\": \"Aké sú vaše produkty a služby?\" } ] }]"
   },
   {
     "ID": 28057,
@@ -33813,7 +33813,7 @@
     "Title": "Clara 214235 - Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28061,
@@ -33825,7 +33825,7 @@
     "Title": "Clara 214235 - Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28063,
@@ -33837,7 +33837,7 @@
     "Title": "Clara 21423 - Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28065,
@@ -33849,7 +33849,7 @@
     "Title": "Clara 12 - Profesionálna a špičková asistentka prepisovania obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28067,
@@ -33861,7 +33861,7 @@
     "Title": "Clara 12345 6 - Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Tiêu đề nội dung bạn viết\\\",\\\"OptionValue\\\":\\\"Tiêu đề nội dung bạn viết\\\"},{\\\"OptionLabel\\\":\\\" nhập vào\\\",\\\"OptionValue\\\":\\\" nhập vào\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldOptions\": [ { \"OptionLabel\": \"Názov obsahu, ktorý píšete\", \"OptionValue\": \"Názov obsahu, ktorý píšete\" }, { \"OptionLabel\": \"vstup\", \"OptionValue\": \"vstup\" } ] }]"
   },
   {
     "ID": 28069,
@@ -33873,7 +33873,7 @@
     "Title": "Clara ABC 123 - Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28071,
@@ -33885,7 +33885,7 @@
     "Title": "Clara ABC 234 5- Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28073,
@@ -33897,7 +33897,7 @@
     "Title": "ABC 567",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"ABC 567 3\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ABC 567 fd\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ABC 567 fd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"ABC 567\", \"FieldValue\": null, \"FieldPlaceholder\": \"ABC 567\", \"FieldOptions\": [ { \"OptionValue\": \"ABC 567\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"ABC 567 3\", \"FieldValue\": null, \"FieldPlaceholder\": \"ABC 567 fd\", \"FieldOptions\": [ { \"OptionValue\": \"ABC 567 fd\" } ] }]"
   },
   {
     "ID": 28082,
@@ -33909,7 +33909,7 @@
     "Title": "Pán SIX, odborník, ktorý vám pomôže robiť inteligentné rozhodnutia so 6 klobúkmi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"giai-quyet-van-de\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"kinh-doanh\",\"Community\":null},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"ra-quyet-dinh\",\"Community\":\"phat-trien-ban-than\"},{\"Category\":\"tro-ly-phoi-hop\",\"Community\":\"vai-tro\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Vyberte klobúk, ktorý chcete analyzovať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Biely klobúk – dáta a realita\", \"OptionValue\": \"Biely klobúk – dáta a realita\" }, { \"OptionLabel\": \"Red Hat - Emócie a intuícia\", \"OptionValue\": \"Red Hat - Emócie a intuícia\" }, { \"OptionLabel\": \"Black Hat - Obtiažnosť a nebezpečenstvo\", \"OptionValue\": \"Black Hat - Obtiažnosť a nebezpečenstvo\" }, { \"OptionLabel\": \"Žltý klobúk – pozitíva a výhody\", \"OptionValue\": \"Žltý klobúk – pozitíva a výhody\" }, { \"OptionLabel\": \"Zelený klobúk – kreativita a nápady\", \"OptionValue\": \"Zelený klobúk – kreativita a nápady\" }, { \"OptionLabel\": \"Modrý klobúk – záver a zhrnutie\", \"OptionValue\": \"Modrý klobúk – záver a zhrnutie\" } ] }]"
   },
   {
     "ID": 28088,
@@ -33921,7 +33921,7 @@
     "Title": "",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28096,
@@ -33933,7 +33933,7 @@
     "Title": "Artica – píšte blogové články, v ktorých predstavíte svoje produkty/služby so štandardmi SEO",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"seo-blog\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Sản phẩm, dịch vụ của bạn là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ví dụ Viên collagen làm trẻ hóa da SkinX\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm đến\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Nhập vào đối tượng khách hàng của bạn\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa bạn muốn SEO\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Aký je váš produkt alebo služba?\", \"FieldValue\": null, \"FieldPlaceholder\": \"napr. SkinX Pleťové omladzujúce kolagénové tablety\", \"FieldOptions\": [ { \"OptionValue\": \"napr. SkinX Pleťové omladzujúce kolagénové tablety\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Vaša cieľová skupina?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Zadajte svoje cieľové publikum\", \"FieldOptions\": [ { \"OptionValue\": \"Zadajte svoje cieľové publikum\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Kľúčové slovo, ktoré chcete SEO\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28104,
@@ -33945,7 +33945,7 @@
     "Title": "Para - Superlative Content Rewriting",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn viết lại như nào?\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\" Viết lại mới\",\"OptionValue\":\"Paraphrasing \"},{\"OptionLabel\":\" Ngắn hơn\",\"OptionValue\":\"Brevity \"},{\"OptionLabel\":\" Dài hơn\",\"OptionValue\":\"Expand \"},{\"OptionLabel\":\" Đơn giản hơn\",\"OptionValue\":\"Simplicity\"},{\"OptionLabel\":\" Chi tiết hơn\",\"OptionValue\":\"Detailing \"},{\"OptionLabel\":\"Tương tác hơn\",\"OptionValue\":\"Engagement \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasion \"},{\"OptionLabel\":\" Thêm dữ liệu\",\"OptionValue\":\"Data \"},{\"OptionLabel\":\" Tinh tế hơn\",\"OptionValue\":\"Sophistication \"},{\"OptionLabel\":\"Chính xác hơn\",\"OptionValue\":\"Accuracy \"},{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"select\",\"FieldLabel\":\"Chọn giọng điệu đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"     null\",\"FieldOptions\":[{\"OptionLabel\":\" Không đổi\",\"OptionValue\":\"Unchanged \"},{\"OptionLabel\":\" Formal\",\"OptionValue\":\"Formalize \"},{\"OptionLabel\":\" Casual\",\"OptionValue\":\"Casualize\"},{\"OptionLabel\":\" Giáo dục\",\"OptionValue\":\"Educational \"},{\"OptionLabel\":\" Hài hước\",\"OptionValue\":\"Humorous \"},{\"OptionLabel\":\" Truyền cảm hứng\",\"OptionValue\":\"Inspirational \"},{\"OptionLabel\":\" Chuyên môn\",\"OptionValue\":\"Authoritative \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Ako by ste chceli prepísať?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Nové prepísanie\", \"OptionValue\": \"Parafrázovanie\" }, { \"OptionLabel\": \"Kratšie\", \"OptionValue\": \"Stručnost\" }, { \"OptionLabel\": \"Dlhšie\", \"OptionValue\": \"Rozbaliť\" }, { \"OptionLabel\": \"Jednoduchšie\", \"OptionValue\": \"Jednoduchosť\" }, { \"OptionLabel\": \"Viac detailov\", \"OptionValue\": \"Detailing\" }, { \"OptionLabel\": \"Interaktívnejšie\", \"OptionValue\": \"Zasnúbenie\" }, { \"OptionLabel\": \"Presvedčiť\", \"OptionValue\": \"Presviedčanie\" }, { \"OptionLabel\": \"Viac údajov\", \"OptionValue\": \"Údaje\" }, { \"OptionLabel\": \"Prepracovanejšie\", \"OptionValue\": \"Sofistikovanosť\" }, { \"OptionLabel\": \"Presnejšie\", \"OptionValue\": \"Presnosť\" }, { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Vyberte tón pasáže\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Nezmenené\", \"OptionValue\": \"Nezmenené\" }, { \"OptionLabel\": \"Formálne\", \"OptionValue\": \"Formalizovať\" }, { \"OptionLabel\": \"Neformálne\", \"OptionValue\": \"Casualize\" }, { \"OptionLabel\": \"Vzdelávanie\", \"OptionValue\": \"Vzdelávacie\" }, { \"OptionLabel\": \"Vtipný\", \"OptionValue\": \"Vtipný\" }, { \"OptionLabel\": \"inšpirovať\", \"OptionValue\": \"Inšpiratívny\" }, { \"OptionLabel\": \"Špecializovať sa\", \"OptionValue\": \"Autoritatívny\" } ] }]"
   },
   {
     "ID": 28116,
@@ -33957,7 +33957,7 @@
     "Title": "Tina – Napíšte 10 najlepších titulkov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Chọn kiểu tiêu đề bạn muốn viết (khuyến nghị: auto)\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" auto\\\",\\\"OptionValue\\\":\\\"auto \\\"},{\\\"OptionLabel\\\":\\\" listicle\\\",\\\"OptionValue\\\":\\\"listicle \\\"},{\\\"OptionLabel\\\":\\\" how-to\\\",\\\"OptionValue\\\":\\\"how-to \\\"},{\\\"OptionLabel\\\":\\\" inspirational\\\",\\\"OptionValue\\\":\\\"inspirational \\\"},{\\\"OptionLabel\\\":\\\" clickbait\\\",\\\"OptionValue\\\":\\\"clickbait \\\"},{\\\"OptionLabel\\\":\\\" question\\\",\\\"OptionValue\\\":\\\"question \\\"},{\\\"OptionLabel\\\":\\\" guide\\\",\\\"OptionValue\\\":\\\"guide \\\"},{\\\"OptionLabel\\\":\\\" mistakes\\\",\\\"OptionValue\\\":\\\"mistakes \\\"},{\\\"OptionLabel\\\":\\\" secrets/tips\\\",\\\"OptionValue\\\":\\\"secrets/tips \\\"},{\\\"OptionLabel\\\":\\\" comparison\\\",\\\"OptionValue\\\":\\\"comparison \\\"},{\\\"OptionLabel\\\":\\\" review\\\",\\\"OptionValue\\\":\\\"review \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Vyberte štýl nadpisu, ktorý chcete napísať (odporúčané: auto)\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"auto\", \"OptionValue\": \"auto\" }, { \"OptionLabel\": \"listikula\", \"OptionValue\": \"listikula\" }, { \"OptionLabel\": \"ako\", \"OptionValue\": \"ako\" }, { \"OptionLabel\": \"inšpiratívny\", \"OptionValue\": \"inšpiratívny\" }, { \"OptionLabel\": \"clickbait\", \"OptionValue\": \"clickbait\" }, { \"OptionLabel\": \"otázka\", \"OptionValue\": \"otázka\" }, { \"OptionLabel\": \"sprievodca\", \"OptionValue\": \"sprievodca\" }, { \"OptionLabel\": \"chyby\", \"OptionValue\": \"chyby\" }, { \"OptionLabel\": \"tajomstvá/tipy\", \"OptionValue\": \"tajomstvá/tipy\" }, { \"OptionLabel\": \"porovnanie\", \"OptionValue\": \"porovnanie\" }, { \"OptionLabel\": \"preskúmanie\", \"OptionValue\": \"preskúmanie\" } ] }]"
   },
   {
     "ID": 28123,
@@ -33969,7 +33969,7 @@
     "Title": "BlogPro – Vytvorte profesionálne osnovy pre blogy a články",
     "Usages": 0,
     "Categories": "[{\"Category\":\"blog\",\"Community\":\"seo-blog\"},{\"Category\":\"seo-blog\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Từ khóa, nội dung bạn muốn đưa vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Kľúčové slová, obsah, ktorý chcete zahrnúť\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 28138,
@@ -33981,7 +33981,7 @@
     "Title": "Prehľad Google Analytics",
     "Usages": 0,
     "Categories": "[{\"Category\":\"marketing-tiep-thi\",\"Community\":null},{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "\"\""
+    "Fields": ""
   },
   {
     "ID": 28154,
@@ -33993,7 +33993,7 @@
     "Title": "EssayGPT - Pomocník na písanie popisných esejí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null},{\"Category\":\"sinh-vien\",\"Community\":\"theo-nganh-nghe\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần nội dung chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Počet odsekov, z ktorých chcete vytvoriť hlavnú časť obsahu?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"auto\", \"OptionValue\": \"auto\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28158,
@@ -34005,7 +34005,7 @@
     "Title": "EssayGPT – pomocník pri písaní esejí s argumentmi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn bạn muốn tạo phần chính?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Počet odsekov, ktoré chcete vytvoriť v hlavnom texte?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"auto\", \"OptionValue\": \"auto\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28161,
@@ -34017,7 +34017,7 @@
     "Title": "EssayGPT - Pomocník pri písaní naratívnych esejí",
     "Usages": 0,
     "Categories": "[{\"Category\":\"bai-luan-essay\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"giao-duc\",\"Community\":null},{\"Category\":\"hoc-tap\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Số đoạn văn phần chính bạn muốn tạo\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"auto\\\",\\\"OptionValue\\\":\\\"auto\\\"},{\\\"OptionLabel\\\":\\\"3\\\",\\\"OptionValue\\\":\\\"3\\\"},{\\\"OptionLabel\\\":\\\"4\\\",\\\"OptionValue\\\":\\\"4\\\"},{\\\"OptionLabel\\\":\\\"5\\\",\\\"OptionValue\\\":\\\"5\\\"},{\\\"OptionLabel\\\":\\\"6\\\",\\\"OptionValue\\\":\\\"6\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Počet hlavných odsekov, ktoré chcete vytvoriť\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"auto\", \"OptionValue\": \"auto\" }, { \"OptionLabel\": \"3\", \"OptionValue\": \"3\" }, { \"OptionLabel\": \"4\", \"OptionValue\": \"4\" }, { \"OptionLabel\": \"5\", \"OptionValue\": \"5\" }, { \"OptionLabel\": \"6\", \"OptionValue\": \"6\" } ] }]"
   },
   {
     "ID": 28171,
@@ -34029,7 +34029,7 @@
     "Title": "Para - Asistent písania odsekov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Phong cách viết cho đoạn văn\",\"FieldValue\":null,\"FieldPlaceholder\":\"null\",\"FieldOptions\":[{\"OptionLabel\":\"auto\",\"OptionValue\":\"auto\"},{\"OptionLabel\":\"formal\",\"OptionValue\":\"formal\"},{\"OptionLabel\":\"informal\",\"OptionValue\":\"informal\"},{\"OptionLabel\":\" Đàm thoại\",\"OptionValue\":\"conversational\"},{\"OptionLabel\":\" Mô tả\",\"OptionValue\":\"Descriptive \"},{\"OptionLabel\":\" Kể chuyện\",\"OptionValue\":\"Narrative \"},{\"OptionLabel\":\" Sáng tạo\",\"OptionValue\":\"Creative \"},{\"OptionLabel\":\" Thuyết phục\",\"OptionValue\":\"Persuasive \"},{\"OptionLabel\":\" Có dữ liệu\",\"OptionValue\":\"Statistic \"},{\"OptionLabel\":\" Hướng dẫn\",\"OptionValue\":\"Instruction \"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Štýl písania odsekov\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"auto\", \"OptionValue\": \"auto\" }, { \"OptionLabel\": \"formálne\", \"OptionValue\": \"formálne\" }, { \"OptionLabel\": \"neformálne\", \"OptionValue\": \"neformálne\" }, { \"OptionLabel\": \"Konverzácia\", \"OptionValue\": \"konverzačný\" }, { \"OptionLabel\": \"Popíšte\", \"OptionValue\": \"Opisný\" }, { \"OptionLabel\": \"Rozprávanie príbehov\", \"OptionValue\": \"Rozprávanie\" }, { \"OptionLabel\": \"Kreatívne\", \"OptionValue\": \"Kreatívne\" }, { \"OptionLabel\": \"Presvedčiť\", \"OptionValue\": \"Presvedčivé\" }, { \"OptionLabel\": \"Existujú údaje\", \"OptionValue\": \"Štatistika\" }, { \"OptionLabel\": \"Inštruovať\", \"OptionValue\": \"Inštrukcia\" } ] }]"
   },
   {
     "ID": 28174,
@@ -34041,7 +34041,7 @@
     "Title": "Para - asistent napísať ÚVOD k článku",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28178,
@@ -34053,7 +34053,7 @@
     "Title": "Para - asistent napísať ZÁVER k článku",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"viet-blog-bai-viet\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn kêu gọi hành động (CTA) gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\" null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Bình luận\\\",\\\"OptionValue\\\":\\\"Comment \\\"},{\\\"OptionLabel\\\":\\\" Đăng ký\\\",\\\"OptionValue\\\":\\\"Subscribe \\\"},{\\\"OptionLabel\\\":\\\" Chia sẻ\\\",\\\"OptionValue\\\":\\\"Share \\\"},{\\\"OptionLabel\\\":\\\" Đọc thêm bài khác\\\",\\\"OptionValue\\\":\\\"Read More \\\"},{\\\"OptionLabel\\\":\\\" Mua sản phẩm\\\",\\\"OptionValue\\\":\\\"Purchase \\\"},{\\\"OptionLabel\\\":\\\" Tải miễn phí\\\",\\\"OptionValue\\\":\\\"Download \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Akú výzvu na akciu (CTA) chcete?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Komentujte\", \"OptionValue\": \"Komentujte\" }, { \"OptionLabel\": \"Registrovať\", \"OptionValue\": \"Prihlásiť sa na odber\" }, { \"OptionLabel\": \"zdieľam\", \"OptionValue\": \"zdieľam\" }, { \"OptionLabel\": \"Prečítajte si ďalšie články\", \"OptionValue\": \"Čítaj viac\" }, { \"OptionLabel\": \"Kúpiť produkt\", \"OptionValue\": \"Nákup\" }, { \"OptionLabel\": \"Bezplatné stiahnutie\", \"OptionValue\": \"Stiahnuť ▼\" } ] }]"
   },
   {
     "ID": 28189,
@@ -34065,7 +34065,7 @@
     "Title": "Pán SIX 123, odborník, ktorý vám pomôže robiť inteligentné rozhodnutia so 6 klobúkmi",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"Chọn chiếc mũ bạn muốn phân tích\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"fieldmap\":\"undefined\",\"FieldOptions\":[{\"OptionLabel\":\"Mũ Trắng Dữ liệu và Thực tế\",\"OptionValue\":\"Mũ Trắng Dữ liệu và Thực tế\"},{\"OptionLabel\":\"Đỏ Cảm xúc và Trực giác\",\"OptionValue\":\"Đỏ Cảm xúc và Trực giác\"},{\"OptionLabel\":\" Đen Khó khăn và Nguy hiểm\",\"OptionValue\":\" Đen Khó khăn và Nguy hiểm\"},{\"OptionLabel\":\"Vàng Tích cực và Lợi ích\",\"OptionValue\":\"Vàng Tích cực và Lợi ích\"},{\"OptionLabel\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\",\"OptionValue\":\"Mũ Xanh Lá Sáng tạo và Ý tưởng\"},{\"OptionLabel\":\"Mũ Xanh Dương Suy luận và Tổng kết\",\"OptionValue\":\"Mũ Xanh Dương Suy luận và Tổng kết\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Hi\",\"FieldValue\":null,\"FieldPlaceholder\":\"    Hi\",\"fieldmap\":\"company\",\"FieldOptions\":[{\"OptionLabel\":\"   Hi\",\"OptionValue\":\"   Hi\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"textarea\",\"FieldLabel\":\"Three\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Three\",\"fieldmap\":\"address\",\"FieldOptions\":[{\"OptionLabel\":\" Three\",\"OptionValue\":\" Three\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Vyberte klobúk, ktorý chcete analyzovať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"fieldmap\": \"undefined\", \"FieldOptions\": [ { \"OptionLabel\": \"Údaje a realita bieleho klobúka\", \"OptionValue\": \"Údaje a realita bieleho klobúka\" }, { \"OptionLabel\": \"Červená emócia a intuícia\", \"OptionValue\": \"Červená emócia a intuícia\" }, { \"OptionLabel\": \"Čierna ťažká a nebezpečná\", \"OptionValue\": \"Čierna ťažká a nebezpečná\" }, { \"OptionLabel\": \"Pozitívne zlato a výhody\", \"OptionValue\": \"Pozitívne zlato a výhody\" }, { \"OptionLabel\": \"Zelené klobúky Kreativita a nápady\", \"OptionValue\": \"Zelené klobúky Kreativita a nápady\" }, { \"OptionLabel\": \"Blue Hat Inferencia a zhrnutie\", \"OptionValue\": \"Blue Hat Inferencia a zhrnutie\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Ahoj\", \"FieldValue\": null, \"FieldPlaceholder\": \"Ahoj\", \"fieldmap\": \"company\", \"FieldOptions\": [ { \"OptionLabel\": \"Ahoj\", \"OptionValue\": \"Ahoj\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"textarea\", \"FieldLabel\": \"Tri\", \"FieldValue\": null, \"FieldPlaceholder\": \"Tri\", \"fieldmap\": \"address\", \"FieldOptions\": [ { \"OptionLabel\": \"Tri\", \"OptionValue\": \"Tri\" } ] }]"
   },
   {
     "ID": 28201,
@@ -34077,7 +34077,7 @@
     "Title": "Clara ABC 234 6- Super profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":null}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }]"
   },
   {
     "ID": 28203,
@@ -34089,7 +34089,7 @@
     "Title": "Clara ABC 234 65- Profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-thi-truong\",\"Community\":\"marketing-tiep-thi\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":null},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"sdfdsfd dfds \",\"FieldValue\":null,\"FieldPlaceholder\":\"dsf\",\"FieldOptions\":[{\"OptionLabel\":\"dsf\",\"OptionValue\":\"dsf\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": null }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"sdfdsfd dfds\", \"FieldValue\": null, \"FieldPlaceholder\": \"dsf\", \"FieldOptions\": [ { \"OptionLabel\": \"dsf\", \"OptionValue\": \"dsf\" } ] }]"
   },
   {
     "ID": 28217,
@@ -34101,7 +34101,7 @@
     "Title": "Test [PROMPT]",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"sadfsd\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"asd\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"asd\\\",\\\"OptionValue\\\":\\\"asd\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"sadfsd\", \"FieldValue\": null, \"FieldPlaceholder\": \"asd\", \"FieldOptions\": [ { \"OptionLabel\": \"asd\", \"OptionValue\": \"asd\" } ] }]"
   },
   {
     "ID": 28219,
@@ -34113,7 +34113,7 @@
     "Title": "Clara ABC 123 1666666 – Profesionálny a špičkový pomocník na prepisovanie obsahu – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"  rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28223,
@@ -34125,7 +34125,7 @@
     "Title": "Clara ABC 123 3666666 – Profesionálny a špičkový pomocník na prepisovanie obsahu – VIP",
     "Usages": 0,
     "Categories": "[{\"Category\":\"undefined\",\"Community\":\"undefined\"}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Tiêu đề nội dung bạn viết, nhập vào\",\"FieldValue\":null,\"FieldPlaceholder\":\"    rdrt\",\"FieldOptions\":[{\"OptionLabel\":\"rdrt\",\"OptionValue\":\"rdrt\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"checkbox\",\"FieldLabel\":\"erte\",\"FieldValue\":null,\"FieldPlaceholder\":\"    null\",\"FieldOptions\":[{\"OptionLabel\":\"erter\",\"OptionValue\":\"erter\"},{\"OptionLabel\":\"ttr\",\"OptionValue\":\"ttr\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28228,
@@ -34137,7 +34137,7 @@
     "Title": "Clara ABC 123 21666666 - Super profesionálny a špičkový pomocník na prepisovanie obsahu - VIP",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tiêu đề nội dung bạn viết, nhập vào\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   rdrt\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"rdrt\\\",\\\"OptionValue\\\":\\\"rdrt\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"erte\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"erter\\\",\\\"OptionValue\\\":\\\"erter\\\"},{\\\"OptionLabel\\\":\\\"ttr\\\",\\\"OptionValue\\\":\\\"ttr\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Zadajte názov obsahu, ktorý píšete\", \"FieldValue\": null, \"FieldPlaceholder\": \"rdrt\", \"FieldOptions\": [ { \"OptionLabel\": \"rdrt\", \"OptionValue\": \"rdrt\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"erte\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"erter\", \"OptionValue\": \"erter\" }, { \"OptionLabel\": \"ttr\", \"OptionValue\": \"ttr\" } ] }]"
   },
   {
     "ID": 28239,
@@ -34149,7 +34149,7 @@
     "Title": "Pán múdry, pomôžte vám každý deň pozdvihnúť sa pomocou MOCNÝCH OTÁZOK",
     "Usages": 0,
     "Categories": "[{\"Category\":\"hang-ngay\",\"Community\":null},{\"Category\":\"huan-luyen-vien\",\"Community\":\"vai-tro\"},{\"Category\":\"phat-trien-ban-than\",\"Community\":null},{\"Category\":\"vai-tro\",\"Community\":null}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28284,
@@ -34161,7 +34161,7 @@
     "Title": "Pán Kool - Majster flirtovania",
     "Usages": 0,
     "Categories": "[{\"Category\":\"giai-tri\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Bạn muốn Mr Kool:\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"  null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" 1. Chia sẻ bí quyết\\\",\\\"OptionValue\\\":\\\"1. Chia sẻ bí quyết \\\"},{\\\"OptionLabel\\\":\\\" 2. Hỗ trợ 1 tình huống \\\",\\\"OptionValue\\\":\\\"2. Hỗ trợ 1 tình huống \\\"},{\\\"OptionLabel\\\":\\\" 3. Trả lời 1 câu nói\\\",\\\"OptionValue\\\":\\\"3. Trả lời 1 câu nói \\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Tình huống bạn gặp là gì?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Cô ấy nói điều gì với bạn?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"       Mr Kool sẽ giúp bạn trả lời \\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Mr Kool sẽ giúp bạn trả lời \\\"cool\\\" nhất\\\"}]}]\""
+    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn Mr Kool:\",\"FieldValue\":null,\"FieldPlaceholder\":\" null\",\"FieldOptions\":[{\"OptionLabel\":\" 1. Chia sẻ bí quyết\",\"OptionValue\":\"1. Chia sẻ bí quyết \"},{\"OptionLabel\":\" 2. Hỗ trợ 1 tình huống \",\"OptionValue\":\"2. Hỗ trợ 1 tình huống \"},{\"OptionLabel\":\" 3. Trả lời 1 câu nói\",\"OptionValue\":\"3. Trả lời 1 câu nói \"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình huống bạn gặp là gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\",\"FieldOptions\":[{\"OptionValue\":\"Chia sẻ tình huống bạn muốn mr Kool hỗ trợ\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Cô ấy nói điều gì với bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Mr Kool sẽ giúp bạn trả lời \",\"FieldOptions\":[{\"OptionValue\":\"Mr Kool sẽ giúp bạn trả lời \"cool\" nhất\"}]}]"
   },
   {
     "ID": 28316,
@@ -34209,7 +34209,7 @@
     "Title": "Tina – Napíšte 10 clickbaitových nadpisov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tieu-de-copywriting-viet-lach\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28329,
@@ -34221,7 +34221,7 @@
     "Title": "Sumy – Inteligentne prispôsobiteľný súhrn obsahu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"tien-ich\",\"Community\":null},{\"Category\":\"tom-tat\",\"Community\":\"tien-ich\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"number\\\",\\\"FieldLabel\\\":\\\"Số lượng\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"auto, 1,2,3,4,5,6,7,8,9,10\\\"}]},{\\\"FieldID\\\":\\\"FIELD2\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại tóm tắt\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"ý chính (takeaways), ý (points), đoạn văn, câu\\\"}]},{\\\"FieldID\\\":\\\"FIELD3\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Tùy chọn Emoji\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionValue\\\":\\\"Có emoji ở đầu, không có emoji\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"number\", \"FieldLabel\": \"Množstvo\", \"FieldValue\": null, \"FieldPlaceholder\": \"auto, 1,2,3,4,5,6,7,8,9,10\", \"FieldOptions\": [ { \"OptionValue\": \"auto, 1,2,3,4,5,6,7,8,9,10\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"select\", \"FieldLabel\": \"Typ súhrnu\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionValue\": \"hlavné myšlienky (takeaways), body (body), odseky, vety\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Možnosť Emoji\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionValue\": \"S emodži navrchu, bez emotikonov\" } ] }]"
   },
   {
     "ID": 28341,
@@ -34245,7 +34245,7 @@
     "Title": "Sonia – 10 vlákien a nápadov na príspevky na Twitteri",
     "Usages": 0,
     "Categories": "[{\"Category\":\"social-media\",\"Community\":null},{\"Category\":\"twitter\",\"Community\":\"social-media\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 28373,
@@ -34257,7 +34257,7 @@
     "Title": "Adela – dokonalá asistentka pri písaní 10 výziev na akciu (CTA).",
     "Usages": 0,
     "Categories": "[{\"Category\":\"landing-page\",\"Community\":\"copywriting-viet-lach\"},{\"Category\":\"copywriting-viet-lach\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Thương hiệu, tên sản phẩm của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Khách hàng bạn nhắm tới là ai?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"select\",\"FieldLabel\":\"Bạn muốn họ có hành động gì?\",\"FieldValue\":null,\"FieldPlaceholder\":\"  null\",\"FieldOptions\":[{\"OptionLabel\":\"Mua sản phẩm/dịch vụ\",\"OptionValue\":\"Mua sản phẩm/dịch vụ\"},{\"OptionLabel\":\" Tải về\",\"OptionValue\":\" Tải về\"},{\"OptionLabel\":\" Nhận báo giá\",\"OptionValue\":\" Nhận báo giá\"},{\"OptionLabel\":\" Đăng ký kênh và chia sẻ\",\"OptionValue\":\" Đăng ký kênh và chia sẻ\"},{\"OptionLabel\":\" Bình luận\",\"OptionValue\":\" Bình luận\"},{\"OptionLabel\":\" Liên hệ\",\"OptionValue\":\" Liên hệ\"},{\"OptionLabel\":\" Nhận ưu đãi\",\"OptionValue\":\" Nhận ưu đãi\"}]},{\"FieldID\":\"FIELD4\",\"FieldType\":\"text\",\"FieldLabel\":\"Đường link website, fanpage, liên kết CTA\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionValue\":\"\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Vaša značka, názov produktu?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Kto sú vaši cieľoví zákazníci?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"select\", \"FieldLabel\": \"Aké opatrenia chcete, aby podnikli?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Nakupujte produkty/služby\", \"OptionValue\": \"Nakupujte produkty/služby\" }, { \"OptionLabel\": \"Stiahnuť ▼\", \"OptionValue\": \"Stiahnuť ▼\" }, { \"OptionLabel\": \"Dostat ponuku\", \"OptionValue\": \"Dostat ponuku\" }, { \"OptionLabel\": \"Prihláste sa na odber kanála a zdieľajte\", \"OptionValue\": \"Prihláste sa na odber kanála a zdieľajte\" }, { \"OptionLabel\": \"Komentujte\", \"OptionValue\": \"Komentujte\" }, { \"OptionLabel\": \"Kontakt\", \"OptionValue\": \"Kontakt\" }, { \"OptionLabel\": \"Získajte ponuky\", \"OptionValue\": \"Získajte ponuky\" } ] }, { \"FieldID\": \"FIELD4\", \"FieldType\": \"text\", \"FieldLabel\": \"Odkaz na webovú stránku, fanpage, CTA odkaz\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionValue\": \"\" } ] }]"
   },
   {
     "ID": 31756,
@@ -34281,7 +34281,7 @@
     "Title": "[KNIHA] 1.1 – Napíšte 10 nových názvov pre svoju knihu",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"book-ebook\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75691,
@@ -34305,7 +34305,7 @@
     "Title": "6 klobúkov - inteligentný riešiteľ problémov so 6 klobúkmi",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Vyberte klobúk, ktorý chcete analyzovať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Biely klobúk – dáta a realita\", \"OptionValue\": \"Biely klobúk – dáta a realita\" }, { \"OptionLabel\": \"Red Hat - Emócie a intuícia\", \"OptionValue\": \"Red Hat - Emócie a intuícia\" }, { \"OptionLabel\": \"Black Hat - Obtiažnosť a nebezpečenstvo\", \"OptionValue\": \"Black Hat - Obtiažnosť a nebezpečenstvo\" }, { \"OptionLabel\": \"Žltý klobúk – pozitíva a výhody\", \"OptionValue\": \"Žltý klobúk – pozitíva a výhody\" }, { \"OptionLabel\": \"Zelený klobúk – kreativita a nápady\", \"OptionValue\": \"Zelený klobúk – kreativita a nápady\" }, { \"OptionLabel\": \"Modrý klobúk – záver a zhrnutie\", \"OptionValue\": \"Modrý klobúk – záver a zhrnutie\" } ] }]"
   },
   {
     "ID": 75700,
@@ -34317,7 +34317,7 @@
     "Title": "6 klobúkov - inteligentný riešiteľ problémov so 6 klobúkmi",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Vyberte klobúk, ktorý chcete analyzovať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Biely klobúk – dáta a realita\", \"OptionValue\": \"Biely klobúk – dáta a realita\" }, { \"OptionLabel\": \"Red Hat - Emócie a intuícia\", \"OptionValue\": \"Red Hat - Emócie a intuícia\" }, { \"OptionLabel\": \"Black Hat - Obtiažnosť a nebezpečenstvo\", \"OptionValue\": \"Black Hat - Obtiažnosť a nebezpečenstvo\" }, { \"OptionLabel\": \"Žltý klobúk – pozitíva a výhody\", \"OptionValue\": \"Žltý klobúk – pozitíva a výhody\" }, { \"OptionLabel\": \"Zelený klobúk – kreativita a nápady\", \"OptionValue\": \"Zelený klobúk – kreativita a nápady\" }, { \"OptionLabel\": \"Modrý klobúk – záver a zhrnutie\", \"OptionValue\": \"Modrý klobúk – záver a zhrnutie\" } ] }]"
   },
   {
     "ID": 75702,
@@ -34329,7 +34329,7 @@
     "Title": "6 klobúkov - inteligentný riešiteľ problémov so 6 klobúkmi",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"checkbox\\\",\\\"FieldLabel\\\":\\\"Chọn chiếc mũ bạn muốn phân tích\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\" Mũ Trắng - Dữ liệu và Thực tế\\\",\\\"OptionValue\\\":\\\"Mũ Trắng - Dữ liệu và Thực tế \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đỏ - Cảm xúc và Trực giác\\\",\\\"OptionValue\\\":\\\"Mũ Đỏ - Cảm xúc và Trực giác \\\"},{\\\"OptionLabel\\\":\\\" Mũ Đen - Khó khăn và Nguy hiểm\\\",\\\"OptionValue\\\":\\\"Mũ Đen - Khó khăn và Nguy hiểm \\\"},{\\\"OptionLabel\\\":\\\" Mũ Vàng - Tích cực và Lợi ích\\\",\\\"OptionValue\\\":\\\"Mũ Vàng - Tích cực và Lợi ích \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Lá - Sáng tạo và Ý tưởng\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Lá - Sáng tạo và Ý tưởng \\\"},{\\\"OptionLabel\\\":\\\" Mũ Xanh Dương - Suy luận và Tổng kết\\\",\\\"OptionValue\\\":\\\"Mũ Xanh Dương - Suy luận và Tổng kết \\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"checkbox\", \"FieldLabel\": \"Vyberte klobúk, ktorý chcete analyzovať\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Biely klobúk – dáta a realita\", \"OptionValue\": \"Biely klobúk – dáta a realita\" }, { \"OptionLabel\": \"Red Hat - Emócie a intuícia\", \"OptionValue\": \"Red Hat - Emócie a intuícia\" }, { \"OptionLabel\": \"Black Hat - Obtiažnosť a nebezpečenstvo\", \"OptionValue\": \"Black Hat - Obtiažnosť a nebezpečenstvo\" }, { \"OptionLabel\": \"Žltý klobúk – pozitíva a výhody\", \"OptionValue\": \"Žltý klobúk – pozitíva a výhody\" }, { \"OptionLabel\": \"Zelený klobúk – kreativita a nápady\", \"OptionValue\": \"Zelený klobúk – kreativita a nápady\" }, { \"OptionLabel\": \"Modrý klobúk – záver a zhrnutie\", \"OptionValue\": \"Modrý klobúk – záver a zhrnutie\" } ] }]"
   },
   {
     "ID": 75739,
@@ -34341,7 +34341,7 @@
     "Title": "sťahovanie balíkov",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75759,
@@ -34353,7 +34353,7 @@
     "Title": "Kompletné sťahovacie služby",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"\\\",\\\"FieldOptions\\\":\\\"\\\"}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": \"\" }]"
   },
   {
     "ID": 75779,
@@ -34365,7 +34365,7 @@
     "Title": "Miba - Odborné poradenstvo pre podnikateľský plán",
     "Usages": 0,
     "Categories": "[{\"Category\":\"chu-doanh-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"ke-hoach-nang-suat\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Kế hoạch bạn lên trong vòng bao lâu?\",\"FieldValue\":null,\"FieldPlaceholder\":\"\",\"FieldOptions\":[{\"OptionLabel\":\"\",\"OptionValue\":\"\"}]},{\"FieldID\":\"FIELD2\",\"FieldType\":\"text\",\"FieldLabel\":\"Tình hình và kết quả kinh doanh hiện tại của bạn?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Nhập vào tình hình chi tiết\",\"FieldOptions\":[{\"OptionLabel\":\"Nhập vào tình hình chi tiết\",\"OptionValue\":\"Nhập vào tình hình chi tiết\"}]},{\"FieldID\":\"FIELD3\",\"FieldType\":\"text\",\"FieldLabel\":\"Nguồn lực hiện tại bạn có?\",\"FieldValue\":null,\"FieldPlaceholder\":\" Ngân sách, nhân sự triển khai v.v\",\"FieldOptions\":[{\"OptionLabel\":\"Ngân sách\",\"OptionValue\":\"Ngân sách\"},{\"OptionLabel\":\" nhân sự triển khai v.v\",\"OptionValue\":\" nhân sự triển khai v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Ako dlho plánujete zostať?\", \"FieldValue\": null, \"FieldPlaceholder\": \"\", \"FieldOptions\": [ { \"OptionLabel\": \"\", \"OptionValue\": \"\" } ] }, { \"FieldID\": \"FIELD2\", \"FieldType\": \"text\", \"FieldLabel\": \"Aká je vaša súčasná obchodná situácia a výsledky?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Zadajte podrobnú situáciu\", \"FieldOptions\": [ { \"OptionLabel\": \"Zadajte podrobnú situáciu\", \"OptionValue\": \"Zadajte podrobnú situáciu\" } ] }, { \"FieldID\": \"FIELD3\", \"FieldType\": \"text\", \"FieldLabel\": \"Aké zdroje v súčasnosti máte?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Rozpočet, personálna realizácia atď\", \"FieldOptions\": [ { \"OptionLabel\": \"Rozpočet\", \"OptionValue\": \"Rozpočet\" }, { \"OptionLabel\": \"personál nasadenia atď\", \"OptionValue\": \"personál nasadenia atď\" } ] }]"
   },
   {
     "ID": 75786,
@@ -34377,7 +34377,7 @@
     "Title": "Miba - Odborné poradenstvo pre podnikateľské nápady",
     "Usages": 0,
     "Categories": "[{\"Category\":\"khoi-nghiep\",\"Community\":\"kinh-doanh\"},{\"Category\":\"kinh-doanh\",\"Community\":null}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Bạn có thể mô tả rõ hơn nữa không? \\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"Khách hàng, Giá bán, Chiến lược tăng trưởng v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Khách hàng\\\",\\\"OptionValue\\\":\\\"Khách hàng\\\"},{\\\"OptionLabel\\\":\\\" Giá bán\\\",\\\"OptionValue\\\":\\\" Giá bán\\\"},{\\\"OptionLabel\\\":\\\" Chiến lược tăng trưởng v.v\\\",\\\"OptionValue\\\":\\\" Chiến lược tăng trưởng v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Môžete to popísať jasnejšie?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Zákazníci, cena, stratégia rastu atď\", \"FieldOptions\": [ { \"OptionLabel\": \"Zákazník\", \"OptionValue\": \"Zákazník\" }, { \"OptionLabel\": \"cena\", \"OptionValue\": \"cena\" }, { \"OptionLabel\": \"Stratégia rastu atď\", \"OptionValue\": \"Stratégia rastu atď\" } ] }]"
   },
   {
     "ID": 75790,
@@ -34389,7 +34389,7 @@
     "Title": "Clara - Komentujte a prepisujte odborný obsah",
     "Usages": 0,
     "Categories": "[{\"Category\":\"copywriting-viet-lach\",\"Community\":null},{\"Category\":\"tro-ly\",\"Community\":\"vai-tro\"},{\"Category\":\"viet-lai-moi\",\"Community\":\"copywriting-viet-lach\"}]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"select\\\",\\\"FieldLabel\\\":\\\"Loại nội dung nào bạn muốn góp ý?\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"null\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"Bài viết\\\",\\\"OptionValue\\\":\\\"Bài viết\\\"},{\\\"OptionLabel\\\":\\\" Quảng cáo\\\",\\\"OptionValue\\\":\\\" Quảng cáo\\\"},{\\\"OptionLabel\\\":\\\" Social Media\\\",\\\"OptionValue\\\":\\\" Social Media\\\"},{\\\"OptionLabel\\\":\\\" Kịch bản video\\\",\\\"OptionValue\\\":\\\" Kịch bản video\\\"},{\\\"OptionLabel\\\":\\\" Email\\\",\\\"OptionValue\\\":\\\" Email\\\"},{\\\"OptionLabel\\\":\\\" Thể loại khác\\\",\\\"OptionValue\\\":\\\" Thể loại khác\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"select\", \"FieldLabel\": \"Aký typ obsahu by ste chceli komentovať?\", \"FieldValue\": null, \"FieldPlaceholder\": \"nulový\", \"FieldOptions\": [ { \"OptionLabel\": \"Príspevky\", \"OptionValue\": \"Príspevky\" }, { \"OptionLabel\": \"Reklama\", \"OptionValue\": \"Reklama\" }, { \"OptionLabel\": \"Sociálne médiá\", \"OptionValue\": \"Sociálne médiá\" }, { \"OptionLabel\": \"Video skript\", \"OptionValue\": \"Video skript\" }, { \"OptionLabel\": \"Email\", \"OptionValue\": \"Email\" }, { \"OptionLabel\": \"Iný typ\", \"OptionValue\": \"Iný typ\" } ] }]"
   },
   {
     "ID": 75813,
@@ -34401,7 +34401,7 @@
     "Title": "Clio – Porozumenie zákazníckemu pohľadu, objektívu produktu/služby od zákazníkov",
     "Usages": 0,
     "Categories": "[{\"Category\":\"nghien-cuu-khach-hang\",\"Community\":\"marketing-tiep-thi\"},{\"Category\":\"marketing-tiep-thi\",\"Community\":null}]",
-    "Fields": "[{\"FieldID\":\"FIELD1\",\"FieldType\":\"text\",\"FieldLabel\":\"Đối tượng khách hàng bạn nhắm tới\",\"FieldValue\":null,\"FieldPlaceholder\":\"  Độ tuổi, giới tính, thu nhập v.v\",\"fieldmap\":\"customertaget\",\"FieldOptions\":[{\"OptionLabel\":\"  Độ tuổi\",\"OptionValue\":\"  Độ tuổi\"},{\"OptionLabel\":\" giới tính\",\"OptionValue\":\" giới tính\"},{\"OptionLabel\":\" thu nhập v.v\",\"OptionValue\":\" thu nhập v.v\"}]}]"
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Vaša cieľová skupina?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Vek, pohlavie, príjem atď\", \"fieldmap\": \"customertaget\", \"FieldOptions\": [ { \"OptionLabel\": \"Vek\", \"OptionValue\": \"Vek\" }, { \"OptionLabel\": \"sex\", \"OptionValue\": \"sex\" }, { \"OptionLabel\": \"príjem atď\", \"OptionValue\": \"príjem atď\" } ] }]"
   },
   {
     "ID": 75822,
@@ -34413,7 +34413,7 @@
     "Title": "HR - Profesionálny náborový asistent: 10 otázok pre kandidátov",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[]\""
+    "Fields": "[]"
   },
   {
     "ID": 75848,
@@ -34425,6 +34425,6 @@
     "Title": "Clio – Porozumenie zákazníckemu pohľadu, objektívu produktu/služby od zákazníkov",
     "Usages": 0,
     "Categories": "[]",
-    "Fields": "\"[{\\\"FieldID\\\":\\\"FIELD1\\\",\\\"FieldType\\\":\\\"text\\\",\\\"FieldLabel\\\":\\\"Đối tượng khách hàng bạn nhắm tới\\\",\\\"FieldValue\\\":null,\\\"FieldPlaceholder\\\":\\\"   Độ tuổi, giới tính, thu nhập v.v\\\",\\\"FieldOptions\\\":[{\\\"OptionLabel\\\":\\\"  Độ tuổi\\\",\\\"OptionValue\\\":\\\"  Độ tuổi\\\"},{\\\"OptionLabel\\\":\\\" giới tính\\\",\\\"OptionValue\\\":\\\" giới tính\\\"},{\\\"OptionLabel\\\":\\\" thu nhập v.v\\\",\\\"OptionValue\\\":\\\" thu nhập v.v\\\"}]}]\""
+    "Fields": "[ { \"FieldID\": \"FIELD1\", \"FieldType\": \"text\", \"FieldLabel\": \"Vaša cieľová skupina?\", \"FieldValue\": null, \"FieldPlaceholder\": \"Vek, pohlavie, príjem atď\", \"FieldOptions\": [ { \"OptionLabel\": \"Vek\", \"OptionValue\": \"Vek\" }, { \"OptionLabel\": \"sex\", \"OptionValue\": \"sex\" }, { \"OptionLabel\": \"príjem atď\", \"OptionValue\": \"príjem atď\" } ] }]"
   }
 ]
